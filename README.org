@@ -1,16 +1,16 @@
 #+TITLE: WIPO-UNISA Intellectual Property Law
-#+LATEX_HEADER: \usepackage{natbib}
-#+LATEX_HEADER: \usepackage{usebib}
-#+LATEX_HEADER: \bibinput{~/course/training/csir/novellasers/bibliography/bibliography.bib}
+#+LATEX_HEADER: \usepackage[backend=bibtex, style=numeric]{biblatex}
+#+LATEX_HEADER: \addbibresource{~/course/training/csir/novellasers/bibliography/bibliography.bib}
+#+LATEX_HEADER:   \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
+#+LATEX_HEADER:   \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
 
 * Essential Copyright Law                                           :ipsp01x:
-[citenum:kogelnik66_laser_beams_reson citetitle:kogelnik66_laser_beams_reson]
+cite:kogelnik66_laser_beams_reson citetitle:kogelnik66_laser_beams_reson
 
-#+BEGIN_SRC latex
-\cite{mccreath91_juta_v_dekoker} \usebibentry{mccreath91_juta_v_dekoker}{title}
-#+END_SRC
+cite:corbett95_walite_v_fnb citetitle:corbett95_walite_v_fnb
 
-
-* Bibliography
-  bibliographystyle:unsrt
-  bibliography:~/course/training/csir/novellasers/bibliography/bibliography.bib
+cite:mccreath91_juta_v_dekoker
+* Bibliography                                                       :ignore:
+#+BEGIN_EXPORT latex
+\printbibliography
+#+END_EXPORT

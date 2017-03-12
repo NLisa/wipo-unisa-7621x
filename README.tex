@@ -1,4 +1,4 @@
-% Created 2017-03-12 Sun 12:12
+% Created 2017-03-12 Sun 17:15
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
@@ -14,18 +14,19 @@
 \usepackage{amssymb}
 \usepackage{capt-of}
 \usepackage{hyperref}
-\usepackage{natbib}
-\usepackage{usebib}
-\bibinput{~/course/training/csir/novellasers/bibliography/bibliography.bib}
-\author{Enter the overmind}
+\usepackage[backend=bibtex, style=numeric]{biblatex}
+\addbibresource{~/course/training/csir/novellasers/bibliography/bibliography.bib}
+\DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
+\DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
+\author{Nyameko Lisa}
 \date{\today}
 \title{WIPO-UNISA Intellectual Property Law}
 \hypersetup{
- pdfauthor={Enter the overmind},
+ pdfauthor={Nyameko Lisa},
  pdftitle={WIPO-UNISA Intellectual Property Law},
  pdfkeywords={},
  pdfsubject={},
- pdfcreator={Emacs 25.1.1 (Org mode 9.0.1)}, 
+ pdfcreator={Emacs 26.0.50 (Org mode 9.0.5)},
  pdflang={English}}
 \begin{document}
 
@@ -34,16 +35,11 @@
 
 
 \section{Essential Copyright Law\hfill{}\textsc{ipsp01x}}
-\label{sec:org2b217f4}
-[citenum:kogelnik66\(_{\text{laser}}_{\text{beams}}_{\text{reson}}\) citetitle:kogelnik66\(_{\text{laser}}_{\text{beams}}_{\text{reson}}\)]
+\label{sec:orge3073a6}
+\cite{kogelnik66_laser_beams_reson} \citetitle{kogelnik66_laser_beams_reson}
 
-\begin{verbatim}
-\cite{mccreath91_juta_v_dekoker} \usebibentry{mccreath91_juta_v_dekoker}{title}
-\end{verbatim}
+\cite{corbett95_walite_v_fnb} \citetitle{corbett95_walite_v_fnb}
 
-
-\section{Bibliography}
-\label{sec:org00cda3f}
-bibliographystyle:unsrt
-bibliography:\textasciitilde{}/course/training/csir/novellasers/bibliography/bibliography.bib
+\cite{mccreath91_juta_v_dekoker}
+\printbibliography
 \end{document}
