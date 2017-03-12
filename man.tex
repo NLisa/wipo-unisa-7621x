@@ -1,0 +1,70 @@
+% Created 2017-03-12 Sun 14:23
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\usepackage[backend=bibtex8, style=ieee]{biblatex}
+\addbibresource{~/course/training/csir/novellasers/bibliography/bibliography.bib}
+%Copied from numeric.cbx to imitate numerical citations.
+\providebool{bbx:subentry}
+\newbibmacro*{citenum}{%Note: the original macro was called "cite". I did not redefine "cite", but instead defined a new macro "citenum", because the author-year citations use the "cite" macro too. "\renewbibmacro*{cite}" would have caused all the author-year citations to become numeric too.
+\printtext[bibhyperref]{%If you ever want to use hyperref
+\printfield{prefixnumber}%
+\printfield{labelnumber}%
+\ifbool{bbx:subentry}
+{\printfield{entrysetcount}}
+{}}}
+%Copied from numeric.cbx to define a new numeric citation command for @online entries.
+\DeclareCiteCommand{\citecase}[\mkbibbrackets]
+{\usebibmacro{prenote}}
+{\usebibmacro{citeindex}%
+\usebibmacro{citenum} %Note: this was originally "cite" but I changed it to "citenum" to avoid clashes with the author-year style.
+\setunit{$.$\addspace}
+\usebibmacro{title}
+\setunit{\addspace}
+\usebibmacro{date}
+\setunit{\addspace}
+\printfield{volume}
+\setunit{\addspace}
+\printfield{pages}}
+{\multicitedelim}
+{\usebibmacro{postnote}}
+\DeclareFieldFormat*{citetitle}{\textit{#1}}
+\author{Nyameko Lisa}
+\date{\today}
+\title{WIPO-UNISA Intellectual Property Law}
+\hypersetup{
+ pdfauthor={Nyameko Lisa},
+ pdftitle={WIPO-UNISA Intellectual Property Law},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 26.0.50 (Org mode 9.0.5)},
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+
+\section{Essential Copyright Law\hfill{}\textsc{ipsp01x}}
+\label{sec:org8e170b3}
+\cite{kogelnik66_laser_beams_reson} \citetitle{kogelnik66_laser_beams_reson}
+
+\cite{corbett95_walite_v_fnb} \citetitle{corbett95_walite_v_fnb}
+
+
+\section{Bibliography}
+\label{sec:org2bedc6f}
+\printbibliography
+\end{document}
