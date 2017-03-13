@@ -1,5 +1,5 @@
 #+TITLE: IPSP01X - Essential Copyright Law
-#+SUBTITLE: Assignment 1
+#+SUBTITLE: Assignment 1 - Unique Number: 659072
 * LaTeX Preamble                                                     :ignore:
 #+LATEX_HEADER: \usepackage[backend=bibtex, style=ieee]{biblatex}
 #+LATEX_HEADER: \addbibresource{~/course/training/csir/novellasers/bibliography/bibliography.bib}
@@ -12,8 +12,10 @@
 #+LATEX_HEADER:     {\addcomma\space}}
 #+LATEX_HEADER: \AtEveryCitekey{\ifuseauthor{}{\clearname{author}}}
 #+LATEX_HEADER: \AtEveryBibitem{\ifuseauthor{}{\clearname{author}}}
-
 * Declaration
+  :PROPERTIES:
+   :UNNUMBERED: t
+  :END:
   - I know that plagiarism is to use someone else’s work and pass it off as my own.
   - I know that plagiarism is wrong.
   - I confirm that this assignment is my own work.
@@ -28,8 +30,7 @@
     - Name: *Nyameko Lisa*
     - Email: *Lisa.Nyameko@gmail.com*
     - Student Number: *7874-909-3*
-
-* Question 1
+* Authors of English Study Guide
 cite:corbett95_waylite_v_fnb citetitle:corbett95_waylite_v_fnb
 
 cite:mccreath91_juta_v_dekoker
