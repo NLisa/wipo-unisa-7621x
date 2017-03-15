@@ -1,5 +1,5 @@
-#+TITLE: IPSP01X - Essential Copyright Law
-#+SUBTITLE: Assignment 1
+#+TITLE: Bachelor of Commerce
+#+SUBTITLE: in Law, Accounting and Economics
 * LaTeX Preamble                                                     :ignore:
 #+LATEX_HEADER: \usepackage[backend=bibtex, style=ieee]{biblatex}
 #+LATEX_HEADER: \addbibresource{~/course/training/csir/novellasers/bibliography/bibliography.bib}
@@ -13,30 +13,42 @@
 #+LATEX_HEADER: \AtEveryCitekey{\ifuseauthor{}{\clearname{author}}}
 #+LATEX_HEADER: \AtEveryBibitem{\ifuseauthor{}{\clearname{author}}}
 
-* Declaration
-  - I know that plagiarism is to use someone else’s work and pass it off as my own.
-  - I know that plagiarism is wrong.
-  - I confirm that this assignment is my own work.
-  - I have acknowledged in the bibliography accompanying the assignment all the sources that I have used.
-  - I have not directly copied without acknowledgement anything from the Internet or from any other source.
-  - I have indicated every quotation and citation in a footnote or bracket linked to that quotation.
-  - I have not allowed anyone else to copy my work and to pass it off as their own work.
-  - I understand that if any unacknowledged copying whatsoever appears in my assignment I will receive zero per cent for the assignment.
-  - I am aware of the UNISA policy on plagiarism and understand that disciplinary proceedings can be instituted against me by UNISA if I contravene this policy.
-  - I indicate my understanding and acceptance of this declaration by
-    entering my name hereunder:
-    - Name: *Nyameko Lisa*
-    - Email: *Lisa.Nyameko@gmail.com*
-    - Student Number: *7874-909-3*
+* BUSY [#A] WIPO-UNISA Intellectual Property Specialization Programme :ip:law:
+  - State "BUSY"       from              [2017-03-13 Mon 17:20]
+** BUSY [#A] IPSP01X - Essential Copyright Law                    :copyright:ipsp01x:
+   - State "BUSY"       from "TODO"       [2017-03-14 Tue 14:52]
+*** External Resources
+    cite:wto17_trips,wipo96_copyright_treaty,wipo86_berne
+*** TODO Study Units
+**** TODO [#A] Copyright and Related Rights
+     [[file:wipo-unisa/IPSP01X%20-%20Essential%20Copyright%20Law/study_units/Study%20Unit%201.pdf][Study Unit 1]]
+**** TODO [#A] Is there an International System of Copyright Protection
+     [[file:wipo-unisa/IPSP01X%20-%20Essential%20Copyright%20Law/study_units/Study%20Unit%202.pdf][Study Unit 2]]
+**** TODO [#A] Which Works can be Protected by Copyright
+     [[file:wipo-unisa/IPSP01X%20-%20Essential%20Copyright%20Law/study_units/Study%20Unit%203.pdf][Study Unit 3]]
+**** TODO [#A] Does Copyright Subsist in a Work
+     [[file:wipo-unisa/IPSP01X%20-%20Essential%20Copyright%20Law/study_units/Study%20Unit%204.pdf][Study Unit 4]]
+**** TODO [#A] What Are the Author's Rights
+     [[file:wipo-unisa/IPSP01X%20-%20Essential%20Copyright%20Law/study_units/Study%20Unit%205.pdf][Study Unit 5]]
+**** TODO [#A] How is Copyright Infringed
+     [[file:wipo-unisa/IPSP01X%20-%20Essential%20Copyright%20Law/study_units/Study%20Unit%206.pdf][Study Unit 6]]
+**** TODO [#A] What are the Remedies Available to an Author Whose Copyright has been Infringed
+     [[file:wipo-unisa/IPSP01X%20-%20Essential%20Copyright%20Law/study_units/Study%20Unit%207.pdf][Study Unit 7]]
+*** BUSY [#A] Assignment 1
+    DEADLINE: <2017-03-20 Mon>
+    - State "BUSY"       from              [2017-03-14 Tue 14:54]
+*** TODO [#B] Assignment 2
+    DEADLINE: <2017-04-24 Mon>
 
-* Question 1
-cite:corbett95_waylite_v_fnb citetitle:corbett95_waylite_v_fnb
-
-cite:mccreath91_juta_v_dekoker
-
-cite:burger85_bosal_afrika_v_grapnel
-* Cite Act
-cite:rsa78_copyrightact
+    DEADLINE: <2017-04-24 Mon>
+** TODO [#A] IPSP02Y - Essential Competition Law		:competition:
+** TODO [#A] IPSP033 - Essential Patent Law			     :patent:
+** TODO [#A] IPSP044 - Essential Trademark Law			  :trademark:
+** TODO [#A] IPSP055 - Essential Indusctrial Design Law			:idl:
+** TODO [#A] IPSP066 - Internet Aspects of Copyright and Trademarks
+** TODO [#A] IPSP078 - Legal Aspects of Electronic Commerce
+** TODO [#A] IPSP098 - Traditional Knowledge and Biodiversity
+* TODO [#C] Part-Time LLB / BCOM				       :wits:
 * Bibliography                                                       :ignore:
 #+BEGIN_EXPORT latex
 \printbibliography

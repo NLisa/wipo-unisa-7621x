@@ -1,5 +1,5 @@
-#+TITLE: IPSP01X - Essential Copyright Law
-#+SUBTITLE: Assignment 1 - Unique Number: 659072
+#+TITLE: IPSP02Y - Essential Competition Law
+#+SUBTITLE: Assignment 1 - Unique Number: 701001
 * LaTeX Preamble                                                     :ignore:
 #+LATEX_HEADER: \usepackage[backend=bibtex, style=ieee]{biblatex}
 #+LATEX_HEADER: \addbibresource{~/course/training/csir/novellasers/bibliography/bibliography.bib}
@@ -32,12 +32,14 @@
     - Name: *Nyameko Lisa*
     - Email: *Lisa.Nyameko@gmail.com*
     - Student Number: *7874-909-3*
-* Who are the authors of English study guide? *[4]*
+* Can Dry Company take legal action against Frost Company? *[10]*
 cite:corbett95_waylite_v_fnb citetitle:corbett95_waylite_v_fnb
 
 cite:mccreath91_juta_v_dekoker
 
 cite:burger85_bosal_afrika_v_grapnel
+
+cite:botha16_phd
 * Who is the copyright owner of the English study guide? *[3]*
   cite:rsa78_copyrightact: citetitle:rsa78_copyrightact of citedate:rsa78_copyrightact
 * What is the duration of the copyright in the English study guide? *[3]*

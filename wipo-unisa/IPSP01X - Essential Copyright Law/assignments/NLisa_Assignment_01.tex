@@ -1,4 +1,4 @@
-% Created 2017-03-13 Mon 16:19
+% Created 2017-03-15 Wed 14:12
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
@@ -18,7 +18,8 @@
 \addbibresource{~/course/training/csir/novellasers/bibliography/bibliography.bib}
 \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
 \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
-\DeclareFieldFormat[inproceedings]{number}{#1}
+\DeclareFieldFormat[misc]{citetitle}{#1}
+\DeclareFieldFormat[misc]{title}{#1}
 \renewcommand*{\bibpagespunct}{%
 \ifentrytype{inproceedings}
 {\addspace}
@@ -28,7 +29,7 @@
 \author{Nyameko Lisa}
 \date{\today}
 \title{IPSP01X - Essential Copyright Law\\\medskip
-\large Assignment 1}
+\large Assignment 1 - Unique Number: 659072}
 \hypersetup{
  pdfauthor={Nyameko Lisa},
  pdftitle={IPSP01X - Essential Copyright Law},
@@ -39,11 +40,8 @@
 \begin{document}
 
 \maketitle
-\tableofcontents
-
-
-\section{Declaration}
-\label{sec:orge58ba83}
+\section*{Declaration}
+\label{sec:org25c6e37}
 \begin{itemize}
 \item I know that plagiarism is to use someone else’s work and pass it off as my own.
 \item I know that plagiarism is wrong.
@@ -62,16 +60,22 @@ entering my name hereunder:
 \item Student Number: \textbf{7874-909-3}
 \end{itemize}
 \end{itemize}
-
-\section{Question 1}
-\label{sec:orgc7dcc1f}
+\section{Who are the authors of English study guide? \textbf{[4]}}
+\label{sec:orgbe96b55}
 \cite{corbett95_waylite_v_fnb} \citetitle{corbett95_waylite_v_fnb}
 
 \cite{mccreath91_juta_v_dekoker}
 
 \cite{burger85_bosal_afrika_v_grapnel}
-\section{Cite Act}
-\label{sec:org832d9f0}
-\cite{rsa78_copyrightact} \citetitle{rsa78_copyrightact}
+\section{Who is the copyright owner of the English study guide? \textbf{[3]}}
+\label{sec:org052b9ae}
+\cite{rsa78_copyrightact}: \citetitle{rsa78_copyrightact} of \citedate{rsa78_copyrightact}
+\section{What is the duration of the copyright in the English study guide? \textbf{[3]}}
+\label{sec:org2c41f87}
+\cite{wto17_trips}
+\section{Does Marli infringe the copyright in the English study guide? \textbf{[30]}}
+\label{sec:org59d43ea}
+\section{Can Marli claim copyright in her translation? \textbf{[10]}}
+\label{sec:orgcb7b8c2}
 \printbibliography
 \end{document}
