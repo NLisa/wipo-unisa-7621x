@@ -1,8 +1,9 @@
 #+TITLE: IPSP01X - Essential Copyright Law
 #+SUBTITLE: Assignment 1 - Unique Number: 659072
 * LaTeX Preamble                                                     :ignore:
+#+LATEX_HEADER: \usepackage[margin=1.0in]{geometry}
 #+LATEX_HEADER: \usepackage[backend=bibtex, style=ieee]{biblatex}
-#+LATEX_HEADER: \addbibresource{~/course/training/csir/novellasers/bibliography/bibliography.bib}
+#+LATEX_HEADER: \addbibresource{/home/nuk3/course/training/csir/novellasers/bibliography/bibliography.bib}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
 #+LATEX_HEADER: \DeclareFieldFormat[misc]{citetitle}{#1}
@@ -29,22 +30,153 @@
   - I am aware of the UNISA policy on plagiarism and understand that disciplinary proceedings can be instituted against me by UNISA if I contravene this policy.
   - I indicate my understanding and acceptance of this declaration by
     entering my name hereunder:
-    - Name: *Nyameko Lisa*
-    - Email: *Lisa.Nyameko@gmail.com*
-    - Student Number: *7874-909-3*
+    - Name: *Nyameko Lisa* (Student Number: *7874-909-3*)
+\newpage
 * Who are the authors of English study guide? *[4]*
-cite:corbett95_waylite_v_fnb citetitle:corbett95_waylite_v_fnb
 
-cite:mccreath91_juta_v_dekoker
+In accordance with the provisions of section 1 of the
+citetitle:rsa78_copyrightact of citedate:rsa78_copyrightact
+cite:rsa78_copyrightact and as per article 2(1) of the Berne
+Convention cite:wipo86_berne, the English study guide can be
+considered as a piece of *literary work*, which is a *work of joint
+authorship* and was first made or created by the ABC123 lectures, all
+of whom enjoy /`joint authorship'/.\\
 
-cite:burger85_bosal_afrika_v_grapnel
+In the case of /`joint authorship'/, any one of the authors must be a
+*qualified person* at the time the work or a substantial part thereof
+was created. Assuming that as university employees, at least one of
+the ABC123 lecturers are a citizen of, or domiciled in or permanent
+resident of Berne Convention country [section 3, section
+37]cite:wipo86_berne, it follows that the co-authors of the English
+study guide are the ABC123 lectures, where the term *author* is used
+as defined in
+[section 1]cite:rsa78_copyrightact.
+
 * Who is the copyright owner of the English study guide? *[3]*
-  cite:rsa78_copyrightact: citetitle:rsa78_copyrightact of citedate:rsa78_copyrightact
+
+As per [section 21(1)(d)]cite:rsa78_copyrightact, given that the
+lecturers are all under employment contracts of service with the
+university, and the fact that the study guide was produced[fn::This is
+not explicitly mentioned, but it is implied in the question, /see
+below./] during the course of their employment with the university, it
+follows that ownership of the copyright is held by the proprietor or
+owner of the university or simply the university itself.\\
+
+Alternatively however, specifically because we are not explicitly told
+/`when'/ the authors prepared the study guide, - i.e. they could have
+prepared a significant portion of the study guide before they were
+under the employ of the university - it /could/ also be argued that
+the ownership of the copyright belongs to the co-authors, as per
+[section 21(1)(a)]cite:rsa78_copyrightact.
+
 * What is the duration of the copyright in the English study guide? *[3]*
-cite:wto17_trips
+
+As per [section 3(2)(a), section 3(4)]cite:rsa78_copyrightact, the
+duration of the copyright in the English study guide is the life of
+all co-authors and fifty years from the end of the year in which the
+last living author dies.
+
 * Does Marli infringe the copyright in the English study guide? *[30]*
+As per the definitions provided in [section 1]cite:rsa78_copyrightact,
+copies of Marli's Afrikaans translation that are sold to prospective
+students, constitute an *adaptation* of the /`original'/ *literary
+work*, the English ABC123 study guide. Moreover, by those definitions,
+given that Marli's Afrikaans translation is a reproduction of the
+work, it will be considered a *copy*, and for the purposes of the
+following arguments it will be referred to as the *infringing copy*.\\
+
+
+As per [section 23(1), section 23(2)(b)]cite:rsa78_copyrightact, Marli
+infringed on the copyright of the English study guide, when she
+- made the Afrikaans translation without owning the copyright, or
+  being granted a licence by the university, or being authorized by
+  the university to make an *adaptation* of said study guide,
+- reproduced and distributed /`infringing copies'/ of said *adaptation* of
+  the work,
+- each time she exploited the /`infringing copies'/ it was a violation
+  of the copyright enjoyed in the original work.
+
+causal connection cite:burger85_bosal_afrika_v_grapnel access
+cite:corbett89_galago_v_erasmus
+
+Even though Marli's translation itself enjoys copyright protection as
+an /`alteration'/ of a *literary work*, as per [article
+2]cite:wipo86_berne, every time the work is reproduced or distributed,
+it will be an infringement of the copyright enjoyed by the English
+study guide. Thus Marli is liable for copyright infringement whenever
+she tries to exploit the translation, or *adaptation* of the work, as
+stipulated in [article 6]cite:wto17_trips.
+
+** Copyright Exceptions
+It is important to note that Marli's translation of the study guide
+from English to Afrikaans, for her own personal use does not
+constitute an unlawful act and copyright of the study guide was not
+infringed upon, as per [section 12(1)(a)]cite:rsa78_copyrightact.
+** Exclusive Rights
+However, as per [section 6(f)]cite:rsa78_copyrightact, the
+/`infringing copy'/ violates the exclusive rights of the copyright
+owner, specifically in respect of the right to either carry out or
+authorize the *adaptation* of the English study guide.\\
+
+The right to translate the English study guide vests in the
+university and thus the exclusive rights of the copy right holder are
+infringed by the unauthorized adaptation. This is a /`direct infringement'/.\\
+
+Moreover, as per [section 6(g)]cite:rsa78_copyrightact, and its
+references to paragraphs (a) and (e) of that section, the /`infringing
+copy'/ constitutes unlawful reproduction and transmission in  a
+diffusion service of the *adaptation* of the /`original'/ work. These
+are /`direct infringements'/.
+
+** Direct Infringement
+By performing any of the acts that a copyright vests the exclusive
+right to either perform or authorize the performance thereof, without
+the authors' consent constitutes a /`direct infringement'/, [section
+6]cite:rsa78_copyrightact.
+
+** Indirect Infringement
+Each time the /`infringer'/ Marli, consciously furthers the commission
+of any acts that only the authors are permitted to do or authorize to
+do, constitutes an /`indirect infringement'/. Such as is the case with
+the sale [Section 23(2)(b)]cite:rsa78_copyrightact, of her Afrikaans
+translations of the English study guide.
+
 * Can Marli claim copyright in her translation? *[10]*
+
+Marli's translation must meet the /`inherent'/ and /`formal'/ or
+/`statutory'/ requirements for copyright to subsist in her work.
+- Inherent Requirements
+  - The requirement of material embodiment is clearly satisfied as the
+    work exists in material form.
+  - As per [article 9(2)]cite:wto17_trips and
+    [article 2]cite:wipo96_copyright_treaty, it can be argued that the
+    Afrikaans translation is a /`particular form of expression of
+    thought'/, thus satisfying the requirement of originality.
+- Formal Requirements
+  - As a student of the university, it is implied that she is either a
+    citizen of, or domiciled in, or a permanent resident of a Berne
+    Convention country [section 3, section 37]cite:wipo86_berne,
+    meaning that she was a *qualified person* at the time of creation
+    of the work and thus making her the author.
+  - Moreover it is implied that the work was first made in South
+    Africa, [section 4]cite:rsa78_copyrightact, hence Marli may allege
+    that the translation meets the statutory requirements for the
+    subsistence of copyright in the work.
+
+Given that translations can be considered as /`alterations'/ of
+*literary works* and thus also enjoy copyright protection as per
+[article 2]cite:wipo86_berne. Therefore Marli's Afrikaans translation
+will enjoy copyright protection independently of the original English
+study guide.\\
+
+Moreover as per [section 2(3)]cite:rsa78_copyrightact, Marli's
+translation is not ineligible for copyright even though it's creation,
+reproduction, distribution and sale amount to infringements of
+copyright in the English translation.\\
+
+However, it must be noted that since Marli's translation was made
+without the consent of the ABC123 authors or a license from the
+university, Marli is unable to exploit her translated work without
+infringing the copyright enjoyed in the English study guide.
 * Bibliography                                                       :ignore:
-#+BEGIN_SRC latex
 \printbibliography
-#+END_SRC
