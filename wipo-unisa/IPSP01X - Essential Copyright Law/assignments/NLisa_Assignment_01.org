@@ -1,7 +1,7 @@
 #+TITLE: IPSP01X - Essential Copyright Law
 #+SUBTITLE: Assignment 1 - Unique Number: 659072
 * LaTeX Preamble                                                     :ignore:
-#+LATEX_HEADER: \usepackage[margin=1.0in]{geometry}
+#+LATEX_HEADER: \usepackage[margin=0.80in]{geometry}
 #+LATEX_HEADER: \usepackage[backend=bibtex, style=ieee]{biblatex}
 #+LATEX_HEADER: \addbibresource{/home/nuk3/course/training/csir/novellasers/bibliography/bibliography.bib}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
@@ -31,7 +31,13 @@
   - I indicate my understanding and acceptance of this declaration by
     entering my name hereunder:
     - Name: *Nyameko Lisa* (Student Number: *7874-909-3*)
+
+** NOTE
+Please note that footnotes will be denoted as [fn::This is a footnote.] and will
+appear at the bottom of the page.\\
+References will be denoted by cite:rsa78_copyrightact and will appear at the end of the document.
 \newpage
+
 * Who are the authors of English study guide? *[4]*
 
 In accordance with the provisions of section 1 of the
@@ -85,6 +91,10 @@ given that Marli's Afrikaans translation is a reproduction of the
 work, it will be considered a *copy*, and for the purposes of the
 following arguments it will be referred to as the *infringing copy*.\\
 
+In establishing copyright infringement, it must be demonstrated that the copyright work has indeed been copied, through
+the following two inquiries, (citetitle:corbett89_galago_v_erasmus)cite:corbett89_galago_v_erasmus
+- An objective connection between a substantial part of the copyright work and the alleged infringing work - this follows clearly given that it is a translation.
+- It must be shown that Marli had /`access'/ to the original work - again this follows clearly as she was a previous student of ABC123.
 
 As per [section 23(1), section 23(2)(b)]cite:rsa78_copyrightact, Marli
 infringed on the copyright of the English study guide, when she
@@ -95,9 +105,6 @@ infringed on the copyright of the English study guide, when she
   the work,
 - each time she exploited the /`infringing copies'/ it was a violation
   of the copyright enjoyed in the original work.
-
-causal connection cite:burger85_bosal_afrika_v_grapnel access
-cite:corbett89_galago_v_erasmus
 
 Even though Marli's translation itself enjoys copyright protection as
 an /`alteration'/ of a *literary work*, as per [article
@@ -111,8 +118,15 @@ stipulated in [article 6]cite:wto17_trips.
 It is important to note that Marli's translation of the study guide
 from English to Afrikaans, for her own personal use does not
 constitute an unlawful act and copyright of the study guide was not
-infringed upon, as per [section 12(1)(a)]cite:rsa78_copyrightact.
+infringed upon, as per [section 12(1)(a)]cite:rsa78_copyrightact.\\
+
+Moreover the creation and personal / private use of her translation
+does not infringe copyright, as long as she employs the translation
+for her own personal and private use, [section
+12(11)]cite:rsa78_copyrightact.
+
 ** Exclusive Rights
+
 However, as per [section 6(f)]cite:rsa78_copyrightact, the
 /`infringing copy'/ violates the exclusive rights of the copyright
 owner, specifically in respect of the right to either carry out or
@@ -135,6 +149,7 @@ the authors' consent constitutes a /`direct infringement'/, [section
 6]cite:rsa78_copyrightact.
 
 ** Indirect Infringement
+
 Each time the /`infringer'/ Marli, consciously furthers the commission
 of any acts that only the authors are permitted to do or authorize to
 do, constitutes an /`indirect infringement'/. Such as is the case with
@@ -173,6 +188,17 @@ Moreover as per [section 2(3)]cite:rsa78_copyrightact, Marli's
 translation is not ineligible for copyright even though it's creation,
 reproduction, distribution and sale amount to infringements of
 copyright in the English translation.\\
+
+By uploading the Afrikaans translation, Marli may allege that the
+ABC123 lectures have directly infringed on her exclusive right to *publish*
+the work, [section 6(b)]cite:rsa78_copyrightact.\\
+
+In turn the ABC123 lecturers may argue that their usage constitutes /`fair
+dealing'/, in that it is used as a visual record for teaching, [section
+12(4)]cite:rsa78_copyrightact, provided that they acknowledged her authorship of
+the translation in the upload. Moreover students downloading the Afrikaans
+translation for personal or private use, also do not infringe copyright on the
+translation, [section 12(1)(a)]cite:rsa78_copyrightact.\\
 
 However, it must be noted that since Marli's translation was made
 without the consent of the ABC123 authors or a license from the

@@ -1,6 +1,7 @@
 #+TITLE: IPSP02Y - Essential Competition Law
 #+SUBTITLE: Assignment 1 - Unique Number: 701001
 * LaTeX Preamble                                                     :ignore:
+#+LATEX_HEADER: \usepackage[margin=0.8in]{geometry}
 #+LATEX_HEADER: \usepackage[backend=bibtex, style=ieee]{biblatex}
 #+LATEX_HEADER: \addbibresource{~/course/training/csir/novellasers/bibliography/bibliography.bib}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
@@ -29,24 +30,112 @@
   - I am aware of the UNISA policy on plagiarism and understand that disciplinary proceedings can be instituted against me by UNISA if I contravene this policy.
   - I indicate my understanding and acceptance of this declaration by
     entering my name hereunder:
-    - Name: *Nyameko Lisa*
-    - Email: *Lisa.Nyameko@gmail.com*
-    - Student Number: *7874-909-3*
+    - Name: *Nyameko Lisa* (Student Number: *7874-909-3*)
+
+** NOTE
+Please note that footnotes will be denoted as [fn::This is a footnote.] and will
+appear at the bottom of the page.\\
+References will be denoted by cite:wipo83_paris_conve_protect_ip and will appear at the end of the document.
+\newpage
+
 * Can Dry Company take legal action against Frost Company? *[10]*
-cite:corbett95_waylite_v_fnb citetitle:corbett95_waylite_v_fnb
+In the arguments that follow, the principles of the Roman-Dutch law relating to
+the law of delict will be applied to establish whether Frost Company has acted
+unlawfully. Moreover, given that South Africa is a member of both the World
+Trade Organization and the Paris Union, the international instruments to be
+utilized in the following arguments are the
+citetitle:wipo83_paris_conve_protect_ip cite:wipo83_paris_conve_protect_ip, the
+citetitle:wipo96_model_provi_unfair_comp cite:wipo96_model_provi_unfair_comp and
+citetitle:wto17_trips cite:wto17_trips.
 
-cite:mccreath91_juta_v_dekoker
+** Is Dry Company entitled to institute legal action?
+label:sec:inst-legal
+Dry Company will be entitled to institute legal action against Frost Company for
+their acts of *unfair competition*, as
+per [article 10^{bis}(3)(3)]cite:wipo83_paris_conve_protect_ip and [article
+4(1)]cite:wipo96_model_provi_unfair_comp. Dry Company could allege that
+Frost Company has unlawfully mislead the public as to:
+- /`the manufacturing process'/ - MOON DELIGHT products are not
+  manufactured according to traditional methods. (/See also/ [article 4(2)(i)]cite:wipo96_model_provi_unfair_comp).
+- /`the characteristics'/ - It is patently untrue that MOON DELIGHT products
+  contain 50% less calories than ordinary whisky. (/See also/ [article 4(2)(iii)]cite:wipo96_model_provi_unfair_comp).
+- /`the suitability for their purpose'/ - MOON DELIGHT products are of no _more_
+  benefit in the pursuit of a healthier lifestyle, as compared to ordinary
+  whisky. (/See also/ [article
+  4(2)(ii)]cite:wipo96_model_provi_unfair_comp).
+- /`the nature'/ - Frost Company's MOON DELIGHT products are *not* manufactured in
+  Scotland. (/See also/ [article 4(2)(iv)]cite:wipo96_model_provi_unfair_comp).
+  - Moreover as per [article 10(1)]cite:wipo83_paris_conve_protect_ip, as a
+    result of *false indication of source* consignments of MOON DELIGHT products
+    should be subject to seizure on importation into Paris Union member states.
+  - Additionally as per [article 10(2)]cite:wipo83_paris_conve_protect_ip, any
+    producer, manufacturer, or merchant involved in the production of,
+    manufacture of or trade in such goods, may be deemed an /`interested
+    party'/.
+  - Finally, members of the World Trade Organization are obliged to protect
+    geographic indications against unfair[fn::As unfair competition is described
+    in cite:wipo83_paris_conve_protect_ip] use, particularly those which may
+    cause confusion, as per [article 22(2)]cite:wto17_trips.
 
-cite:burger85_bosal_afrika_v_grapnel
+Given that Dry Company and Frost Company are both whisky producers, it can be
+easily established that `competition' between the two legal entities exists,
+satisfying the requirement necessary when implementing, or making use of,
+cite:wipo83_paris_conve_protect_ip.
 
-cite:botha16_phd
-* Who is the copyright owner of the English study guide? *[3]*
-  cite:rsa78_copyrightact: citetitle:rsa78_copyrightact of citedate:rsa78_copyrightact
-* What is the duration of the copyright in the English study guide? *[3]*
-cite:wto17_trips
-* Does Marli infringe the copyright in the English study guide? *[30]*
-* Can Marli claim copyright in her translation? *[10]*
+** How is the Goodwill of Dry Company affected?
+label:sec:goodwill
+Dry Company may allege that Frost Company has damaged the goodwill of Dry
+Company, by misleading the public through a number of false claims. Specifically, on account of Dry Company having allegedly
+lost sales due to health conscious members of their customer base, opting to
+purchase MOON DELIGHT products and basing this decision on these false claims,
+as discussed in Section ref:sec:inst-legal. As per [article
+10^{bis}(3)(1)]cite:wipo83_paris_conve_protect_ip, Frost Company unlawful
+misleading of the public has result in the confusion of Dry Companies goods,
+implying that it is an inferior product, and as per [article 3(1)]
+cite:wipo96_model_provi_unfair_comp, this constitutes an act of unfair
+competition.
+
+** Can Dry Company Seek an Interdict?
+label:sec:interdict
+It was demonstrated in section ref:sec:inst-legal, how Frost Company engaged in
+acts deemed to be /unfair competion/, by
+misleading the public.
+
+*** An act of conduct / Wrongfulness
+It follows therefore that Dry Company may seek an interdict compelling
+Frost Company to rescind the false claims regarding the MOON DELIGHT products
+and cessation to the manufacture of, production of or trade in MOON DELIGHT
+products bearing the false claims.
+
+** Can Dry Company Claim Damages?
+
+Dry Company may claim damages from Frost Company should it be able to prove
+/fault/ on the part of Frost Company, from which Dry Company is suffering
+financial loss due to this conduct.
+
+*** Liability for unfair competition in SA law
+For Frost Company to incur liability for their unfair competitive actions in
+terms of the Aquilian action, /all/ of the elements of a delict should be
+established.
+
+*** Fault
+In addition to the arguments of Section ref:sec:interdict, it is should be
+trivial for Dry Company to prove either intent or negligence on the part of
+Frost Company in the unfair competitive actions.
+
+*** Causation
+It should be noted that it would be more difficult to demonstrate that Frost
+Company's unfair competition was indeed the sole cause of Dry Company's loss in
+revenue. However Dry Company must argue that it was Frost Companies conduct that
+was the cause of the damage suffered. (/See/
+citetitle:steyn64_geary_v_gove) cite:steyn64_geary_v_gove.
+
+*** Damages
+Finally, damages may be difficult to ascertain quantitatively and the courts
+must, to the best of their ability, estimate a value (/See/
+citetitle:clayden55_int_tobaco_v_united_tobaco)
+cite:clayden55_int_tobaco_v_united_tobaco. Moreover the onus lies with Dry
+Company to show that it has suffered patrimonial loss and its extent.
+
 * Bibliography                                                       :ignore:
-#+BEGIN_SRC latex
 \printbibliography
-#+END_SRC
