@@ -123,7 +123,10 @@ photographs of Amanda's paintings constitute infringing copies, that violate the
 exclusive rights of the copyright owner, specifically in respect of the right to
 either carry out or authorize the reproduction of the Amanda's
 photographs. Moreover the right to make an adaptation of the work[fn::Or
-reproductions thereof.], [section 7(e)]cite:rsa78_copyrightact vests solely with the copyright owner.\\
+reproductions thereof.], [section 7(e)]cite:rsa78_copyrightact vests solely with
+the copyright owner. Raymond's copies constitute /direct/ or /conscious/ copies
+Amanda's paintings, given that he had printed photographs of her original
+paintings to work from.\\
 
 ** Direct Infringement
 By performing any of the acts that a copyright vests the exclusive
@@ -137,7 +140,8 @@ Each time the /`infringer'/ Raymond, consciously furthers the commission of any
 acts that only the authors are permitted to do or authorize to do, constitutes
 an /`indirect infringement'/. Such would be the case with the exploitation of
 the infringing work, for example the sale or distribution [Section
-23(2)(b-c)]cite:rsa78_copyrightact, of Raymond's adaptations (paintings) of the
+23(2)(b-c)]cite:rsa78_copyrightact, or display in a public place (such as an art
+gallery) of Raymond's adaptations (paintings) of the
 printed photographs of Amanda's original paintings.
 
 ** Copyright Exceptions
@@ -193,16 +197,63 @@ copyright as far as it relates to publication or reproduction for the purposes
 of publication, in all other respects however the author is the owner of any
 copyright subsisting in the work.\\
 
-It follows therefore based on the provisions of [section 21(1)(b)], on could
+It follows therefore based on the provisions of [section 21(1)(b)]cite:rsa78_copyrightact, one could
 argue that the television channels commissioning the films will own the
-broadcasting rights, and any reproduction of the film for the purpose of them
-being broadcast, but in all other respects
+broadcasting rights and any reproduction of the films for the purposes of them
+being broadcast, but in all other respects Leon as the author, shall be owner of
+any copyright subsisting in his films.
 
 ** Do exceptions [section 15(1) or 15(3)]cite:rsa78_copyrightact apply? [2]
+Yes, [section 15(1)]cite:rsa78_copyrightact would apply given that the inclusion
+of the bands performance is incidental and that the principle matter represented
+in the film is the documentary and the guest being interviewed in said
+restaurant.\\
+
+[Section 15(3)]cite:rsa78_copyrightact would only apply in the case where the
+band was a permanent fixture in the restaurant. It would be difficult to
+reasonably argue that it was impossible to schedule the interview during a time
+when the band was not playing at the restaurant. So yes this could apply but to
+a lesser degree than [section 15(1)]cite:rsa78_copyrightact.
 
 ** Does the general fair dealing exception [section 12(1)]cite:rsa78_copyrightact apply? [8]
 
+- [Section 12(1)(a)]cite:rsa78_copyrightact cannot apply as the production of
+  the documentary film is neither for the purposes or research, private study,
+  personal nor private use by Leon, but intended for commission in a film sold
+  to television channels.
+
+- [Section 12(1)(b)]cite:rsa78_copyrightact cannot apply as the band's music is
+  playing in the background and incidental to the interview. Therefore one can
+  assume that the content of the interview is _not_ related to criticism of the
+  band's original music or that of another work that is juxtaposed against the
+  band's original work.
+
+- [Section 12(1)(c)(i)]cite:rsa78_copyrightact, cannot apply as the
+  documentary will be produced as a cinematograph film, and not for publication
+  in a newspaper, magazine or similar periodical.
+
+*** Yes the general fair dealing exception (s 12(1)(c)(ii)) does apply
+It could be argued that as per [section 12(1)(c)(ii)]cite:rsa78_copyrightact, the
+documentary and interview constitute a cinematograph film for the purposes of
+reporting current events. Moreover as per the provisions of [section
+12(c)]cite:rsa78_copyrightact, Leon is not required to mentioned the source, nor
+the name of the band even if it appears in his cinematograph film. Based on this
+he does not need to ask the bands permission, to include that scene in his film.
+
 * Discuss the possibility that James can rely on the reverse-engineering defence [section 15(3A)]cite:wipo96_copyright_treaty. [10]
+Given that Tania's factory both designs and manufactures the uniforms, as per [section (3A)(a)]cite:rsa78_copyrightact,
+it follows that three-dimensional reproductions (the physical school uniforms) where made from two-dimensional artistic
+drawings or designs. This reproductions subsequently went on sale and were thus made available to the public with
+Talia's consent.\\
+
+As per [section (3A)(a)]cite:rsa78_copyrightact, it follows then that copyright has not been infringed when James,
+without the consent of Talia, make available to the public three-dimensional reproductions or adaptations of the
+authorized reproductions, provided that:
+- the authorized reproductions primarily have a utilitarian purpose, as per [section
+  (3A)(a)(ii)]cite:rsa78_copyrightact. James could easily argue that school uniforms serve a utilitarian purpose.
+- the authorized reproductions are made by and industrial process, as per [section
+  (3A)(a)(ii)]cite:rsa78_copyrightact. Talia owns a factory that designs and manufactures the uniforms. James could
+  argue that the three-dimensional authorized reproductions of the uniforms design are manufactured via an industrial process.
 
 * What moral rights are protected by citetitle:rsa78_copyrightact? [5]
 As per [section 20(1)]cite:rsa78_copyrightact, in spite of the transfer of the
@@ -214,6 +265,21 @@ cinematograph film or television broadcast or computer program may not oppose
 modifications necessary on a technical basis or for commercial exploitation.
 
 * How my perceptions of copyright and/or specific copyright issues have changed during the course of this module. [15]
+Whilst have an intuitive sense that the regulations regarding the implementation of copyright related issues would be
+based on and resemble international instruments, I had no idea that the similarity and corroboration between said
+instruments would be so strong.\\
 
+With this idea in mind it follows quite naturally that the laws governing the protection of copyright should be
+/`universal'/ in a sense, in as much as these international instruments should gives guidance and clarity to member
+participants, but at the same time, they should provide enough freedom for individual member states to carefully articulate
+and stipulate their _own_ legal and regulatory framework cite:rsa78_copyrightact, whilst working within the general scaffolding of the
+international instruments, cite:wipo83_paris_conve_protect_ip,wipo96_model_provi_unfair_comp,wipo96_copyright_treaty,wipo86_berne.\\
+
+Moreover, as a scientist, I particularly enjoyed how very specific aspects of the *theory* (framework of legal and
+regulatory instruments) could be applied to described, predict and explain the experiment (actual legal case law and
+hypothetical examples). Especially in instanced where legal precedent is yet to be established or where it is even
+contradictory based on the /interpretation/ of one's viewpoint are arguments. In this instance a type of
+phenomenological, or /mathematically numerical approximation/ is required that satisfies as many corroborating sources
+as possible, whilst sufficiently reducing or mitigating the significance of the contradicting sources.
 * Bibliography                                                       :ignore:
 \printbibliography

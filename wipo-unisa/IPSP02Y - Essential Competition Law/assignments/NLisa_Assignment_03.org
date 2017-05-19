@@ -1,0 +1,169 @@
+#+TITLE: IPSP02Y - Essential Competition Law
+#+SUBTITLE: Assignment 3 - Exam
+* LaTeX Preamble                                                     :ignore:
+#+LATEX_HEADER: \usepackage[margin=0.80in]{geometry}
+#+LATEX_HEADER: \usepackage[backend=bibtex, style=ieee]{biblatex}
+#+LATEX_HEADER: \addbibresource{/home/nuk3/course/training/csir/novellasers/bibliography/bibliography.bib}
+#+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[misc]{citetitle}{#1}
+#+LATEX_HEADER: \DeclareFieldFormat[misc]{title}{#1}
+#+LATEX_HEADER: \renewcommand*{\bibpagespunct}{%
+#+LATEX_HEADER:   \ifentrytype{inproceedings}
+#+LATEX_HEADER:     {\addspace}
+#+LATEX_HEADER:     {\addcomma\space}}
+#+LATEX_HEADER: \AtEveryCitekey{\ifuseauthor{}{\clearname{author}}}
+#+LATEX_HEADER: \AtEveryBibitem{\ifuseauthor{}{\clearname{author}}}
+#+OPTIONS: toc:nil
+* Declaration
+  :PROPERTIES:
+   :UNNUMBERED: t
+  :END:
+  - I know that plagiarism is to use someone else’s work and pass it off as my own.
+  - I know that plagiarism is wrong.
+  - I confirm that this assignment is my own work.
+  - I have acknowledged in the bibliography accompanying the assignment all the sources that I have used.
+  - I have not directly copied without acknowledgement anything from the Internet or from any other source.
+  - I have indicated every quotation and citation in a footnote or bracket linked to that quotation.
+  - I have not allowed anyone else to copy my work and to pass it off as their own work.
+  - I understand that if any unacknowledged copying whatsoever appears in my assignment I will receive zero per cent for the assignment.
+  - I am aware of the UNISA policy on plagiarism and understand that disciplinary proceedings can be instituted against me by UNISA if I contravene this policy.
+  - I indicate my understanding and acceptance of this declaration by
+    entering my name hereunder:
+    - Name: *Nyameko Lisa* (Student Number: *7874-909-3*)
+
+** NOTE
+Please note that footnotes will be denoted as [fn::This is a footnote.] and will
+appear at the bottom of the page.\\
+References will be denoted by cite:wipo83_paris_conve_protect_ip and will appear at the end of the document.
+\newpage
+
+* Identify three forms of unlawful competition which are applicable in the above scenario. [6]
+Brian may seek relief, amongst other grounds, on the basis of:
+  - *Passing off*, in light of the similarities of the registered trademarks both companies operate under, as per [article
+    10^{bis}(3)(1)]cite:wipo83_paris_conve_protect_ip, [article
+    2(1)]cite:wipo96_model_provi_unfair_comp and [article 16(1)]cite:wto17_trips.
+  - /Damage another's goodwill or reputation/, specifically the *Dilution of their
+    goodwill or reputation*, in regard to the lessening of distinctive character
+    or advertising value of the CHICKENBITE trademarks, as well as the appearance and
+    presentation of the product, as per [article 3(2)]cite:wipo96_model_provi_unfair_comp
+  - *Unfair competition in respect of secret information*, where Danny unlawfully
+    acquired the memory stick with the recipe discovered by Brian, as per
+    [article 39(2)]cite:wto17_trips and [article 6(1)]cite:wipo96_model_provi_unfair_comp.
+
+* Advise Brian if he can succeed with an action for unlawful competition against Danny. [18]
+** Requirements for protection against unlawful competition based on Passing Off
+The plaintiff, Brian may argue that the conduct of the respondent, Danny,
+amounts to unfair competition with respect to the trade name of his enterprise,
+the registered of the goods he is selling (fried and grilled chicken), and is
+trying to represent to the public that the respondent's enterprise and goods are
+related to or affiliated with those of the plaintiff's. Intent of nor actual
+confusion is required, simply the reasonable likelihood of such confusion
+arising.\\
+
+Brian may seek and interdict for the respondent to cease trading under his
+registered trademark CHIC `N BITE and cease producing goods that are similar to
+the plaintiff's, if he can prove:
+- CHICKEN BITE *has acquired with the public a reputation associated
+  with his goods, services and or business. This follows naturally given that
+  his outlets are well-known across South Africa and considered to produce tasty
+  grilled and fried chicken.
+- CHIC `N BITE *conduct is like to deceive or confuse the public*. This also
+  follows naturally given that the names are so similar and that he directly
+  copied the spice mixture.
+
+There exist a number of examples in the context of South African case law that have
+qualified for the protection against unlawful competition based on passing
+off. /In the interests of non-repetition, kindly refer to the following section for detailed descriptions of said examples./
+
+** Requirements for protection against unlawful competition based on Damage (Dilution) of Goodwill or Reputation
+The plaintiff, Brian may argue that the respondent Danny, acted unlawfully with
+respect to a concealed misappropriation within a competitive context and can
+apply to seek an interdict with respect to the defendant's enterprise
+to cease to trade with under their trade name and trade mark. To succeed in
+such an action the plaintiff must present the following:
+- CHICKEN BITE outlets are well-known across South Africa, the trade name and
+  trademark CHICKEN BITE has indeed *acquired and reputation and advertising
+  value* in terms of the enterprises tasty grilled and fried chicken.
+- The respondent, Danny, in establishing CHIC `N BITE, used *without the consent*
+  of the plaintiff, a *name and / or trademark* very similar to the plaintiff's,
+  in relation to the enterprise, goods and services or the respondent. The
+  plaintiff did not authorise the respondent to make use of the information on
+  his memory stick.
+- Through the registering of the trademark CHIC `N BITE and the use of the
+  secret spices in establishing his enterprise, the respondent has impaired the
+  plaintiff's goodwill or at least threatens to impair the goodwill of the
+  plaintiff name and / or mark, through dilution of the advertising value and /
+  or distinctive character of the plaintiff's name or mark.
+
+The plaintiff should be advised that this will likely treated as an action for
+unlawful competition based on Passing Off as described above. No reported South
+African decision has seen relief granted based on this form of unfair
+competition.\\
+
+For example citetitle:joffe94_fifa_bartlett cite:joffe94_fifa_bartlett. This
+case involved concealed misappropriation between related enterprises,
+specifically the organizer of the soccer
+World Cup and respondents misrepresenting that they were holder's of the Soccer
+World Cup USA 1994, licensing rights in South Africa. The court held that
+character merchandising was prevalent in South Africa and that the advertising
+values of the associated names, characters or insignia in the products used
+could be exploit to boost sales. The court granted an interdict on the basis of
+passing off, likely to cause injury or damage to the goodwill of the plaintiff
+as the respondents had misrepresented that they were holders of the World Cup
+licensing rights in South Africa.\\
+
+Another example of concealed misappropriation between related enterprises
+concerned citetitle:holmes77_capital_v_holiday
+cite:holmes77_capital_v_holiday. In which the plaintiff /Holiday Inn/ applied
+for an interdict to restrain the respondent from misusing the distinctive name to
+cause confusion and misappropriate the advertising value in respect of a name
+for the respondent's shopping centre and duplex apartments. The court granted an
+interdict on the basis of passing off.
+** Requirements for protection against Unfair Competition in respect of secret information
+
+The plaintiff must show that the information is:
+- *Confidential:* The spices used to prepare the plaintiff's chicken was
+  _discovered_ by the plaintiff after he visited India, Brazil and
+  Portugal. This information was neither public knowledge nor released in the
+  public domain. The respondent only gained access to this knowledge from the
+  plaintiff's flash drive, which he may also allege was stolen by the respondent
+  in a combined matter.
+- Has *trade value*: The respondent used the same mixture of ingredients to
+  manufacture his own spices for his chicken. Given that the plaintiff's outlets
+  are well known for their tasty grilled and fried chicken, if follows naturally
+  that the confidential information of the plaintiff has significant trade value
+  to the respondent as he is a rival competitor.
+
+There are a number of examples in South African case law that have qualified for
+the protection of secret information, specifically in regards to a manufacturing
+process /for example Harvey Tiling Co (Pty) Ltd v Rodomac (Pty) Ltd \& Another
+1977 (1) SA 316 (T)/. Another example that was successfully tried as a matter
+for the protection of secret information, was
+citetitle:dijkhorst81_atlas_v_pikkewyn, cite:dijkhorst81_atlas_v_pikkewyn, where
+judge Dijkhorst was famously quoted that this branch of law was designed to
+/``address the schemes of geniuses bent upon reaping what they have not sown.''/
+One last successful example which qualified for the protection of secret
+information was citetitle:diemont72_stellwinetrust_v_oudemeester
+cite:diemont72_stellwinetrust_v_oudemeester, where Judge Diemont stipulated that
+one is acting unlawfully and dishonestly when he `filches' information from a
+competitor, devised through the skill and industry of that competitor for his
+own profit.
+
+* Discuss whether the approach followed by South African courts / law complies with the requirements imposed by international conventions and other instruments. [26]
+** Passing off
+Due to its significance and importance, this particular [article
+10^{bis}(3)(1)]cite:wipo83_paris_conve_protect_ip, [article
+2(1)]cite:wipo96_model_provi_unfair_comp and [article 16(1)]cite:wto17_trips,
+all make reference to it. In particular  the Model Provisions stimulates that /‘Any act or practice, in the course of industrial or commercial
+activities, that causes, or is likely to cause, confusion with
+respect to another’s enterprise or its activities, in particular,
+the products or services offered by such enterprise, shall
+constitute an act of unfair competition. ’/ Moreover neither actual confusion nor the intent to confuse is required as per
+[article 2(2)]cite:wipo96_model_provi_unfair_comp where particular articulation
+of a trademark, tradename or appearance of a product is specified. CHICK 'N BITE
+has introduced a false affiliation between themselves and the plaintiff. These considerations presented in the international instruments are in are
+agreement with South African case law.
+
+* Bibliography                                                       :ignore:
+\printbibliography
