@@ -38,7 +38,7 @@ appear at the bottom of the page.\\
 References will be denoted by cite:wipo83_paris_conve_protect_ip and will appear at the end of the document.
 \newpage
 
-* Identify three forms of unlawful competition which are applicable in the above scenario. [6]
+* Identify three forms of unlawful competition which are applicable in the given scenario. [6]
 Brian may seek relief, amongst other grounds, on the basis of:
   - *Passing off*, in light of the similarities of the registered trademarks both companies operate under, as per [article
     10^{bis}(3)(1)]cite:wipo83_paris_conve_protect_ip, [article
@@ -53,7 +53,7 @@ Brian may seek relief, amongst other grounds, on the basis of:
 
 * Advise Brian if he can succeed with an action for unlawful competition against Danny. [18]
 ** Requirements for protection against unlawful competition based on Passing Off
-The plaintiff, Brian may argue that the conduct of the respondent, Danny,
+The plaintiff, Brian, may argue that the conduct of the respondent, Danny,
 amounts to unfair competition with respect to the trade name of his enterprise,
 the registered of the goods he is selling (fried and grilled chicken), and is
 trying to represent to the public that the respondent's enterprise and goods are
@@ -61,23 +61,25 @@ related to or affiliated with those of the plaintiff's. Intent of nor actual
 confusion is required, simply the reasonable likelihood of such confusion
 arising.\\
 
-Brian may seek and interdict for the respondent to cease trading under his
+Brian may seek an interdict for the respondent to cease trading under his
 registered trademark CHIC `N BITE and cease producing goods that are similar to
 the plaintiff's, if he can prove:
 - CHICKEN BITE *has acquired with the public a reputation associated
-  with his goods, services and or business. This follows naturally given that
+  with his goods, services and or business*. This follows naturally given that
   his outlets are well-known across South Africa and considered to produce tasty
   grilled and fried chicken.
-- CHIC `N BITE *conduct is like to deceive or confuse the public*. This also
+- CHIC `N BITE's *conduct is likely to deceive or confuse the public*. This also
   follows naturally given that the names are so similar and that he directly
   copied the spice mixture.
 
 There exist a number of examples in the context of South African case law that have
 qualified for the protection against unlawful competition based on passing
-off. /In the interests of non-repetition, kindly refer to the following section for detailed descriptions of said examples./
+off. /In the interests of non-repetition, kindly refer to the end sub-section which follows, sub-section ref:subsec-dilution, for detailed descriptions of said examples./
 
 ** Requirements for protection against unlawful competition based on Damage (Dilution) of Goodwill or Reputation
-The plaintiff, Brian may argue that the respondent Danny, acted unlawfully with
+label:subsec-dilution
+
+The plaintiff, Brian, may argue that the respondent Danny, acted unlawfully with
 respect to a concealed misappropriation within a competitive context and can
 apply to seek an interdict with respect to the defendant's enterprise
 to cease to trade with under their trade name and trade mark. To succeed in
@@ -152,18 +154,82 @@ own profit.
 
 * Discuss whether the approach followed by South African courts / law complies with the requirements imposed by international conventions and other instruments. [26]
 ** Passing off
-Due to its significance and importance, this particular [article
+Due to its significance and importance, this particular form of unlawful competition receives great attention in the
+international instruments, [article
 10^{bis}(3)(1)]cite:wipo83_paris_conve_protect_ip, [article
 2(1)]cite:wipo96_model_provi_unfair_comp and [article 16(1)]cite:wto17_trips,
-all make reference to it. In particular  the Model Provisions stimulates that /‘Any act or practice, in the course of industrial or commercial
+all make reference to it.\\
+
+In particular  the Model Provisions stimulates that /‘Any act or practice, in the course of industrial or commercial
 activities, that causes, or is likely to cause, confusion with
 respect to another’s enterprise or its activities, in particular,
 the products or services offered by such enterprise, shall
 constitute an act of unfair competition. ’/ Moreover neither actual confusion nor the intent to confuse is required as per
-[article 2(2)]cite:wipo96_model_provi_unfair_comp where particular articulation
-of a trademark, tradename or appearance of a product is specified. CHICK 'N BITE
-has introduced a false affiliation between themselves and the plaintiff. These considerations presented in the international instruments are in are
-agreement with South African case law.
+[article 2(2)]cite:wipo96_model_provi_unfair_comp where particular articulation the following is specified:
+- a trademark [article 2(2)(i)]cite:wipo96_model_provi_unfair_comp,
+- tradename [article 2(2)(ii)]cite:wipo96_model_provi_unfair_comp, or
+- the appearance or presentation of a product or services is specified.
 
+CHICK 'N BITE has introduced a false affiliation between themselves and the plaintiff. It follows that the two
+enterprises have the same or similar trademarks and tradenames, thus consumers may assume that a relationship exists
+between the two. Similarly with regards to the presentation of products and services and the associated marketing and
+advertising may lead to confusion amongst consumers.
+These considerations presented in the international instruments are in are
+agreement with South African case law, as was shown in the examples described above in sub-section ref:subsec-dilution and references to South African case law, cite:dijkhorst81_atlas_v_pikkewyn,joffe94_fifa_bartlett,holmes77_capital_v_holiday.
+
+** Damage (Dilution) of Goodwill or Reputation
+As per [article 3(1)]cite:wipo96_model_provi_unfair_comp provides the general framework for unlawful competition that is
+likely to damage another's goodwill or reputation. Whereas [article 3(2)]cite:wipo96_model_provi_unfair_comp
+specifically focusses on dilution as it pertains to another's goodwill, in particular the result of damage to
+goodwill or reputation of the plaintiff's CHICKEN BITE enterprise, by dilution by the respondent's of the applicant's:
+- trademark as per [article 3(2)(a)(i)]cite:wipo96_model_provi_unfair_comp,
+- tradename as per [article 3(2)(a)(ii)]cite:wipo96_model_provi_unfair_comp,
+- presentation of products or services , as per [article 3(2)(a)(v)]cite:wipo96_model_provi_unfair_comp
+
+Again where the similarities in trademark and trade name could result in
+confusion of the public and where the respondent could exploit the marketing and
+advertising enjoyed by the applicant.\\
+
+Moreover [article 3(2)(b)]cite:wipo96_model_provi_unfair_comp, specifically
+articulates how for the purposes of the model provisions the lessening of the
+distinctive character or advertising value of a trademark or presentation of the
+products or services implies the dilution of their goodwill and / or
+reputation.\\
+
+In the context of concealed misappropriation within an competition setting, the
+internation instruments corroborate South African case law, specifically as was
+described for the case involving cite:joffe94_fifa_bartlett, discussed in
+sub-section ref:subsec-dilution.
+
+** Secret information
+
+Although cite:wipo83_paris_conve_protect_ip does not provide and substantive
+treatment for secret information with regards to unfair competition, pertinent
+provisions are accommodated within [article 39(1)]cite:wto17_trips through the
+stipulation [article
+10^{textnormal{bis}}]cite:wipo83_paris_conve_protect_ip. Moreover [article
+39(2)]cite:wto17_trips provides the framework to prevent unlawful competition
+through the use of secret information by, either being used by, disclosed to or
+acquired by others without their consent in a manner contrary to honest
+practices, provided:
+- the information is *indeed secret and not generally know*, as per [article
+  6(i)]cite:wipo96_model_provi_unfair_comp and [article
+  39(2)(a)]cite:wto17_trips, the applicant satisfies this condition as he discovered the mixture of spices,
+- the information must have *commercial value*, as per [article
+  6(ii)]cite:wipo96_model_provi_unfair_comp and [article
+  39(2)(b)]cite:wto17_trips. The applicant satisfies this requirement as his enterprise is well-known and popular for its tasty chicken,
+- Lastly, as per [article 6(iii)]cite:wipo96_model_provi_unfair_comp [article
+  39(2)(c)]cite:wto17_trips, the applicant was required to *keep the information
+  secret* subject to reasonable circumstances. The respondent could argue that
+  the applicant failed to satisfy this requirement, while in a separate (or an
+  extended) matter, the applicant could argue that the respondent /stole/ the
+  memory drive with the secret recipe from him during the convention.
+
+Within the context of secret information as it pertains to unlawful competition,
+the internation instruments corroborate South African case law, for the most
+part. Where they may be perceived to perhaps deviate very slightly, is that the
+intentional instruments set the onus on the plaintiff to ensure that he has
+provided adequate safeguards in ensuring that their secret information is indeed
+kept secret.
 * Bibliography                                                       :ignore:
 \printbibliography
