@@ -42,7 +42,8 @@
     DEADLINE: <2017-04-24 Mon>
 
     DEADLINE: <2017-04-24 Mon>
-** TODO [#A] IPSP02Y - Essential Competition Law		:competition:
+** BUSY [#A] IPSP02Y - Essential Competition Law                :competition:
+   - State "BUSY"       from "TODO"       [2017-05-16 Tue 10:55]
 ** TODO [#A] IPSP033 - Essential Patent Law			     :patent:
 ** TODO [#A] IPSP044 - Essential Trademark Law			  :trademark:
 ** TODO [#A] IPSP055 - Essential Indusctrial Design Law			:idl:

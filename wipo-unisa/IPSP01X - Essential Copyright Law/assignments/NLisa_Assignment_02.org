@@ -1,0 +1,180 @@
+#+TITLE: IPSP01X - Essential Copyright Law
+#+SUBTITLE: Assignment 2 - Unique Number: 773723
+* LaTeX Preamble                                                     :ignore:
+#+LATEX_HEADER: \usepackage[margin=0.56in]{geometry}
+#+LATEX_HEADER: \usepackage[backend=bibtex, style=ieee]{biblatex}
+#+LATEX_HEADER: \addbibresource{/home/nuk3/course/training/csir/novellasers/bibliography/bibliography.bib}
+#+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[misc]{citetitle}{#1}
+#+LATEX_HEADER: \DeclareFieldFormat[misc]{title}{#1}
+#+LATEX_HEADER: \renewcommand*{\bibpagespunct}{%
+#+LATEX_HEADER:   \ifentrytype{inproceedings}
+#+LATEX_HEADER:     {\addspace}
+#+LATEX_HEADER:     {\addcomma\space}}
+#+LATEX_HEADER: \AtEveryCitekey{\ifuseauthor{}{\clearname{author}}}
+#+LATEX_HEADER: \AtEveryBibitem{\ifuseauthor{}{\clearname{author}}}
+#+OPTIONS: toc:nil
+* Declaration
+  :PROPERTIES:
+   :UNNUMBERED: t
+  :END:
+  - I know that plagiarism is to use someone else’s work and pass it off as my own.
+  - I know that plagiarism is wrong.
+  - I confirm that this assignment is my own work.
+  - I have acknowledged in the bibliography accompanying the assignment all the sources that I have used.
+  - I have not directly copied without acknowledgement anything from the Internet or from any other source.
+  - I have indicated every quotation and citation in a footnote or bracket linked to that quotation.
+  - I have not allowed anyone else to copy my work and to pass it off as their own work.
+  - I understand that if any unacknowledged copying whatsoever appears in my assignment I will receive zero per cent for the assignment.
+  - I am aware of the UNISA policy on plagiarism and understand that disciplinary proceedings can be instituted against me by UNISA if I contravene this policy.
+  - I indicate my understanding and acceptance of this declaration by
+    entering my name hereunder:
+    - Name: *Nyameko Lisa* (Student Number: *7874-909-3*)
+
+** NOTE
+Please note that footnotes will be denoted as [fn::This is a footnote.] and will
+appear at the bottom of the page.\\
+References will be denoted by cite:rsa78_copyrightact and will appear at the end of the document.
+\newpage
+
+* Henry is a junior programmer at XYZ Software.
+** Who is the author and who is the copyright owner in the programs? [6]
+According to [article 10(1)]cite:wto17_trips and [article
+4]cite:wipo96_copyright_treaty, computer programs are protected as `literary
+works' as defined in [article 2]cite:wipo86_berne. Moreover as per the
+definition in [section 1]cite:rsa78_copyrightact, Meagan is the author of the
+work. As Henry's supervisor she exercised control over the making of the
+computer program.\\
+
+Meagan authored the program during the course of her employment by XYZ, it
+follows by [section 21(d)]cite:rsa78_copyrightact, that XYZ owns the copyright.
+** What is the duration of copyright in a computer program? [2]
+As per [section 3(2)(b)]cite:rsa78_copyrightact, the longer term between fifty
+years from the end of the year in which the work is either first published or
+made publicly available with the author's consent. Or should neither be
+satisfied then fifty years from the end of the year in which the work is made.
+** Can the Reverse engineering exception [section 15(3A)]cite:rsa78_copyrightact apply to computer programs? [2]
+   No. As per [section 19B(2)(c)]cite:rsa78_copyrightact, copyright will be
+   infringed unless one is in lawful possession of a computer program or
+   authorised copy thereof, moreover one destroys such copies when they cease to
+   be lawful.
+* Explain the importance of [section 21(1)(e)]cite:rsa78_copyrightact. [5]
+  [section 21(1)(b-d)]cite:rsa78_copyrightact stipulate ownership of
+  copyright. In particular, should the work have been undertaken during the
+  course of employment or contract or commission or apprenticeship, the ownership
+  of the copyright will vest with the proprietor of the institution (or commissioner)
+  requesting / paying for the work. The importance of the clause, is that the
+  owner of the copyright s subject to the Moral Rights clause [section
+  20(1)]cite:rsa78_copyrightact, and thus cannot adapt the work in such a way as
+  to bring the original author's honour or reputation into disrepute. This will
+  amount to infringement of copyright, [section 20(2)]cite:rsa78_copyrightact,
+  and the author can claim ownership of the copyright in question.
+* Does this constitute moral rights infringement? [10]
+  As per [section 1]cite:rsa78_copyrightact the photo constitutes an
+  _artistic work_. Moreover as per [section 1(1)(c)]cite:rsa78_copyrightact, the
+  photo appearing in the magazine's October issue constitutes a _adaptation_ of
+  Ringo's original work. Ringo is the original author of the photograph,
+  responsible for it's original composition; and he is also the first owner of the copyright that subsists in that work [section 21(1)(a).\\
+
+  By submitting his photograph as an entry in the competition, as per [section
+  7(a-b)]cite:rsa78_copyrightact, Ringo authorized[fn::Pending further
+  investigation of the competition's terms and conditions] the magazine to
+  publish and / or reproduce the photograph in their August edition.\\
+
+  However, as per [section 7(e-f)]cite:rsa78_copyrightact, is was unlawful for
+  the magazine to make an adaptation of Ringo's photo and publish said
+  adaptation without either consent from the copyright owner nor acknowledgement
+  of the original author.\\
+
+  Should Ringo be able to demonstrate that the October edition of the magazine
+  and its depiction of the adapted photograph is prejudicial to his honour or
+  reputation, provided he did not agree to transfer the copyright of the photo
+  when entering the competition, then as per [section 20
+  (1-2)]cite:rsa78_copyrightact, he can claim authorship of the work, argue that
+  the magazine infringed on his moral rights, that they also infringed on
+  his copyright, and finally he could argue that they be liable for damages and
+  / or royalties.
+* Identify three exceptions in [section 12]cite:rsa78_copyrightact that can possibly excuse copyright infringement. [3]
+  Newspaper B can argue that they have not infringed on Newspaper A's copyright:
+  1. As per [section 12(7)]cite:rsa78_copyrightact, provided that the content
+     was a current economic, political or religious topic, Newspaper B did not
+     infringe copyright, as long as they mentioned the source and Newspaper A
+     has not expressly reserved the copyright in that article,
+  2. As per [section 12(8)(a), if the content was news of the day that amounts
+     to mere items of press information, then no copyright shall subsist in
+     Newspaper A's content.
+  3. As per [section 12(3)]cite:rsa78_copyrightact, quotations from articles in
+     newspapers do not infringe copyright provided these quotations constitute
+     /fair use/, and that the original source and authors are mentioned.
+  4. As per [section 12(1)(b)]cite:rsa78_copyrightact their use of the content
+     in question constitutes fair dealing and for the purposes of criticism or
+     review of that content or another work, and as per [section
+     12(c)(i)]cite:rsa78_copyrightact, for the purpose of reporting current
+     events in a newspaper; provided that the original source and author where mentioned,
+  5. As per [section 12(2)]cite:rsa78_copyrightact, had the content been judicial proceedings, that could argue that their reproduction of the content was to report on judicial proceedings.
+
+* Copyright shall not be infringed by any quotation from a work which is lawfully available to the public. [10]
+** Name the section and list the requirements that deal with this defence. label:subsec:defence_public_quotations
+
+   Section 12. General exceptions from protection of literary and musical works,
+   subsection 3. As per [section 12(3)]cite:rsa78_copyrightact, for this particular defence it is required that:
+   - the quotation is compatible with /fair practice/ or that it constitutes
+     /fair use/,
+   - the extent to which the quotation is implemented does not exceed the extent
+     justified by the purpose,
+   - the source is mentioned in the quotation,
+   - the name of the author shall be mentioned should it appears on the work.
+** Does answer in ref:subsec:defence_public_quotations, differ from requirements set out in [article 10(1),10(3)] cite:wipo86_berne?
+   No, the two legal instruments corroborate one another.
+** Why are cite:rsa78_copyrightact and cite:wipo86_berne so similar?
+   All members of the World Trade Organization are obliged to comply with the
+   substantive provisions in cite:wipo86_berne. Moreover South Africa is a Berne
+   Convention member Union country. Naturally it would follow that the Copyright
+   Act of South Africa would therefore at the very least comply with, if not
+   directly resemble the Berne Convention.
+* What are the requirements for the assignment (transfer) of copyright? [2]
+  As per [section 22(1)]cite:rsa78_copyrightact, one can transfer or assign
+  copyright as movable property by assignment, testamentary disposition, or
+  operation of law. However as per [section 22(3)]cite:rsa78_copyrightact, the
+  assignment of copyright shall have effect only if it is in writing and signed by
+  or on behalf of the corresponding assignor.
+* Name and briefly explain the remedies for copyright infringements. [10]
+As per [section 24(1)]cite:rsa78_copyrightact, at the suit
+of the owner of a copyright and as per [section 25(1)]cite:rsa78_copyrightact,
+at the suit of the exclusive (sub-)licensee of the copyright, one may take
+action against infringements of that copyright, where the plaintiff may be
+awarded relief by way of:
+** Damages
+   As per [section 24(1),(1A),(1B)]cite:rsa78_copyrightact, the plaintiff
+   may be entitled to damages or royalties in lieu of damages, where the court
+   may direct an enquiry to determine a reasonable amount at its
+   discretion. However, should the defendant prove that at the time the
+   copyright infringement occurred, he was neither aware nor had any reasonable
+   grounds to suspect that copyright subsisted in the work, then the plaintiff
+   shall not be entitled to any damages as per [section 24(2)]cite:rsa78_copyrightact.
+** Interdict
+   As per [section 24(1)]cite:rsa78_copyrightact, the court may direct the
+   defendant to cease exploitation of the infringing copies.
+** Delivery of infringing copies
+   As per [section 24(1)]cite:rsa78_copyrightact, the court may direct the
+   defendant to provide the plaintiff with all infringing copies, all plates
+   used or intended to be used for infringing copies or otherwise.
+** Fine
+   As per [section 27(6)(a-b)]cite:rsa78_copyrightact, should a defendant be
+   convicted of infringing the plaintiff's copyright, he'll be liable to a fine
+   and / or imprisonment for each article to which the offence relates:
+   - a fine not exceeding five thousand rand and / or imprisonment up to three
+     years in the case of a first conviction,
+   - a fine not exceeding ten thousand rand and / or imprisonment up to five years.
+** Restriction on the importation of goods
+   As per [section 28(1)]cite:rsa78_copyrightact the owner of the copyright in
+   any published work may request the Commissioner for Customs and Excise to
+   treat infringing copies as prohibited goods, provided they were made
+   outside[fn::It would constitute and infringing copy had it been made within
+   the Republic.] the Republic, [section 28(2)]. As per [section
+   28(4)]cite:rsa78_copyrightact the infringer will not be liable for any
+   penalties under the Customs and Excise Act No. 91 of 1964, other than the
+   forfeiture of any /prohibited/ goods.
+* Bibliography                                                       :ignore:
+\printbibliography

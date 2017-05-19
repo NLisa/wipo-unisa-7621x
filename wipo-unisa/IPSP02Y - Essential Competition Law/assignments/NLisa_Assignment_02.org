@@ -1,0 +1,83 @@
+#+TITLE: IPSP02Y - Essential Competition Law
+#+SUBTITLE: Assignment 2 - Unique Number: 724437
+* LaTeX Preamble                                                     :ignore:
+#+LATEX_HEADER: \usepackage[margin=0.80in]{geometry}
+#+LATEX_HEADER: \usepackage[backend=bibtex, style=ieee]{biblatex}
+#+LATEX_HEADER: \addbibresource{/home/nuk3/course/training/csir/novellasers/bibliography/bibliography.bib}
+#+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[misc]{citetitle}{#1}
+#+LATEX_HEADER: \DeclareFieldFormat[misc]{title}{#1}
+#+LATEX_HEADER: \renewcommand*{\bibpagespunct}{%
+#+LATEX_HEADER:   \ifentrytype{inproceedings}
+#+LATEX_HEADER:     {\addspace}
+#+LATEX_HEADER:     {\addcomma\space}}
+#+LATEX_HEADER: \AtEveryCitekey{\ifuseauthor{}{\clearname{author}}}
+#+LATEX_HEADER: \AtEveryBibitem{\ifuseauthor{}{\clearname{author}}}
+#+OPTIONS: toc:nil
+* Declaration
+  :PROPERTIES:
+   :UNNUMBERED: t
+  :END:
+  - I know that plagiarism is to use someone else’s work and pass it off as my own.
+  - I know that plagiarism is wrong.
+  - I confirm that this assignment is my own work.
+  - I have acknowledged in the bibliography accompanying the assignment all the sources that I have used.
+  - I have not directly copied without acknowledgement anything from the Internet or from any other source.
+  - I have indicated every quotation and citation in a footnote or bracket linked to that quotation.
+  - I have not allowed anyone else to copy my work and to pass it off as their own work.
+  - I understand that if any unacknowledged copying whatsoever appears in my assignment I will receive zero per cent for the assignment.
+  - I am aware of the UNISA policy on plagiarism and understand that disciplinary proceedings can be instituted against me by UNISA if I contravene this policy.
+  - I indicate my understanding and acceptance of this declaration by
+    entering my name hereunder:
+    - Name: *Nyameko Lisa* (Student Number: *7874-909-3*)
+
+** NOTE
+Please note that footnotes will be denoted as [fn::This is a footnote.] and will
+appear at the bottom of the page.\\
+References will be denoted by cite:wipo83_paris_conve_protect_ip and will appear at the end of the document.
+\newpage
+
+* Discuss quotation from [citetitle:dijkhorst81_atlas_v_pikkewyn] cite:dijkhorst81_atlas_v_pikkewyn and its compliance with international conventions and other instruments to determine whether competition is unlawful. [10]
+
+  The law of Republic recognises and grants a general action in the case of
+  unlawful competition based on the principles of /lex Aquilia./ As per *the
+  quotation* from Judge van Dijkhorst cite:dijkhorst81_atlas_v_pikkewyn the
+  difficulty in establishing an action in the case of unlawful competition is to
+  quantify the degree of unfairness and \ or dishonesty. Moreover, as per Judge
+  van Dijkstra, the ideal legal instrument is one in which the framework for
+  establishing or trying unlawful competition is well defined and robust enough
+  to provide adequate direction to the courts, but not so rigid as to restrict
+  the sentiment of an environment of fair play and open competition.\\
+
+  As per [article 10^{bis}]cite:wipo83_paris_conve_protect_ip, where it is
+  stipulated that (1) Union member countries must provide adequate protection for
+  the nationals against unfair competition; (2) dishonest[fn::Any acts of
+  competition contrary to honest practices in industrial or commercial matters.]
+  acts of competition constitutes acts of unfair competition; and finally (3) a
+  detailed list and description of the forms and nature of acts that would
+  constitute unlawful competition. *The quotation* indeed complies with the
+  requirements of citetitle:wipo83_paris_conve_protect_ip.\\
+
+  In corroboration to the above [article 1]cite:wipo96_model_provi_unfair_comp
+  emphasises that in the course of industrial or commercial activities an act or
+  practice that is contrary to honest practices shall be deemed as an act of
+  unfair competition. Moreover cite:wipo96_model_provi_unfair_comp does not
+  require the entities to be in direct competition, unlike
+  cite:wipo83_paris_conve_protect_ip. The basis for much of the provisions and
+  notes of citetitle:wipo96_model_provi_unfair_comp, are based on those
+  described in [article 10^{bis}]cite:wipo83_paris_conve_protect_ip, albeit in much
+  more detail and specifics. *The quotation* does indeed comply with these
+  requirements.\\
+
+  As per [article 40]cite:wto17_trips, members of the World Trade Organisation,
+  members are free to determine appropriate methods in implements it's
+  provisions, moreover regarding competition cite:wto17_trips gives particular
+  attention to intellectual property rights, their abuse and subsequent adverse
+  effects in relevant markets, trade, transfer and dissemination of
+  technology. For the most part *the quotation* is in agreement with the
+  provisions of cite:wto17_trips.
+
+
+* Bibliography                                                       :ignore:
+\printbibliography

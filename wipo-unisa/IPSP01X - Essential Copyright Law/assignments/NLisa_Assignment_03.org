@@ -1,0 +1,219 @@
+#+TITLE: IPSP01X - Essential Copyright Law
+#+SUBTITLE: Assignment 3 - Exam
+* LaTeX Preamble                                                     :ignore:
+#+LATEX_HEADER: \usepackage[margin=0.56in]{geometry}
+#+LATEX_HEADER: \usepackage[backend=bibtex, style=ieee]{biblatex}
+#+LATEX_HEADER: \addbibresource{/home/nuk3/course/training/csir/novellasers/bibliography/bibliography.bib}
+#+LATEX_HEADER: \DeclareFieldFormat[InProceedings]{citetitle}{\textit{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[misc]{citetitle}{#1}
+#+LATEX_HEADER: \DeclareFieldFormat[misc]{title}{#1}
+#+LATEX_HEADER: \renewcommand*{\bibpagespunct}{%
+#+LATEX_HEADER:   \ifentrytype{inproceedings}
+#+LATEX_HEADER:     {\addspace}
+#+LATEX_HEADER:     {\addcomma\space}}
+#+LATEX_HEADER: \AtEveryCitekey{\ifuseauthor{}{\clearname{author}}}
+#+LATEX_HEADER: \AtEveryBibitem{\ifuseauthor{}{\clearname{author}}}
+#+OPTIONS: toc:nil
+* Declaration
+  :PROPERTIES:
+   :UNNUMBERED: t
+  :END:
+  - I know that plagiarism is to use someone else’s work and pass it off as my own.
+  - I know that plagiarism is wrong.
+  - I confirm that this assignment is my own work.
+  - I have acknowledged in the bibliography accompanying the assignment all the sources that I have used.
+  - I have not directly copied without acknowledgement anything from the Internet or from any other source.
+  - I have indicated every quotation and citation in a footnote or bracket linked to that quotation.
+  - I have not allowed anyone else to copy my work and to pass it off as their own work.
+  - I understand that if any unacknowledged copying whatsoever appears in my assignment I will receive zero per cent for the assignment.
+  - I am aware of the UNISA policy on plagiarism and understand that disciplinary proceedings can be instituted against me by UNISA if I contravene this policy.
+  - I indicate my understanding and acceptance of this declaration by
+    entering my name hereunder:
+    - Name: *Nyameko Lisa* (Student Number: *7874-909-3*)
+
+** NOTE
+Please note that footnotes will be denoted as [fn::This is a footnote.] and will
+appear at the bottom of the page.\\
+References will be denoted by cite:rsa78_copyrightact and will appear at the end of the document.
+\newpage
+
+
+* Name three types of copyright "work" embodied in Mia's published articles. [5]
+
+As per [section 1]cite:rsa78_copyrightact, Mia's articles constitute /literary
+works/ in the form of written reports, /artistic works/ in the form of photographs
+and /published editions/ in the form of the published articles appearing in
+Evergreen magazine, all of which are eligible for copyright as per [sections
+2(1)(a, c & h)]cite:rsa78_copyrightact respectively.
+
+* Is it possible for copyright to subsist in Roxy's drawing even if it infringes the copyright in another dress which she saw in a teen magazine? [20]
+As per the definitions in [section 1 & section 1(1)(c)]cite:rsa78_copyrightact,
+Roxy's drawing can be considered as an *artistic work*, moreover depending on
+the degree to which there are substantial features in common with the original
+dress featured in the teen magazine, it may be considered as an *artistic
+adaptation* or *artistic reproduction*. Since Roxy was the first person to make or
+create the drawing, it follows that she is the *author* of the drawing as per [section 1]cite:rsa78_copyrightact.\\
+
+Roxy's drawing must meet the /`inherent'/ and /`formal'/ or
+/`statutory'/ requirements for copyright to subsist in her work.
+** Inherent Requirements
+  - The requirement of material embodiment is clearly satisfied as the
+    work exists in material form.
+  - As per [article 9(2)]cite:wto17_trips and
+    [article 2]cite:wipo96_copyright_treaty, it can be argued that the
+    Roxy's drawing is a /`particular form of expression of
+    thought'/, thus satisfying the requirement of originality.
+** Formal Requirements
+  - As a student of a school in Cape Town, it is implied that she is either a
+    citizen of, or domiciled in, or a permanent resident of a Berne
+    Convention country [section 3, section 37]cite:wipo86_berne,
+    meaning that she was a *qualified person* at the time of creation
+    of the work and thus making her the author.
+  - Moreover it is implied that the work was first made in South
+    Africa, [section 4]cite:rsa78_copyrightact, hence Roxy may allege
+    that the drawing meets the statutory requirements for the
+    subsistence of copyright in the work.
+
+** Yes, copyright subsists in Roxy's work.
+As an /`adaptation of an artistic work'/, Roxy's drawing also enjoys copyright
+protection, independently of the original copyright protected dress appearing in
+the teen magazine, as per [article 2(3)]cite:wipo86_berne. By reproducing the
+dress she saw in the teen magazine and / or making an adaptation thereof, Roxy
+has infringed the exclusive rights of the authors / copyright owners to perform or
+authorize those actions, as per [section 7(a),(e)]cite:rsa78_copyrightact.\\
+
+Moreover as per [section 2(3)]cite:rsa78_copyrightact, Roxy's drawing is not
+ineligible for copyright even though it's creation would
+amount to infringements of copyright in the original dress appearing in the teen
+magazine.\\
+
+Lastly Roxy's drawing does not infringe on copyright if she made the drawing
+purely for private and personal use, as per [section
+12(1)(a)]cite:rsa78_copyrightact. However, she will be unable to exploit her
+design without infringing on the copyright enjoyed in the dress appearing in the
+teen magazine.
+
+* When will the copyright in their wedding photographs expire? [5]
+As per [section 3(2)(b)]cite:rsa78_copyrightact, the copyright will expire fifty
+years from the end of the year in which Ann and Mark either publish or consent
+to make their wedding photographs publicly available. If neither of the two
+events have occurred within fifty years of their wedding, then the copyright
+will expire in fifty years from the end of 2013, i.e. at the end of year 2063.
+
+* Does Raymond infringe on the copyright in Amanda's paintings? [25]
+As per the definitions provided in [section 1]cite:rsa78_copyrightact,
+Raymond's paintings, constitute *adaptations* of the *infringing copies* of
+Amanda's /`original'/ *artistic works*, i.e. her paintings, the photographs
+of her paintings and the published editions of the photographs of her
+paintings.\\
+
+As per definitions in [section 1]cite:rsa78_copyrightact and [section
+2(1)(c),(h)]cite:rsa78_copyrightact, Amanda is the *author* and copyright
+owner[fn::It is assumed that copyright subsists in all of her works, as the
+focus of the question is Raymond's infringement of said copyright.] for her
+paintings, the photographs of her paintings and the published (online) editions
+of the photographs of her paintings, as per [section
+21(1)(a)]cite:rsa78_copyrightact.\\
+
+** Exclusive Rights
+
+However, as per [section 7(a)]cite:rsa78_copyrightact, Raymond's printed
+photographs of Amanda's paintings constitute infringing copies, that violate the
+exclusive rights of the copyright owner, specifically in respect of the right to
+either carry out or authorize the reproduction of the Amanda's
+photographs. Moreover the right to make an adaptation of the work[fn::Or
+reproductions thereof.], [section 7(e)]cite:rsa78_copyrightact vests solely with the copyright owner.\\
+
+** Direct Infringement
+By performing any of the acts that a copyright vests the exclusive
+right to either perform or authorize the performance thereof, without
+the authors' consent constitutes a /`direct infringement'/, [section
+7]cite:rsa78_copyrightact.
+
+** Indirect Infringement
+
+Each time the /`infringer'/ Raymond, consciously furthers the commission of any
+acts that only the authors are permitted to do or authorize to do, constitutes
+an /`indirect infringement'/. Such would be the case with the exploitation of
+the infringing work, for example the sale or distribution [Section
+23(2)(b-c)]cite:rsa78_copyrightact, of Raymond's adaptations (paintings) of the
+printed photographs of Amanda's original paintings.
+
+** Copyright Exceptions
+It is important to note that if Raymond had used the printed copies of the
+photographs of Amanda's paintings from her website, and his subsequent paintings
+created from these copies, for his own personal or private use, research,
+criticism or review, or for purposes of reporting current events, does not
+constitute an unlawful act and copyright of Amanda's works would not have been
+infringed upon, as per [section 15(4)]cite:rsa78_copyrightact. However given
+that he produces the paintings under his own name, it is assumed that his usage
+_does not_ constitute /fair use/.\\
+
+** Test for Copyright Infringement
+In establishing copyright infringement, it must be demonstrated that the
+copyrighted work has indeed been copied, through the following two inquiries,
+(citetitle:corbett89_galago_v_erasmus) cite:corbett89_galago_v_erasmus
+*** Objective Connection
+An objective connection between a substantial part of the copyright work and the
+alleged infringing work - this follows clearly given that it is alleged that
+Raymond printed copies of Amanda's photographs of her paintings, and based his
+own paintings on those photographs. It may be possible for Raymond to argue that
+the two works share a common prior art in which copyright does not subsist. This
+would require a work which has substantial qualitatively similarities with both
+Amanda's and Raymond's works.
+*** Subjection Connection
+There should be a causal connection between the copyrighted work and the alleged
+infringing work. It must be shown that Raymond had /`access'/ to the original
+work - again this follows clearly as it is stipulated that he printed copies of
+photographs of Amanda's completed paintings from her website.
+
+** Yes, Raymond does infringe on the copyright in Amanda's work
+Even though Raymond's paintings themselves enjoy copyright protection as
+an adaptation of an *artistic work*, as per [article
+2]cite:wipo86_berne, regardless of whether their creation infringes on the
+copyright of another work [section 2(3)]cite:rsa78_copyrightact; every time his work is sold, reproduced or distributed,
+it will be an infringement of the copyright enjoyed by the Amanda's paintings,
+photographs and published (online) work. Thus Raymond will be liable for
+copyright infringement whenever he tries to exploit the work, as stipulated in [article 6]cite:wto17_trips.
+
+
+* Leon is a young film maker from Cape Town.
+
+** Can Leon make commissioned films and still own the copyright in those films? [5]
+As per [section 21(1)(c)]cite:rsa78_copyrightact, the owner of the copyright in
+the commissioned cinematograph film will be the person who pays or agrees to pay
+the monetary value for the film, as it is made in pursuance of said
+commission.\\
+
+However, this is subject to the provisions of [section 21(1)(b)]cite:rsa78_copyrightact, which stipulates that in the case where work
+is commissioned for the purpose of publication, then the proprietor of the
+organisation requesting the commission of the work will be the owner of the
+copyright as far as it relates to publication or reproduction for the purposes
+of publication, in all other respects however the author is the owner of any
+copyright subsisting in the work.\\
+
+It follows therefore based on the provisions of [section 21(1)(b)], on could
+argue that the television channels commissioning the films will own the
+broadcasting rights, and any reproduction of the film for the purpose of them
+being broadcast, but in all other respects
+
+** Do exceptions [section 15(1) or 15(3)]cite:rsa78_copyrightact apply? [2]
+
+** Does the general fair dealing exception [section 12(1)]cite:rsa78_copyrightact apply? [8]
+
+* Discuss the possibility that James can rely on the reverse-engineering defence [section 15(3A)]cite:wipo96_copyright_treaty. [10]
+
+* What moral rights are protected by citetitle:rsa78_copyrightact? [5]
+As per [section 20(1)]cite:rsa78_copyrightact, in spite of the transfer of the
+copyright in a literary, musical or artistic work, cinematograph film or
+computer program, the author may claim authorship of the work and oppose any
+modifications, mutilations or distortions that would bring the author into
+disrepute. However, an author who's authorised the use of his work in a
+cinematograph film or television broadcast or computer program may not oppose
+modifications necessary on a technical basis or for commercial exploitation.
+
+* How my perceptions of copyright and/or specific copyright issues have changed during the course of this module. [15]
+
+* Bibliography                                                       :ignore:
+\printbibliography
