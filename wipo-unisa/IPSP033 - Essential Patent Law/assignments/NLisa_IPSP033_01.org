@@ -1,0 +1,80 @@
+* LaTeX Preamble                                                     :ignore:
+#+TITLE: IPSP033 - Essential Patent Law
+#+SUBTITLE: Assignment 01 - 721244
+
+#+LATEX_HEADER: \usepackage[margin=0.80in]{geometry}
+#+LATEX_HEADER: \usepackage[backend=biber, style=ieee]{biblatex}
+#+LATEX_HEADER: \usepackage{float}
+#+LATEX_HEADER: \usepackage[super,negative]{nth}
+#+LATEX_HEADER: \usepackage[capitalise]{cleveref}
+#+LATEX_HEADER: \usepackage{pst-node,transparent,ragged2e}
+#+LATEX_HEADER: \addbibresource{/home/nuk3/course/training/csir/novellasers/bibliography/bibliography.bib}
+#+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[misc]{citetitle}{#1}
+#+LATEX_HEADER: \DeclareFieldFormat[misc]{title}{#1}
+#+LATEX_HEADER: \renewcommand*{\bibpagespunct}{%
+#+LATEX_HEADER:   \ifentrytype{inproceedings}
+#+LATEX_HEADER:     {\addspace}
+#+LATEX_HEADER:     {\addcomma\space}}
+#+LATEX_HEADER: \AtEveryCitekey{\ifuseauthor{}{\clearname{author}}}
+#+LATEX_HEADER: \AtEveryBibitem{\ifuseauthor{}{\clearname{author}}}
+
+#+OPTIONS: toc:nil
+#+LATEX_HEADER: \SpecialCoor
+
+# Institution
+#+BEGIN_EXPORT latex
+%\addvspace{2pt}
+\centering{
+\pnode(0.5\textwidth,-0.5\textheight){thisCenter}
+\rput(thisCenter){\transparent{0.25} \includegraphics[width=2.7in]{/home/nuk3/course/llb/wipo-unisa/UNISACoatofArms.eps}}}
+#+END_EXPORT
+
+#+LaTeX: \justifying
+* Declaration
+  :PROPERTIES:
+   :UNNUMBERED: t
+  :END:
+  - I know that plagiarism is to use someone else’s work and pass it off as my own.
+  - I know that plagiarism is wrong.
+  - I confirm that this assignment is my own work.
+  - I have acknowledged in the bibliography accompanying the assignment all the sources that I have used.
+  - I have not directly copied without acknowledgement anything from the Internet or from any other source.
+  - I have indicated every quotation and citation in a footnote or bracket linked to that quotation.
+  - I have not allowed anyone else to copy my work and to pass it off as their own work.
+  - I understand that if any unacknowledged copying whatsoever appears in my assignment I will receive zero per cent for the assignment.
+  - I am aware of the UNISA policy on plagiarism and understand that disciplinary proceedings can be instituted against me by UNISA if I contravene this policy.
+  - I indicate my understanding and acceptance of this declaration by
+    entering my name hereunder:
+    - Name: *Nyameko Lisa* (Student Number: *7874-909-3*)
+
+** NOTE
+Please note that footnotes will be denoted as [fn::This is a footnote.] and will
+appear at the bottom of the page.\\
+References will be denoted by cite:rsa78_patents_act and will appear at the end of the document.
+\newpage
+
+* Identify three forms of unlawful competition which are applicable in the given scenario. [6]
+Brian may seek relief, amongst other grounds, on the basis of:
+  - *Passing off*, in light of the similarities of the registered trademarks both companies operate under, as per [article
+    10^{bis}(3)(1)]cite:wipo83_paris_conve_protect_ip, [article
+    2(1)]cite:wipo96_model_provi_unfair_comp and [article 16(1)]cite:wto17_trips.
+  - /Damage another's goodwill or reputation/, specifically the *Dilution of their
+    goodwill or reputation*, in regard to the lessening of distinctive character
+    or advertising value of the CHICKENBITE trademarks, as well as the appearance and
+    presentation of the product, as per [article 3(2)]cite:wipo96_model_provi_unfair_comp
+  - *Unfair competition in respect of secret information*, where Danny unlawfully
+    acquired the memory stick with the recipe discovered by Brian, as per
+    [article 39(2)]cite:wto17_trips and [article 6(1)]cite:wipo96_model_provi_unfair_comp.
+* Citations to use
+cite:wto17_trips,wipo83_paris_conve_protect_ip
+
+Patent Cooperation Treaty cite:wipo70_pct
+
+* Discuss whether the device qualifies as an invention for the purposes of patent protection.
+* Discuss whether the device meets the novelty requirement.
+* Discuss whether the device meets the inventiveness requirement.
+
+* Bibliography                                                       :ignore:
+\printbibliography

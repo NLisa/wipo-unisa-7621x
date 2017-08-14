@@ -2,7 +2,7 @@
 #+SUBTITLE: in Law, Accounting and Economics
 * LaTeX Preamble                                                     :ignore:
 #+LATEX_HEADER: \usepackage[backend=bibtex, style=ieee]{biblatex}
-#+LATEX_HEADER: \addbibresource{~/course/training/csir/novellasers/bibliography/bibliography.bib}
+#+LATEX_HEADER: \addbibresource{/home/nuk3/course/training/csir/novellasers/bibliography/bibliography.bib}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{number}{#1}
@@ -15,11 +15,15 @@
 
 * BUSY [#A] WIPO-UNISA Intellectual Property Specialization Programme :ip:law:
   - State "BUSY"       from              [2017-03-13 Mon 17:20]
-** BUSY [#A] IPSP01X - Essential Copyright Law                    :copyright:ipsp01x:
+** DONE [#A] IPSP01X - Essential Copyright Law            :copyright:copy:
+   CLOSED: [2017-08-11 Fri 15:15]
+   - State "DONE"       from "BUSY"       [2017-08-11 Fri 15:15]
    - State "BUSY"       from "TODO"       [2017-03-14 Tue 14:52]
 *** External Resources
     cite:wto17_trips,wipo96_copyright_treaty,wipo86_berne
-*** TODO Study Units
+*** DONE Study Units
+    CLOSED: [2017-08-11 Fri 15:21]
+    - State "DONE"       from "TODO"       [2017-08-11 Fri 15:21]
 **** TODO [#A] Copyright and Related Rights
      [[file:wipo-unisa/IPSP01X%20-%20Essential%20Copyright%20Law/study_units/Study%20Unit%201.pdf][Study Unit 1]]
 **** TODO [#A] Is there an International System of Copyright Protection
@@ -33,24 +37,32 @@
      [[file:wipo-unisa/IPSP01X%20-%20Essential%20Copyright%20Law/study_units/Study%20Unit%205.pdf][Study Unit 5]]
 **** TODO [#A] How is Copyright Infringed
      [[file:wipo-unisa/IPSP01X%20-%20Essential%20Copyright%20Law/study_units/Study%20Unit%206.pdf][Study Unit 6]]
-**** TODO [#A] What are the Remedies Available to an Author Whose Copyright has been Infringed
+**** DONE [#A] What are the Remedies Available to an Author Whose Copyright has been Infringed
+     CLOSED: [2017-08-11 Fri 15:21]
      [[file:wipo-unisa/IPSP01X%20-%20Essential%20Copyright%20Law/study_units/Study%20Unit%207.pdf][Study Unit 7]]
-*** BUSY [#A] Assignment 1
-    DEADLINE: <2017-03-20 Mon>
+*** DONE [#A] Assignment 1
+    CLOSED: [2017-08-11 Fri 15:21] DEADLINE: <2017-03-20 Mon>
+    - State "DONE"       from "BUSY"       [2017-08-11 Fri 15:21]
     - State "BUSY"       from              [2017-03-14 Tue 14:54]
-*** TODO [#B] Assignment 2
-    DEADLINE: <2017-04-24 Mon>
+*** DONE [#B] Assignment 2
+    CLOSED: [2017-08-11 Fri 15:21] DEADLINE: <2017-04-24 Mon>
 
+    - State "DONE"       from "TODO"       [2017-08-11 Fri 15:21]
     DEADLINE: <2017-04-24 Mon>
-** BUSY [#A] IPSP02Y - Essential Competition Law                :competition:
+** DONE [#A] IPSP02Y - Essential Competition Law                :comp:
+   CLOSED: [2017-08-11 Fri 15:15]
+   - State "DONE"       from "BUSY"       [2017-08-11 Fri 15:15]
    - State "BUSY"       from "TODO"       [2017-05-16 Tue 10:55]
-** TODO [#A] IPSP033 - Essential Patent Law			     :patent:
-** TODO [#A] IPSP044 - Essential Trademark Law			  :trademark:
-** TODO [#A] IPSP055 - Essential Indusctrial Design Law			:idl:
+** BUSY [#A] IPSP033 - Essential Patent Law                          :patent:
+   - State "BUSY"       from "TODO"       [2017-08-11 Fri 15:15]
+** BUSY [#A] IPSP044 - Essential Trademark Law                    :tm:
+   - State "BUSY"       from "TODO"       [2017-08-11 Fri 15:15]
+** TODO [#A] IPSP055 - Essential Indusctrial Design Law			:idlaw:
 ** TODO [#A] IPSP066 - Internet Aspects of Copyright and Trademarks
 ** TODO [#A] IPSP078 - Legal Aspects of Electronic Commerce
 ** TODO [#A] IPSP098 - Traditional Knowledge and Biodiversity
 * TODO [#C] Part-Time LLB / BCOM				       :wits:
+  BCom Accounting and Economics with Law (2019 - 2023)
 * Bibliography                                                       :ignore:
 #+BEGIN_EXPORT latex
 \printbibliography
