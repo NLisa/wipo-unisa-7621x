@@ -87,11 +87,9 @@ globally'/ and that:
 #+BEGIN_QUOTE
 /``...global appreciation of the visual, aural or conceptual similarity of the marks in question, must be based on the overall impression given by the marks, bearing in mind, in particular, their distinctive and dominant components.''/
 #+END_QUOTE
- \\
+\\
 
-As per the provisions of [section 34(1)(a)]cite:rsa93_tm_act, P's registered trade mark EVENFLOW, is only protected against infringement by use of M's EVENFLO, in relation to goods or services in respect of which the trade mark is registered, i.e. if M had filed an application to register his EVENFLO paints as class 3: cosmetics, this would constitute infringement that is directly actionable against under [section 34(1)(a)]cite:rsa93_tm_act.\\
-
-However, as per the provisions of [section 34(1)(b)]cite:rsa93_tm_act, the similarities between the registered trade mark of P, EVENFLOW and that of the one in the application by M, EVENFLO, are abundantly apparent. Should P be able to demonstrate that in the course of trade of the similar mark EVENFLO, that even when registered as class 2: PAINTS and VARNISHES, the similarities in their use may amount to deception or confusion, and the exploitation of the goodwill garnered by P's EVENFLOW.\\
+As per the provisions of [section 34(1)(b)]cite:rsa93_tm_act, the similarities between the registered trade mark of P, EVENFLOW and that of the one in the application by M, EVENFLO, are plainly apparent. Should P be able to demonstrate that in the course of trade of the similar mark EVENFLO, that even when registered in different classes, the similarities in their use may amount to deception or confusion, and the exploitation of the goodwill garnered by P's EVENFLOW.\\
 
 Moreover, as per the provisions of [article 2(1)]cite:wipo96_model_provi_unfair_comp and [article 10^{bis}(3)(3)]cite:wipo83_paris_conve_protect_ip, P could argue that use and registration of M's mark EVENFLO, would amount to /unfair competition/, in that the registration or use of the mark EVENFLO in the course of trade is likely to cause confusion with the trademark EVENFLOW, [article 2(2)(i)]cite:wipo96_model_provi_unfair_comp, or to mislead the public [article 4(1)]cite:wipo96_model_provi_unfair_comp as to the nature of those goods, through exploitation of the goodwill enjoyed by P and his trademark EVENFLOW. Thus amounting to unfair competition through the /dilution/[fn::/``Lessening of the distinctive character or advertising value of a trademark''./] of the EVENFLOW trade mark's goodwill or reputation, [article 3(2)(a)(i)]cite:wipo96_model_provi_unfair_comp.
 
