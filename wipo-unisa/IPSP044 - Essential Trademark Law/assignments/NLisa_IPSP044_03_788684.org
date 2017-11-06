@@ -21,6 +21,7 @@
 #+LATEX_HEADER:     {\addcomma\space}}
 #+LATEX_HEADER: \AtEveryCitekey{\ifuseauthor{}{\clearname{author}}}
 #+LATEX_HEADER: \AtEveryBibitem{\ifuseauthor{}{\clearname{author}}}
+#+LATEX_HEADER: \renewcommand\thesection{(\alph{section})}
 
 #+LATEX_HEADER: \PassOptionsToPackage{hyperref,x11names}{xcolor}
 #+LATEX_HEADER: \hypersetup{colorlinks=true,citecolor=blue,filecolor=cyan,linkcolor=black,urlcolor=blue}
@@ -62,22 +63,79 @@ appear at the bottom of the page.\\
 References will be denoted by cite:rsa78_patents_act and will appear at the end of the document.
 \newpage
 
-* Advise Dr Genius whether Dr De Ville is infringing his patent rights.
+* Resources
 
-As per [section 45(1)]cite:rsa78_patents_act and [Article 28(1)]cite:wto17_trips, Dr Genius' patent grants him monopoly and exclusive rights to exclude others from making /(manufacture, fabrication and production of)/, using /(incorporating into motor vehicles, and possession with intent to sell)/, exercising /(making use of and incorporating into motor vehicles)/, disposing of (distributing, marketing and selling), or offering to dispose of /(offering to distribute, market or sell)/ his patented invention.\\
+cite:wto17_trips
 
-Therefore anyone who performs any one of these acts, except where specifically qualified by a statutory provision such as a license [section 53]cite:rsa78_patents_act and [Article 28(2)]cite:wto17_trips, without consent of patentee, infringes the patent, and the patentee is entitled to enforce his patent rights by instituting proceedings against such an infringer, [section 65(1)]cite:rsa78_patents_act and [Article 41(1)]cite:wto17_trips.\\
+cite:nienaber02_arjo_v_idem,clayden55_int_tobaco_v_united_tobaco,joffe94_fifa_bartlett,wipo57_ncl,vivier2000_cadbury_v_beacon,harms01_cowbell_v_ics,moseneke06_laugh_v_sab,corbett97_mcd_v_joburgers,corbett84_plascon_v_riebeeck,harms07_verimark_v_bmw,davis42_levin_v_numplates
 
-Traditionally, in manufacturing and marketing a similar device which _embodies all of the essential features or characteristics_ of the patent claim, Dr Genius would have been able to seek remedies against Dr De Ville for infringement as per the /`doctrine of pith-and-marrow'/, as worded in citetitle:steyn60_frank_hirch_v_rodi_wien cite:steyn60_frank_hirch_v_rodi_wien.\\
+* Advise Aroma Company whether the mark qualifies for registration as a trade mark. [25]
+As per the definitions of [section 2(1)]cite:rsa93_tm_act and given that the
+Republic is a Paris Convention Member State, [article 15(1)]cite:wto17_trips,
+[article 1(2)]cite:wipo83_paris_conve_protect_ip, it follows that /`TROPIC
+GLOW'/ will be understood to be a *mark*, in that it is either a name or sign
+capable of being represented graphically. Moreover it constitutes a *trade
+mark*, as it has been proposed by Aroma Company, in relation to distinguishing
+their trade or use from other goods or services connected in the course of trade
+regarding /`soaps, perfumery, essential oils and cosmetics'/. Therefore it
+follows as per [section 9(1)]cite:rsa93_tm_act, that TROPIC GLOW qualifies for
+registration as trade mark, subject to limitations, in relation to use within
+those limitations, and thus the unregistrability conditions of the
+provisions of [paragraphs (1), (4), (5), (8), (9), (10) or (11) of section 10]cite:rsa93_tm_act,
+cannot be applied.\\
 
-The fact that Dr De Ville has manufactured and marketed a device that may have a similar result or similar fundamental operation to that of Dr Genius, has no bearing on infringement. For any remedy against infringement, Dr Genius will need to demonstrate that *all* the essential components or integers that are present in his patent claim, are indeed present in the allegedly infringing article, collectively acting in the manner claimed.\\
+As per [section 2(4)]cite:rsa93_tm_act, /`use'/ or /`proposed use'/ shall be
+construed as the use of a visual representation of the mark [section
+2(2)(a)]cite:rsa93_tm_act, as pertaining to physical form or other relation in
+terms of goods[section 2(3)(a)]cite:rsa93_tm_act, or as pertaining to the use
+thereof in any relation to the performance of any services[fn::Also referred to
+as service marks, [article 1(2)]cite:wipo83_paris_conve_protect_ip] [section
+2(3)(b)]cite:rsa93_tm_act. Provided that no others claim priority to the TROPIC
+GLOW mark at the  of application for registration, then as per [section
+9(2)]cite:rsa93_tm_act, TROPIC GLOW shall be considered to be capable of
+distinguishing within the meaning described above. Thus also negating the
+unregistrability conditions of the provisions of [paragraphs (2), (3) or (6) of section 10]cite:rsa93_tm_act\\
 
-In South African law this is referred to as the /`doctrine of purposive construction'/, and was particularly well articulated in citetitle:corbett87_rauben_kreepy_krauly cite:corbett87_rauben_kreepy_krauly, where the court held that the swimming pool cleaning device of the respondent did not infringe appellants' patent where one of the essential integers of a claim in the appellants' patent was not present in the respondents' device, even though the two devices achieve the same result and have the same fundamental operation.\\
+As per [section 11(1)]cite:rsa93_tm_act, the TROPIC GLOW mark is proposed to be
+registered in respect of goods falling in a particular class, namely class 3,
+hence [section 10(4)]cite:rsa93_tm_act cannot be applied.
+Moreover TROPIC GLOW does not include or consist of the name or representation
+of a person [section 12]cite:rsa93_tm_act, hence there would be no need to furnish the
+registrar with additional legal consent from any parties. There would be no need
+for the registrar to impose honest concurrent use conditions and limitations
+[section 14(1)]cite:rsa93_tm_act, as the mark TROPIC GLOW does not offend
+against the provisions of [paragraphs (6), (14), (15) or (17) of section
+10]cite:rsa93_tm_act. It has already been demonstrated that TROPIC GLOW contains
+matter which is indeed capable of distinguishing within the meaning of [section
+9]cite:rsa93_tm_act, hence registration shall be subject to neither disclaimer
+nor memorandum [section 15]cite:rsa93_tm_act, and Aroma Company shall not be
+required to disclaim any right to the exclusive use of all or any portion of
+TROPIC GLOW, [section 15(a)]cite:rsa93_tm_act.\\
 
-Should Dr Genius be able to demonstrate that Dr De Ville's device comprises all the essential or integral components of his patent, the manner claimed, then Dr Genius may be see relief in the form of and interdict or injunction [section 65(3)(a)]cite:rsa78_patents_act and [Article 44]cite:wto17_trips, delivery of infringing product or articles of which infringing product forms an inseparable part [section 65(3)(b)]cite:rsa78_patents_act, damages [section 65(3)(c)]cite:rsa78_patents_act and [Article 45]cite:wto17_trips, through royalties in lieu of damages [section 65(6)]cite:rsa78_patents_act, or disposal or destruction of the infringing articles, outside the channels of commerce and without compensation [Article 46]cite:wto17_trips.
+Provided that TROPIC GLOW does not inherently [section 10(12)]cite:rsa93_tm_act
+or from the manner of its use [section 10(13)]cite:rsa93_tm_act , likely to
+deceive, cause confusion or offend any class of person, it cannot be deemed
+unregistrable. Moreover provided that TROPIC GLOW does not constitute an
+identical or similar trade mark registration [section 10(14)]cite:rsa93_tm_act
+or prior application [paragraphs (15) and (16) of section 10]cite:rsa93_tm_act,
+where use of TROPIC GLOW would likely amount to deceit or confusion in relation
+to the goods and services of a different proprietor or applicant, respectively,
+without their consent; the registrar cannot refuse registration on those
+grounds. Lastly provided TROPIC GLOW does not constitute an identical or similar
+mark already registered and well known in the Republic, [section
+10(17)]cite:rsa93_tm_act, the registration cannot be refused on the grounds of
+unfair competition through the dilution of good will.
 
+* Advise Aroma Company whether any of these prior applications/registrations will present an obstacle to the registration of its marks. [25]
+10(6),(14),(15),(17)
+14 honest
+15 disclaimer
+
+* What must Aroma Company establish in order to succeed with any infringement action against Beaver Company? [25]
+
+* Advise Aroma Company whether any formalities are necessary and/or advisable to protect its trade mark rights. [25]
 
 * Bibliography                                                       :ignore:
 \printbibliography
 
-#  LocalWords:  patentable infringer
+#  LocalWords:  patentable infringer unregistrability unregistrable
