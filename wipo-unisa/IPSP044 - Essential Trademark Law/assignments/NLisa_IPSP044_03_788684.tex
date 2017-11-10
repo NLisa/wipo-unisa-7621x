@@ -1,4 +1,4 @@
-% Created 2017-11-06 Mon 15:25
+% Created 2017-11-09 Thu 16:45
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
@@ -20,6 +20,7 @@
 \usepackage[super,negative]{nth}
 \usepackage[capitalise]{cleveref}
 \usepackage{pst-node,transparent,ragged2e}
+\usepackage[inline]{enumitem}
 \addbibresource{/home/nuk3/course/training/csir/novellasers/bibliography/bibliography.bib}
 \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
 \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
@@ -32,6 +33,7 @@
 \AtEveryCitekey{\ifuseauthor{}{\clearname{author}}}
 \AtEveryBibitem{\ifuseauthor{}{\clearname{author}}}
 \renewcommand\thesection{(\alph{section})}
+\renewcommand\thesubsection{}
 \PassOptionsToPackage{hyperref,x11names}{xcolor}
 \hypersetup{colorlinks=true,citecolor=blue,filecolor=cyan,linkcolor=black,urlcolor=blue}
 \SpecialCoor
@@ -58,7 +60,7 @@
 \justifying
 \addvspace{110pt}
 \section*{Declaration}
-\label{sec:org8ee10ff}
+\label{sec:org4ffabf4}
 I know that plagiarism is to use someone else’s work and pass it off as my own.\\
 I know that plagiarism is wrong.\\
 I confirm that this assignment is my own work.\\
@@ -75,30 +77,14 @@ entering my name hereunder:
 \end{itemize}
 
 \subsection*{NOTE}
-\label{sec:org02f6ee7}
+\label{sec:org9feef80}
 Please note that footnotes will be denoted as \footnote{This is a footnote.} and will
 appear at the bottom of the page.\\
 References will be denoted by \cite{rsa78_patents_act} and will appear at the end of the document.
 \newpage
 
-\section{Advise Dr Genius whether Dr De Ville is infringing his patent rights.}
-\label{sec:orgc94990f}
-
-As per [section 45(1)]\cite{rsa78_patents_act} and [Article 28(1)]\cite{wto17_trips}, Dr Genius' patent grants him monopoly and exclusive rights to exclude others from making \emph{(manufacture, fabrication and production of)}, using \emph{(incorporating into motor vehicles, and possession with intent to sell)}, exercising \emph{(making use of and incorporating into motor vehicles)}, disposing of (distributing, marketing and selling), or offering to dispose of \emph{(offering to distribute, market or sell)} his patented invention.\\
-
-Therefore anyone who performs any one of these acts, except where specifically qualified by a statutory provision such as a license [section 53]\cite{rsa78_patents_act} and [Article 28(2)]\cite{wto17_trips}, without consent of patentee, infringes the patent, and the patentee is entitled to enforce his patent rights by instituting proceedings against such an infringer, [section 65(1)]\cite{rsa78_patents_act} and [Article 41(1)]\cite{wto17_trips}.\\
-
-Traditionally, in manufacturing and marketing a similar device which \uline{embodies all of the essential features or characteristics} of the patent claim, Dr Genius would have been able to seek remedies against Dr De Ville for infringement as per the \emph{`doctrine of pith-and-marrow'}, as worded in \citetitle{steyn60_frank_hirch_v_rodi_wien} \cite{steyn60_frank_hirch_v_rodi_wien}.\\
-
-The fact that Dr De Ville has manufactured and marketed a device that may have a similar result or similar fundamental operation to that of Dr Genius, has no bearing on infringement. For any remedy against infringement, Dr Genius will need to demonstrate that \textbf{all} the essential components or integers that are present in his patent claim, are indeed present in the allegedly infringing article, collectively acting in the manner claimed.\\
-
-In South African law this is referred to as the \emph{`doctrine of purposive construction'}, and was particularly well articulated in \citetitle{corbett87_rauben_kreepy_krauly} \cite{corbett87_rauben_kreepy_krauly}, where the court held that the swimming pool cleaning device of the respondent did not infringe appellants' patent where one of the essential integers of a claim in the appellants' patent was not present in the respondents' device, even though the two devices achieve the same result and have the same fundamental operation.\\
-
-Should Dr Genius be able to demonstrate that Dr De Ville's device comprises all the essential or integral components of his patent, the manner claimed, then Dr Genius may be see relief in the form of and interdict or injunction [section 65(3)(a)]\cite{rsa78_patents_act} and [Article 44]\cite{wto17_trips}, delivery of infringing product or articles of which infringing product forms an inseparable part [section 65(3)(b)]\cite{rsa78_patents_act}, damages [section 65(3)(c)]\cite{rsa78_patents_act} and [Article 45]\cite{wto17_trips}, through royalties in lieu of damages [section 65(6)]\cite{rsa78_patents_act}, or disposal or destruction of the infringing articles, outside the channels of commerce and without compensation [Article 46]\cite{wto17_trips}.
-
-
 \section{Advise Aroma Company whether the mark qualifies for registration as a trade mark. [25]}
-\label{sec:orgc9ed32e}
+\label{sec:orge7e4e5f}
 As per the definitions of [section 2(1)]\cite{rsa93_tm_act} and given that the
 Republic is a Paris Convention Member State, [article 15(1)]\cite{wto17_trips},
 [article 1(2)]\cite{wipo83_paris_conve_protect_ip}, it follows that \emph{`TROPIC
@@ -106,7 +92,7 @@ GLOW'} will be understood to be a \textbf{mark}, in that it is either a name or 
 capable of being represented graphically. Moreover it constitutes a \textbf{trade
 mark}, as it has been proposed by Aroma Company, in relation to distinguishing
 their trade or use from other goods or services connected in the course of trade
-regarding \emph{`soaps, perfumery, essential oils and cosmetics'}. Therefore it
+regarding \emph{`soaps, perfumery, essential oils and cosmetics'}, \cite{wipo57_ncl}. Therefore it
 follows as per [section 9(1)]\cite{rsa93_tm_act}, that TROPIC GLOW qualifies for
 registration as trade mark, subject to limitations, in relation to use within
 those limitations, and thus the unregistrability conditions of the
@@ -127,22 +113,35 @@ unregistrability conditions of the provisions of [paragraphs (2), (3) or (6) of 
 
 As per [section 11(1)]\cite{rsa93_tm_act}, the TROPIC GLOW mark is proposed to be
 registered in respect of goods falling in a particular class, namely class 3,
-hence [section 10(4)]\cite{rsa93_tm_act} cannot be applied.
-Moreover TROPIC GLOW does not include or consist of the name or representation
-of a person [section 12]\cite{rsa93_tm_act}, hence there would be no need to furnish the
-registrar with additional legal consent from any parties. There would be no need
-for the registrar to impose honest concurrent use conditions and limitations
-[section 14(1)]\cite{rsa93_tm_act}, as the mark TROPIC GLOW does not offend
-against the provisions of [paragraphs (6), (14), (15) or (17) of section
-10]\cite{rsa93_tm_act}. It has already been demonstrated that TROPIC GLOW contains
-matter which is indeed capable of distinguishing within the meaning of [section
-9]\cite{rsa93_tm_act}, hence registration shall be subject to neither disclaimer
-nor memorandum [section 15]\cite{rsa93_tm_act}, and Aroma Company shall not be
-required to disclaim any right to the exclusive use of all or any portion of
-TROPIC GLOW, [section 15(a)]\cite{rsa93_tm_act}.\\
+hence [section 10(4)]\cite{rsa93_tm_act} cannot be applied. Moreover TROPIC GLOW
+does not include or consist of the name or representation of a person [section
+12]\cite{rsa93_tm_act}, hence there would be no need to furnish the registrar with
+additional legal consent from any parties. There would be no need for the
+registrar to impose honest concurrent use conditions and limitations [section
+14(1)]\cite{rsa93_tm_act}, as the mark TROPIC GLOW does not offend against the
+provisions of [paragraphs (6), (14), (15) or (17) of section
+10]\cite{rsa93_tm_act}.\\
 
-Provided that TROPIC GLOW does not inherently [section 10(12)]\cite{rsa93_tm_act}
-or from the manner of its use [section 10(13)]\cite{rsa93_tm_act} , likely to
+It has already been demonstrated that TROPIC GLOW contains matter which is
+indeed capable of distinguishing within the meaning of [section
+9]\cite{rsa93_tm_act}, specifically in this sense as a composite mark even though
+it's separate components ``TROPIC'' and ``GLOW'' may individually not be capable
+of distinguishing. Hence registration may be subject to disclaimer or memorandum
+[section 15]\cite{rsa93_tm_act}, and the registrar may require Aroma Company to
+disclaim any right to the exclusive use of either ``TROPIC'' and / or ``GLOW''
+seperately and apart from TROPIC GLOW, [section 15(a)]\cite{rsa93_tm_act}. One
+such example exists in South African case, \citetitle{vivier2000_cadbury_v_beacon}
+\cite{vivier2000_cadbury_v_beacon}, where registration of the Beacon \emph{Liquorice
+Allsorts} mark was rectified and subject to the following disclaimers
+\begin{enumerate}
+\item ``Registration of the Beacon \textit{Liquorice Allsorts} trade mark shall give no right to the exclusive use
+of the sweet device [the plate], separately and apart from the mark.''
+\item ``Registration of this mark shall also give no right to the exclusive use
+of the name \textit{Liquorice Allsorts}, separately and apart from the mark.''
+\end{enumerate}
+
+Provided that Aroma Company and its use of TROPIC GLOW does not inherently [section 10(12)]\cite{rsa93_tm_act}
+or from the manner of its use [section 10(13)]\cite{rsa93_tm_act}, likely
 deceive, cause confusion or offend any class of person, it cannot be deemed
 unregistrable. Moreover provided that TROPIC GLOW does not constitute an
 identical or similar trade mark registration [section 10(14)]\cite{rsa93_tm_act}
@@ -155,14 +154,211 @@ mark already registered and well known in the Republic, [section
 10(17)]\cite{rsa93_tm_act}, the registration cannot be refused on the grounds of
 unfair competition through the dilution of good will.
 
-\section{Advise Aroma Company whether any of these prior applications/registrations will present an obstacle to the registration of its marks. [25]}
-\label{sec:org0bb8ecc}
+\section{Advise Aroma Company whether any of these prior applications / registrations will present an obstacle to the registration of its marks. [25]}
+\label{sec:orgd8fc367}
+\subsection{Registration Number 90/2390 TROPICAL in class 25}
+\label{sec:org4e25a4d}
+As per the provisions of [section 10(17)]\cite{rsa93_tm_act}, the proprietors of
+the TROPICAL trade mark could argue that their registered trade mark is
+well-known in the Republic [section 35(1)]\cite{rsa93_tm_act} and that
+registration of the TROPICAL GLOW trade mark without their consent, albeit in a
+different class to that of TROPICAL, would likely amount to unfair advantage or
+be detrimental to the distinctive character or repute of the TROPICAL trade
+mark.
+\subsection{Registration Number 96/4782 TROPICANA in class 3}
+\label{sec:org1493c1d}
+As the provisions of [Article
+$6^{bis}$]\cite{wipo83_paris_conve_protect_ip}, the registered trade
+mark TROPICANA can be considered a \emph{`well-known'} mark, moreover it follows that
+the proprietors of TROPICANA are either \begin{enumerate*}[label=(\roman*)]
+\item nationals of the Republic [section 35(1)(a)]\cite{rsa93_tm_act}, or \item
+domiciled in or have a real and effective industrial or commercial establishment
+in the Republic [section 35(1)(b)]\cite{rsa93_tm_act}, which TROPICANA is
+considered to be.\end{enumerate*} Given that the TROPICANA trade mark has been
+in use extensively since 1996 in relation to lipsticks, class 3 in respect of
+cosmetics, \cite{wipo57_ncl}, knowledge of the trade mark to the public in the relevant sector can
+be assumed [section 35(1A)]\cite{rsa93_tm_act}.\\
+
+If Aroma Company can demonstrate that they have used the TROPIC GLOW trade mark
+in the Republic, at some time before 1996 when the TROPICANA trade mark was in
+use, claiming priority to the TROPIC GLOW mark [Article
+4]\cite{wipo83_paris_conve_protect_ip}, then Aroma Company shall be entitled to the
+``Saving of vested rights'' provision [section 36(2)]\cite{rsa93_tm_act} and
+regardless of whether or not TROPICANA is a well-known mark entitled to
+protection under the Paris Convention, nothing in the Act shall permit the
+proprietors of TROPICANA to interfere with or restrain use / registration of
+TROPIC GLOW. Otherwise the proprietors of TROPICANA may argue that the TROPIC
+GLOW trade mark is unregistrable on the grounds that essential parts thereof
+constitute reproduction or imitation of their mark TROPICANA, which is both
+well-known [section 35(1)]\cite{rsa93_tm_act} and entitled to protection under the
+Paris Convention [section 35(3)]\cite{rsa93_tm_act}
+\cite{wipo83_paris_conve_protect_ip}. Therefore TROPICANA would indeed present an
+obstacle to the registration of TROPIC GLOW as they trade under cosmetics
+\emph{(lipsticks)} \cite{wipo57_ncl}, which are indeed identical or similar goods and services, and the
+proprietors of TROPICANA may argue that use of TROPIC GLOW is likely to cause
+deception or confusion [section 10(6)]\cite{rsa93_tm_act}.\\
+
+Unless Aroma Company can demonstrate that the TROPIC GLOW trade mark constitutes
+\emph{``honest concurrent use''} [section 14(1)]\cite{rsa93_tm_act}, or unless they can
+obtain consent from the proprietors of the TROPICANA trade mark, then Aroma
+Company may face obstacles in that the proprietors may oppose registration on
+the grounds that TROPIC GLOW would likely confuse or deceive [section
+10(14)]\cite{rsa93_tm_act}, or constitute unfair advantage or competition through
+the dilution of the good-will of TROPICANA [section 10(17)]\cite{rsa93_tm_act}.\\
+
+Should Aroma Company proceed to use the TROPIC GLOW mark, without consent from
+the proprietors of the TROPICANA mark, they may find themselves as respondents
+to infringement proceedings brought against them by the proprietors of
+TROPICANA, as the provisions of [section 34]\cite{rsa93_tm_act}, and as per the
+instance in South African case law, \citetitle{corbett97_mcd_v_joburgers}
+\cite{corbett97_mcd_v_joburgers}, where the respondent Joburgers infringed on the
+plaintiff's trade mark \emph{McDonald's}, through the unlawful use of the similar
+\emph{MacDonald's} mark.
+
+\subsection{Application Number 2000/764 TROPIC LIGHT in class 3}
+\label{sec:org9aeb511}
+Without demonstration of prior use [section 9(2)]\cite{rsa93_tm_act} or consent
+from the proprietors of the TROPIC LIGHT trade mark, they may oppose
+registration of the TROPIC GLOW mark, on the grounds that it constitutes a mark
+so similar to their prior application that it would be likely to cause deceit of
+confusion [section 10(15)].\\
+
+Moreover, provided that the proprietors of TROPIC LIGHT have advertised their
+application for registration in the prescribed manner [section
+17]\cite{rsa93_tm_act}, then Aroma Company may themselves file an opposition to
+that registration [section 21]\cite{rsa93_tm_act}, should they be able to
+demonstrate that registration of TROPIC LIGHT is contrary to the existing rights
+of Aroma Company and its subsequent registration of the TROPIC GLOW mark
+[section 10(16)]\cite{rsa93_tm_act}.\\
+
+Lastly, in light of all of the above considerations, the registrar may permit
+registration of the TROPIC GLOW trade mark but possibly subject to a number of
+disclaimers pertaining to the TROPICAL, TROPICANA and TROPIC LIGHT trade marks
+respectively, as the provisions of [section 15]\cite{rsa93_tm_act}.
 
 \section{What must Aroma Company establish in order to succeed with any infringement action against Beaver Company? [25]}
-\label{sec:orgded410e}
+\label{sec:org9e0b1ea}
+
+As per the provisions of [section 34(1)(a)]\cite{rsa93_tm_act}, Aroma Company may
+institute infringement proceedings against Beaver Company for its unauthorised
+use of the TROPICLEAN mark in class 3 in respect of cosmetic products \emph{(hair
+lotions)} \cite{wipo57_ncl}, and it's similarity to the registered trade mark TROPIC GLOW. As per
+the provisions of [section 34(5)]\cite{rsa93_tm_act} before Aroma Company can
+institute any proceedings in terms of infringement, they will be required to
+give written notice of such intention to all users concerned in the register
+and said users are also entitled to intervene and recover any damages they also
+may have suffered as a result of the infringement. In order to succeed with any
+infringement proceedings against Beaver Company, Aroma Company must demonstrate
+(i) probability of deception of confusion, (ii) unauthorised use and (iii)
+infringement in relation to goods or services for which trade mark is registered.
+
+\subsection{Existence of a probability of deception or confusion}
+\label{sec:org12d680d}
+Aroma Company is required to demonstrate that the allegedly infringing mark
+TROPICLEAN is indeed used as a trade mark for the purpose of indicating the
+origin of Beaver Company's goods. This follows directly from the similarity
+between the infringing trade mark of the hair products TROPICLEAN and that of
+Aroma Company's TROPIC GLOW cosmetics, \cite{wipo57_ncl}. Moreover Beaver Company has commenced
+marketing the infringing product in similar packing to that used by Aroma
+Company and thus create the impression of a material link between the Beaver
+Company's TROPICLEAN and Aroma Company's TROPIC GLOW, which is likely to cause
+deception or confusion.
+
+\subsection{Alleged infringing use must be unauthorised}
+\label{sec:org4c8a3bf}
+Aroma Company need only demonstrate that they have not provided any consent to
+Beaver Company to use their trade mark, through either assignment, transmission, sale,
+hypothecation or license [sections (39), (40) and (41)]\cite{rsa93_tm_act}. Specifically they must
+establish that use of the infringing mark does not constitute permitted use, and
+that Beaver Company are not considered to be registered users, as per the
+provisions of [section 38]\cite{rsa93_tm_act}.
+
+\subsection{Alleged infringing use must be in relation to goods or services for which the TROPIC GLOW is registered}
+\label{sec:org0468540}
+TROPIC GLOW is registered in class 3 in respect of cosmetics products.
+TROPICLEAN is marketed as a hair products, which is indeed a cosmetic product.
+This follows naturally.
+
+\subsection{Alleged infringing use not protected by provisions of [section 34(2)]}
+\label{sec:org7372c47}
+Aroma Company must demonstrate that TROPICLEAN does not constitute bone fide use
+of a (i) name of person or their predecessors, (ii) nor their place of business,
+[section 34(2)(a)]\cite{rsa93_tm_act} - of which it would be easy to demonstrate
+that TROPICLEAN is not; a description or indication of the nature or intended
+purpose of said goods, [section 34(2)(b-c)]\cite{rsa93_tm_act} - again TROPICLEAN
+is neither; no consent has been approved, [section 34(2)(d)]\cite{rsa93_tm_act};
+the similar packaging of TROPICLEAN to that used by Aroma Company in TROPIC GLOW
+is for deceptive and not utilitarian purposes [section
+34(2)(e)]\cite{rsa93_tm_act}; and TROPICLEAN is not a registered trade mark,
+[section 34(2)(g)], simple search of the trade marks register will resolve this.
+
+\subsection{Relief that Aroma Company may pursue}
+\label{sec:org392c869}
+Aroma Company should be advised that it is not easy to succeed in any infringement
+proceedings, as the example in South African case law between
+\citetitle{harms07_verimark_v_bmw} \cite{harms07_verimark_v_bmw} demonstrates. Where
+the Supreme Court of Appeal found in favour of the initial respondent Verimark
+against the plaintiff that initiated the infringement proceedings Bayerische
+Motoren Werke Aktiengesellschaft (BMW), where BMW failed on appeal in an attempt to seek
+an interdict for unfair competition through dilution of the good will of their
+brand, via the use of their BMW logo on a varnishing product from Verimark,
+where Judge Stevens said:
+\begin{quote}
+\textit{``I fail to see how the use of the logo can affect the advertising value of the logo detrimentally. A mental association does not necessarily lead to bluring or tarnishing.''}
+\end{quote}
+
+Regardless however, Aroma Company may seek relief against Beaver Company, from a
+High Court having jurisdiction, in the form of an interdict [section
+34(3)(a)]\cite{rsa93_tm_act}, removal of the infringing mark or delivery of the
+infringing goods [section 34(3)(b)]\cite{rsa93_tm_act}, damages or reasonable
+royalties [sections 34(3)(c-d) and 34(4)]\cite{rsa93_tm_act}.
 
 \section{Advise Aroma Company whether any formalities are necessary and/or advisable to protect its trade mark rights. [25]}
-\label{sec:org59c91d8}
+\label{sec:org359c643}
+
+As per the provisions of [section 38(1)]\cite{rsa93_tm_act}, Clover Company may
+use the TROPIC GLOW trade mark as a licensee with consent from the proprietor
+Aroma Company. Permitted use of the TROPIC GLOW mark by Clover Company shall be
+deemed as use by the proprietor for statutory purposes, [section
+38(2)]\cite{rsa93_tm_act}. Moreover given that [section 38(3)]\cite{rsa93_tm_act}
+pertains specifically to registration as a registered user in respect of ``all
+or any of the goods or services'', implies that a license may be granted for use
+on only some of the goods for the trade mark is registered, on condition that
+such use is neither deceptive nor confusing. It would be advisable for Aroma
+Company to explicitly articulate exactly which goods and / or services they
+would like to appoint Clover Company as a licensee.\\
+
+Aroma Company should be aware that they may be called upon by Clover Company to
+institute infringement proceedings in respect of TROPIC GLOW, and should Aroma
+Company not do so within two months after being so called upon, Clover Company
+may independently institute such proceedings as if they were the proprietors of
+the mark as per the provisions of [section 34]\cite{rsa93_tm_act}. In fulfilling
+the licensee agreement, Aroma Company will be required to apply in writing to
+the registrar in the prescribed manner, proposing the registration of Clover
+Company as a registered user in respect of the TROPIC GLOW mark, furnishing the
+registrar with the \begin{enumerate*}[label=(\roman*)]\item name and address of
+Clover Company [section 38(6)(a)]\cite{rsa93_tm_act}, \item the existing and / or
+proposed relationship between Aroma Company and Clover Company [section
+38(6)(b)]\cite{rsa93_tm_act}, \item the goods or services in respect of which
+Clover Company is to be registered as a registered user of TROPIC GLOW, [section
+38(6)(c)]\cite{rsa93_tm_act} \end{enumerate*}.\\
+
+Clover Company will be required to inform the public of the license agreement
+through public notification and an ensure that it is recorded in the trade mark
+register as a registered user, [section 38(3)-(7)]\cite{rsa93_tm_act}. This will
+enable Clover Company to institute proceedings for infringement against use by
+others of the registered trade mark TROPIC GLOW, in respect of the cosmetic
+goods to which their license pertains, should Aroma Company fail to do so, as
+per the provisions of [section 34]\cite{rsa93_tm_act}.\\
+
+Should Aroma Company desire to have the license revoked or amended, they will
+need to apply to the registrar in writing, in the prescribed manner [section
+38(8)(a)]\cite{rsa93_tm_act}. Moreover the registrar shall cancel the license
+should the mark be assigned as per [section 40]\cite{rsa93_tm_act}, unless the new
+proprietor makes provisions for the extension of said license as per [section
+38(6)]\cite{rsa93_tm_act}. Lastly, the license may be revoked, should the TROPIC
+GLOW mark cease to be registered in respect of class 3 - cosmetics, [section
+38(9)]\cite{rsa93_tm_act}.
 
 \printbibliography
 \end{document}
