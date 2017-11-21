@@ -62,16 +62,15 @@ appear at the bottom of the page.\\
 References will be denoted by cite:rsa78_patents_act and will appear at the end of the document.
 \newpage
 
-* Advise Amos whether any of Bongani's argument have merit, and whether he can succeed with proceedings against him [50] (\tilde 3pg)
+* Advise Amos whether any of Bongani's argument have merit, and whether he can succeed with proceedings against him [50]
 For the discussions that follow, /`priority date'/ will be understood as it is described in [section 33]cite:rsa78_patents_act, to
 be the date on which the application for the patent was filed with the receiving Office. A similar definition will be used,
 regarding international patents pertaining to Paris Convention member states as stipulated in [Article 29(1)]cite:wto17_trips,
 [Articles 8 and 11]cite:wipo70_pct and [Article 4]cite:wipo83_paris_conve_protect_ip. Furthermore identifying whether or not an
 invention is new, or involves an inventive step is primarily in the domain of establishing infringement or revocation of a patent
-or license.\\
+or license.
 
 ** On the merits of Bongani's arguments
-*** The patent 161/09 is invalid for lack of patentable subject matter and lack of novelty
 Should Amos wish to pursue infringement proceedings against Bongani, he should be made aware that Bongani may counterclaim
 [section 65(4)]cite:rsa78_patents_act, for the revocation of Amos' patent as per the provisions of [section
 61(1)(c)]cite:rsa78_patents_act. As per the definition specified in [section 2]cite:rsa78_patents_act and [Article
@@ -81,8 +80,9 @@ invention, involving an *inventive step* and has application to trade or industr
 ``patentable subject-matter' is usually established in the negative sense by statue, i.e. inventions explicitly `excluded' from
 qualification for the purposes of patent protection. Amos' composition neither falls into any of the categories listed under
 [subsections (2), (3) and (4) of section 25]cite:rsa78_patents_act, nor those articulated in [Article 27(2) and Article
-27(3)]cite:wto17_trips.\\
+27(3)]cite:wto17_trips.
 
+*** The patent 161/09 is invalid for lack of patentable subject matter and lack of novelty
 As per the provisions of [section 25(9)]cite:rsa78_patents_act, even though the ingredient was used fairly generally prior to the
 date in respect of which Amos' patent application was filed, given that the use of the ingredient for treating AIDS was not
 known prior to said date, revocation of the patent cannot be argued on these grounds as even though the composition does indeed
@@ -124,7 +124,7 @@ Therefore anyone who performs any one of these acts, except where specifically q
 
 Traditionally, Bongani experimenting with a substance composed of a similar
 composition which _embodies all of the essential features or characteristics_ of
-Amos' patent claim, he (Amos) would have been able to seek remedies against Bongani for infringement as per the /`doctrine of pith-and-marrow'/, as worded in citetitle:steyn60_frank_hirch_v_rodi_wien cite:steyn60_frank_hirch_v_rodi_wien.\\
+Amos' patent claim, he (Amos) would have been able to seek remedies against Bongani for infringement as per the /`doctrine of pith-and-marrow'/, as worded in citetitle:steyn60_frank_hirch_v_rodi_wien cite:steyn60_frank_hirch_v_rodi_wien.
 
 *** Even if such experimental work did constitute infringement, Amos did not suffer any damage as a result of said infringement
 Should Amos be able to demonstrate that Bongani's composition comprises all the
@@ -133,7 +133,7 @@ Amos did not suffer any
 damages [section 65(3)(c)]cite:rsa78_patents_act and [Article
 45]cite:wto17_trips, nor if Amos is unable to seek royalties in lieu of damages [section
 65(6)]cite:rsa78_patents_act, Amos may still seek relief in the form
-of
+of:
 \begin{enumerate}
 \item an interdict or injunction [section 65(3)(a)]\cite{rsa78_patents_act} and
 [Article 44]\cite{wto17_trips},
@@ -148,7 +148,7 @@ which the patent has lapsed, still amounts to infringement, in that Bongani is
 exploiting the exclusive rights of Amos to make, use, exercises or dispose of
 the composition, [section 45(1)]cite:rsa78_patents_act
 and [Article 28(1)(a)]cite:wto17_trips.
-** Whether Amos will succeed with proceedings against Bongani for
+** Whether Amos will succeed with proceedings against Bongani
 Amos may submit an application to the High Court in the prescribed manner
 [section 65(2)]cite:rsa78_patents_act requesting an interim
 interdict, requiring Bongani to immediately cease and desist from making, using or
@@ -158,34 +158,52 @@ should there be no material factual dispute between Bongani and Amos, [section
 65(3)(a)]cite:rsa78_patents_act. Amos is likely to succeed in this action, as it
 will be trivial to demonstrate that Bongani is indeed currently exploiting Amos'
 exclusive rights granted by his patent, to make, use or exercises the
-composition, moreover it is clear that Bongani also intends to dispose or, or
+composition. Moreover it is clear that Bongani also intends to dispose or, or
 offer to dispose of by way of sale, the infringing composition.\\
 
 Amos may seek delivery up of the infringing experimental materials and articles
 [section 65(3)(b)]cite:rsa78_patents_act, arguing that this will enhance the
 efficacy of the interdict, in that Bongani will be deprived of a means to
 perform said acts of infringement. Moreover given that Amos' patent grants him
-the exclusive right to dispose of or offer to dispose of[fn::I.e. sell.]and
+the exclusive right to dispose of or offer to dispose of[fn::I.e. to sell.], and
 enjoy the whole profit and advantage accruing by reason of his composition
 [section 45(1)]cite:rsa78_patents_act, he can request that the court also order
 delivery up of the registration certificate issued to Bongani in terms of
 cite:rsa65_medicines_related_substances_act. Here Amos could argue that the
-registration certificate is a product of which the infringing product form an
+registration certificate is a product of which the infringing product forms an
 inseparable part[fn::Bongani has no right to sell the composition, the
 certificate grants him this right, hence Amos is entitled to request delivery up
 of said certificate.]. In light of the above arguments Amos is indeed likely to
-succeed in such actions.\\
+succeed and is in fact advised to pursue combined actions for an interdict and
+delivery up of infringing goods.\\
 
 Provided that Bongani has not yet commenced with the marketing and sale of the
-infringing composition, he will be unable to demonstrate actual or prospective loss[fn:: In the form of profit or sales.] nor
+infringing composition, Amos will be unable to demonstrate actual or prospective loss[fn:: In the form of profit or sales.] nor
 dilution of goodwill through unfair competition [Articles 3(1) and
 3(2)]cite:wipo96_model_provi_unfair_comp, and hence will not likely
 succeed in seeking relief in the form of damages [section
-65(3)(c)]cite:rsa78_patents_act. Moreover he'd also be required to demonstrate
+65(3)(c)]cite:rsa78_patents_act. Moreover should Bongani have commenced with
+marketing and sale of the infringing composition, Amos would also be required to demonstrate
 that on the date of infringement Bongani was indeed aware of Amos' patent
 [section 66(1)]cite:rsa78_patents_act.
 * Advise XYZ (Pty) Ltd whether [50]:
 ** ABC Inc is likely to succeed with such proceedings, and whether they will obtain all relief claimed for
+NB Unit 4
+
+trips 28.1 45(1)rsa pat
+nb importing expoliting
+
+exclusive right to exclude others 28.2 trips
+
+NB 53 - 58
+
+NB 45(2)
+
+NB 90
+
+NB Syntheta
+
+
 ** XYZ (Pty) Ltd is likely to succeed with its application for a compulsory license
 * Bibliography                                                       :ignore:
 \printbibliography

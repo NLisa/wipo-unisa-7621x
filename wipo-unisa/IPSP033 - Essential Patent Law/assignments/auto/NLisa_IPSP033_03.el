@@ -38,18 +38,18 @@
     "transparent"
     "ragged2e")
    (LaTeX-add-labels
-    "sec:org0411a90"
-    "sec:org35aba81"
-    "sec:org4ad055a"
-    "sec:org2b15c50"
-    "sec:orgdec9f94"
-    "sec:org9743b72"
-    "sec:org76d14da"
-    "sec:org6dd10ae"
-    "sec:org1695d32"
-    "sec:orgba776b1"
-    "sec:org5accc49"
-    "sec:org4f057f8")
+    "sec:orgcff323f"
+    "sec:org5f4d674"
+    "sec:org594fe3d"
+    "sec:org8863190"
+    "sec:org50b875c"
+    "sec:org4ae24d7"
+    "sec:org65ede88"
+    "sec:org7c03bf1"
+    "sec:orgc9f4acf"
+    "sec:org875a8af"
+    "sec:org9397084"
+    "sec:org19574e6")
    (LaTeX-add-bibliographies
     "/home/nuk3/course/training/csir/novellasers/bibliography/bibliography"))
  :latex)
