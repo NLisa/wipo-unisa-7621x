@@ -1,8 +1,8 @@
 * LaTeX Preamble                                                     :ignore:
 #+TITLE: IPSP033 - Essential Patent Law
 #+AUTHOR: Nyameko Lisa
-#+DATE: 22 September 2017
-#+SUBTITLE: Assignment 02 - 690905
+#+DATE: 27 October 2017
+#+SUBTITLE: Assignment 03 - Exam
 
 #+LATEX_HEADER: \usepackage[margin=0.80in]{geometry}
 #+LATEX_HEADER: \usepackage[backend=biber, style=ieee]{biblatex}
@@ -10,7 +10,7 @@
 #+LATEX_HEADER: \usepackage[super,negative]{nth}
 #+LATEX_HEADER: \usepackage[capitalise]{cleveref}
 #+LATEX_HEADER: \usepackage{pst-node,transparent,ragged2e}
-#+LATEX_HEADER: \addbibresource{/home/nuk3/course/training/csir/novellasers/bibliography/bibliography.bib}
+#+LATEX_HEADER: \addbibresource{/home/nlisa/Course/bibliography/bibliography.bib}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
 #+LATEX_HEADER: \DeclareFieldFormat[misc]{citetitle}{#1}
@@ -34,7 +34,7 @@
 \centering{
 \pnode(0.5\textwidth,-0.5\textheight){thisCenter}
 \rput(thisCenter){%\transparent{0.25}
-\includegraphics[width=2.7in]{/home/nuk3/course/llb/wipo-unisa/UNISACoatofArms.eps}}}
+\includegraphics[width=2.7in]{/home/nlisa/Course/llb/wipo-unisa/UNISACoatofArms.eps}}}
 #+END_EXPORT
 
 #+LaTeX: \justifying
@@ -62,6 +62,13 @@ appear at the bottom of the page.\\
 References will be denoted by cite:rsa78_patents_act and will appear at the end of the document.
 \newpage
 
+
+* Discuss whether the device meets the inventiveness requirement.
+\label{sec:inventiveness}
+
+
+In establishing whether the device satisfies the inventiveness requirement, /state of the art/ of a `smaller' scope is applied than the test for novelty, in that all other knowledge in the public domain is _disregarded_, be it patent applications open to public inspection, [section 25(7)]cite:rsa78_patents_act, or proprietary commercialised secret inventions [section 25(8)]cite:rsa78_patents_act. Such an example exists in South African case law, citetitle:davis42_levin_v_numplates cite:davis42_levin_v_numplates, where it was argued that /``Subject matter must be measured by common knowledge. Public knowledge must be discarded absolutely. No text-books have been produced by the defendant to show that the invention was common knowledge. A witness cannot be asked, is the thing new, and it is obvious''/.\\
+
 * Advise Dr Genius whether Dr De Ville is infringing his patent rights.
 
 As per [section 45(1)]cite:rsa78_patents_act and [Article 28(1)]cite:wto17_trips, Dr Genius' patent grants him monopoly and exclusive rights to exclude others from making /(manufacture, fabrication and production of)/, using /(incorporating into motor vehicles, and possession with intent to sell)/, exercising /(making use of and incorporating into motor vehicles)/, disposing of (distributing, marketing and selling), or offering to dispose of /(offering to distribute, market or sell)/ his patented invention.\\
@@ -77,11 +84,75 @@ In South African law this is referred to as the /`doctrine of purposive construc
 Should Dr Genius be able to demonstrate that Dr De Ville's device comprises all the essential or integral components of his patent, the manner claimed, then Dr Genius may be see relief in the form of and interdict or injunction [section 65(3)(a)]cite:rsa78_patents_act and [Article 44]cite:wto17_trips, delivery of infringing product or articles of which infringing product forms an inseparable part [section 65(3)(b)]cite:rsa78_patents_act, damages [section 65(3)(c)]cite:rsa78_patents_act and [Article 45]cite:wto17_trips, through royalties in lieu of damages [section 65(6)]cite:rsa78_patents_act, or disposal or destruction of the infringing articles, outside the channels of commerce and without compensation [Article 46]cite:wto17_trips.
 
 * Advise Amos whether any of Bongani's argument have merit, and whether he can succeed with proceedings against him [50] (\tilde 3pg)
+For the discussions that follow, /`priority date'/ will be understood as it is described in [section 33]cite:rsa78_patents_act, to
+be the date on which the application for the patent was filed with the receiving Office. A similar definition will be used,
+regarding international patents pertaining to Paris Convention member states as stipulated in [Article 29(1)]cite:wto17_trips,
+[Articles 8 and 11]cite:wipo70_pct and [Article 4]cite:wipo83_paris_conve_protect_ip. Furthermore identifying whether or not an
+invention is new, or involves an inventive step is primarily in the domain of establishing infringement or revocation of a patent
+or license.\\
 
+** On the merits of Bongani's arguments
+*** The patent 161/09 is invalid for lack of patentable subject matter and lack of novelty
+Should Amos wish to pursue infringement proceedings against Bongani, he should be made aware that Bongani may counterclaim
+[section 65(4)]cite:rsa78_patents_act, for the revocation of Amos' patent as per the provisions of [section
+61(1)(c)]cite:rsa78_patents_act. As per the definition specified in [section 2]cite:rsa78_patents_act and [Article
+27(1)]cite:wto17_trips, Amos' composition need satisfy the provisions for a patent to be granted under [section
+25]cite:rsa78_patents_act, wherein subsection (1) of that section of the Act stipulates that a patent may be granted for a *new*
+invention, involving an *inventive step* and has application to trade or industry. Moreover the content of the concept
+``patentable subject-matter' is usually established in the negative sense by statue, i.e. inventions explicitly `excluded' from
+qualification for the purposes of patent protection. Amos' composition neither falls into any of the categories listed under
+[subsections (2), (3) and (4) of section 25]cite:rsa78_patents_act, nor those articulated in [Article 27(2) and Article
+27(3)]cite:wto17_trips.\\
+
+As per the provisions of [section 25(9)]cite:rsa78_patents_act, even though the ingredient was used fairly generally prior to the
+date in respect of which Amos' patent application was filed, given that the use of the ingredient for treating AIDS was not
+known prior to said date, revocation of the patent cannot be argued on these grounds as even though the composition does indeed
+form part of the state of the art prior to the date of application, the *use* of the composition in the specified manner does not
+form part of the state of the art at that date.\\
+
+As per the provisions of [section 25(5)]cite:rsa78_patents_act, Amos' composition will be deemed to be new provided it does not
+form part of the /`state of the art'/ immediately before it's priority date. Where as per the provisions of [subsections (6), (7)
+and (8) of section 25]cite:rsa78_patents_act respectively, the /state of the art/ includes all matter:
+- [subsection (6)], related to the device that has been made available to the public within the Republic or elsewhere, by written, or by oral, or through use or by any other means,
+- [subsection (7)], given a preceding priority date, a patent application open to public inspection, and
+- [subsection (8)], inventions used secretly and on a commercial scale.
+
+Similar wording is stipulated in [Article 33(2)]cite:wipo70_pct, with a detailed description of the reference to prior art given in [Rule 33]cite:wipo70_pct_reg, wherein the International Search Authority is responsible in establishing novelty of the invention.\\
+
+As per the provisions of [section 25(10)]cite:rsa78_patents_act, Amos' composition may be considered to involve an inventive step
+if it is *not obvious* to a *person skilled in the art* having regards to any prior art immediately preceding the priority date of
+his invention, when *only* considering subject matter made available to the public, within the Republic or elsewhere, by written,
+oral, use or any other means, as stipulated in [section 25(6)]cite:rsa78_patents_act. With regards to the international
+instruments, [Article 27(1)]cite:wto17_trips deems the notion of inventiveness to be synonymous with the term ``non-obvious''.
+Similar wording is used in [Article 33(3)]cite:wipo70_pct, which stipulates that the Amos' composition will be considered to
+involve an inventive step if it is not, at the prescribed relevant date, obvious to a person skilled in the art. Where the concept
+of prior art is as described in [Rules 64 and 65]cite:wipo70_pct_reg of the PCT Regulations, as demonstrated above.\\
+
+There are therefore no merits to Bongani's arguments in this sense. However it must be noted that without specifications and
+operating details of device, it is impossible to say whether or not the composition for treating AIDS in humans has any adverse
+effects on the environment. Should this be the case, then as per [Article 27(2)]cite:wto17_trips, the composition may be excluded
+as a patentable invention, given that it circumvents measures put in place to /``...avoid serious prejudice to the environment''/
+and Bongani may be able to argue for the revocation of Amos' patent. In doing so however, Bongani would also prejudice his own
+application.
+
+*** The experimental work carried out by Bongani does not constitute infringement of the patent in terms of [section 45]cite:rsa78_patents_act
+This demonstrates misinterpretation of the legislation by Bongani. As per the provisions of [section 45(1)]cite:rsa78_patents_act
+and [Article 28(1)(a)]cite:wto17_trips, the experimental work undertaken by Bongani amounts to either making, using, or exercising
+of the composition for which Amos has a patent for, granting him (Amos) the exclusive right to conduct any of the said activities,
+and hence Bongani's experimental work does in deed constitute infringement.
+
+*** Even if such experimental work did constitute infringement, Amos did not suffer any damage as a result of said infringement
+
+
+*** Since Bongani does not intent to commence selling the composition until after Amos' patent has lapsed, Amos has no cause of action against him
+** Whether Amos will succeed with proceedings against Bongani for
+*** An interdict to prohibit Bongani from making and selling the composition
+*** An order for delivery up of the experimental material and the registration certificate issued to Bongani in terms of cite:rsa65_medicines_related_substances_act
+*** Damages
 * Advise XYZ (Pty) Ltd whether [50]:
 ** ABC Inc is likely to succeed with such proceedings, and whether they will obtain all relief claimed for
 ** XYZ (Pty) Ltd is likely to succeed with its application for a compulsory license
 * Bibliography                                                       :ignore:
 \printbibliography
 
-#  LocalWords:  patentable infringer
+#  LocalWords:  patentable infringer Bongani's Bongani XYZ patentee

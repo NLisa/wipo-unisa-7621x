@@ -1,0 +1,106 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{rsa78_patents_act}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
+           family={{RSA Parliament}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labeltitlesource}{title}
+      \field{number}{57}
+      \field{title}{{Patents Act No. 57}}
+      \field{year}{1978}
+      \verb{urlraw}
+      \verb http://www.wipo.int/wipolex/en/details.jsp?id=6256
+      \endverb
+      \verb{url}
+      \verb http://www.wipo.int/wipolex/en/details.jsp?id=6256
+      \endverb
+      \keyw{iplaw,pat}
+    \endentry
+    \entry{wto17_trips}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=1c1ae8324c0650a3de7978682e3f8969}{%
+           family={{WTO}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{1c1ae8324c0650a3de7978682e3f8969}
+      \strng{authornamehash}{1c1ae8324c0650a3de7978682e3f8969}
+      \strng{authorfullhash}{1c1ae8324c0650a3de7978682e3f8969}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{labeltitlesource}{title}
+      \field{title}{{Agreement on Trade-Related Aspects of Intellectual Property Rights}}
+      \field{year}{1994}
+      \verb{urlraw}
+      \verb https://www.wto.org/english/tratop_e/trips_e/trips_e.htm
+      \endverb
+      \verb{url}
+      \verb https://www.wto.org/english/tratop_e/trips_e/trips_e.htm
+      \endverb
+      \keyw{iplaw,cr,comp,tm,pat}
+    \endentry
+    \entry{steyn60_frank_hirch_v_rodi_wien}{inproceedings}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=1790916b20072790fd6f336641d613fd}{%
+           family={{C.J. Steyn and J.A. Schreiner and J.A. Ogilvie Thompson and A.J.A. Botha and A.J.A. Holmes}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{1790916b20072790fd6f336641d613fd}
+      \strng{authornamehash}{1790916b20072790fd6f336641d613fd}
+      \strng{authorfullhash}{1790916b20072790fd6f336641d613fd}
+      \field{sortinit}{8}
+      \field{sortinithash}{2f1b0e69e7617f99664f1cd00bb9603c}
+      \field{labeltitlesource}{title}
+      \field{title}{{Frank \& Hirsch (Pty) Ltd v Rodi Wienenberger Aktiengesellschaft}}
+      \field{year}{1960}
+      \field{pages}{(3) SA 747 (A)}
+      \range{pages}{-1}
+      \keyw{pat,iplaw}
+    \endentry
+    \entry{corbett87_rauben_kreepy_krauly}{inproceedings}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=d33346f10fe0653b08899f3df8d12d71}{%
+           family={{JA Corbett and JA Trengove and JA Hoexter and JA van Heerden and AJA Nicholas}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{d33346f10fe0653b08899f3df8d12d71}
+      \strng{authornamehash}{d33346f10fe0653b08899f3df8d12d71}
+      \strng{authorfullhash}{d33346f10fe0653b08899f3df8d12d71}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labeltitlesource}{title}
+      \field{title}{{Raubenheimer and another v Kreepy Krauly (Pty) Ltd and another}}
+      \field{year}{1987}
+      \field{pages}{(2) SA 650 (A)}
+      \range{pages}{-1}
+      \keyw{pat,iplaw}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
