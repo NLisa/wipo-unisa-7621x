@@ -1,0 +1,229 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{rsa78_patents_act}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
+           family={{RSA Parliament}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labeltitlesource}{title}
+      \field{number}{57}
+      \field{title}{{Patents Act No. 57}}
+      \field{year}{1978}
+      \verb{urlraw}
+      \verb http://www.wipo.int/wipolex/en/details.jsp?id=6256
+      \endverb
+      \verb{url}
+      \verb http://www.wipo.int/wipolex/en/details.jsp?id=6256
+      \endverb
+      \keyw{iplaw,pat}
+    \endentry
+    \entry{wto17_trips}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=1c1ae8324c0650a3de7978682e3f8969}{%
+           family={{WTO}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{1c1ae8324c0650a3de7978682e3f8969}
+      \strng{authornamehash}{1c1ae8324c0650a3de7978682e3f8969}
+      \strng{authorfullhash}{1c1ae8324c0650a3de7978682e3f8969}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{labeltitlesource}{title}
+      \field{title}{{Agreement on Trade-Related Aspects of Intellectual Property Rights}}
+      \field{year}{1994}
+      \verb{urlraw}
+      \verb https://www.wto.org/english/tratop_e/trips_e/trips_e.htm
+      \endverb
+      \verb{url}
+      \verb https://www.wto.org/english/tratop_e/trips_e/trips_e.htm
+      \endverb
+      \keyw{iplaw,cr,comp,tm,pat}
+    \endentry
+    \entry{wipo70_pct}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=7cd85da3dc1ceee3ede6c4b163903fab}{%
+           family={{WIPO}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authornamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authorfullhash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
+      \field{labeltitlesource}{title}
+      \field{title}{{Patent Cooperation Treaty}}
+      \field{year}{1970}
+      \verb{urlraw}
+      \verb http://www.wipo.int/pct/en/texts/articles/atoc.html
+      \endverb
+      \verb{url}
+      \verb http://www.wipo.int/pct/en/texts/articles/atoc.html
+      \endverb
+      \keyw{pct,iplaw}
+    \endentry
+    \entry{wipo83_paris_conve_protect_ip}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=7cd85da3dc1ceee3ede6c4b163903fab}{%
+           family={{WIPO}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authornamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authorfullhash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \field{sortinit}{5}
+      \field{sortinithash}{c9df3c9fb8f555dd9201cedc5e343021}
+      \field{labeltitlesource}{title}
+      \field{title}{{Paris Convention for the Protection of Industrial Property}}
+      \field{year}{1883}
+      \verb{urlraw}
+      \verb http://www.wipo.int/treaties/en/text.jsp?file_id=288514
+      \endverb
+      \verb{url}
+      \verb http://www.wipo.int/treaties/en/text.jsp?file_id=288514
+      \endverb
+      \keyw{iplaw,comp,tm,pat}
+    \endentry
+    \entry{wipo70_pct_reg}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=7cd85da3dc1ceee3ede6c4b163903fab}{%
+           family={{WIPO}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authornamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authorfullhash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labeltitlesource}{title}
+      \field{title}{{Regulations under the Patent Cooperation Treaty}}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb http://www.wipo.int/pct/en/texts/rules/rtoc1.html
+      \endverb
+      \verb{url}
+      \verb http://www.wipo.int/pct/en/texts/rules/rtoc1.html
+      \endverb
+      \keyw{pct,iplaw}
+    \endentry
+    \entry{steyn60_frank_hirch_v_rodi_wien}{inproceedings}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=1790916b20072790fd6f336641d613fd}{%
+           family={{C.J. Steyn and J.A. Schreiner and J.A. Ogilvie Thompson and A.J.A. Botha and A.J.A. Holmes}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{1790916b20072790fd6f336641d613fd}
+      \strng{authornamehash}{1790916b20072790fd6f336641d613fd}
+      \strng{authorfullhash}{1790916b20072790fd6f336641d613fd}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{labeltitlesource}{title}
+      \field{title}{{Frank \& Hirsch (Pty) Ltd v Rodi Wienenberger Aktiengesellschaft}}
+      \field{year}{1960}
+      \field{pages}{(3) SA 747 (A)}
+      \range{pages}{-1}
+      \keyw{pat,iplaw}
+    \endentry
+    \entry{rsa65_medicines_related_substances_act}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
+           family={{RSA Parliament}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
+      \field{labeltitlesource}{title}
+      \field{title}{{Medicines and Related Substances Act No. 101}}
+      \field{year}{1965}
+      \keyw{iplaw,pat,med}
+    \endentry
+    \entry{wipo96_model_provi_unfair_comp}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=7cd85da3dc1ceee3ede6c4b163903fab}{%
+           family={{WIPO}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authornamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authorfullhash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
+      \field{labeltitlesource}{title}
+      \field{number}{No. 832(E)}
+      \field{title}{{Model Provisions on Protection Against Unfair Competition}}
+      \field{year}{1996}
+      \verb{urlraw}
+      \verb ftp://ftp.wipo.int/pub/library/ebooks/wipopublications/wipo_pub_832(e).pdf
+      \endverb
+      \verb{url}
+      \verb ftp://ftp.wipo.int/pub/library/ebooks/wipopublications/wipo_pub_832(e).pdf
+      \endverb
+      \keyw{iplaw,comp,tm,pat}
+    \endentry
+    \entry{corbett87_stauffer_chem_v_safsan}{inproceedings}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=7c4492d987a2aa533af870ccbcbe4299}{%
+           family={{JA Corbett and JA Viljoen and JA Hefer and AJA Galgut and AJA Nicholas}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{7c4492d987a2aa533af870ccbcbe4299}
+      \strng{authornamehash}{7c4492d987a2aa533af870ccbcbe4299}
+      \strng{authorfullhash}{7c4492d987a2aa533af870ccbcbe4299}
+      \field{sortinit}{6}
+      \field{sortinithash}{02bbed3ed82f61ae046619460488516d}
+      \field{labeltitlesource}{title}
+      \field{title}{{Stauffer Chemical Co and another v Safsan Marketing and Distributioni Co (Pty) Ltd and others}}
+      \field{year}{1987}
+      \field{pages}{(2) SA 331 (A)}
+      \range{pages}{-1}
+      \keyw{pat,iplaw}
+    \endentry
+    \entry{harms99_syntheta_v_jansses}{inproceedings}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=532b2a7d7d2d79924b6e5b71e62fe414}{%
+           family={{JA Harms and JA Scott and JA Zulman and JA Plewman and AJA Farlam}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{532b2a7d7d2d79924b6e5b71e62fe414}
+      \strng{authornamehash}{532b2a7d7d2d79924b6e5b71e62fe414}
+      \strng{authorfullhash}{532b2a7d7d2d79924b6e5b71e62fe414}
+      \field{sortinit}{7}
+      \field{sortinithash}{6ac7fe70cdec8cba8f65694411ce2532}
+      \field{labeltitlesource}{title}
+      \field{title}{{Syntheta (Pty) Ltd (formerly Delta Scientific (Pty) Ltd) v Jansses Pharmaceutica NV and another}}
+      \field{year}{1999}
+      \field{pages}{(1) SA 85 (SCA)}
+      \range{pages}{-1}
+      \keyw{pat,iplaw}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
