@@ -10,7 +10,7 @@
 #+LATEX_HEADER: \usepackage[super,negative]{nth}
 #+LATEX_HEADER: \usepackage[capitalise]{cleveref}
 #+LATEX_HEADER: \usepackage{pst-node,transparent,ragged2e}
-#+LATEX_HEADER: \addbibresource{/home/nuk3/course/training/csir/novellasers/bibliography/bibliography.bib}
+#+LATEX_HEADER: \addbibresource{/home/nuk3/.spacemacs.d/org-files/bibliography.bib}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
 #+LATEX_HEADER: \DeclareFieldFormat[misc]{citetitle}{#1}
@@ -106,6 +106,7 @@ inventive step if it is not, at the prescribed relevant date, obvious to a
 person skilled in the art. Where the concept of prior art is as described in
 [Rules 64 and 65]cite:wipo70_pct_reg of the PCT Regulations.
 * Bibliography                                                       :ignore:
+
 \printbibliography
 
 #  LocalWords:  patentable

@@ -10,7 +10,7 @@
 #+LATEX_HEADER: \usepackage[super,negative]{nth}
 #+LATEX_HEADER: \usepackage[capitalise]{cleveref}
 #+LATEX_HEADER: \usepackage{pst-node,transparent,ragged2e}
-#+LATEX_HEADER: \addbibresource{/home/nlisa/Course/bibliography/bibliography.bib}
+#+LATEX_HEADER: \addbibresource{/home/nuk3/course/training/csir/novellasers/bibliography/bibliography.bib}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
 #+LATEX_HEADER: \DeclareFieldFormat[misc]{citetitle}{#1}
@@ -34,7 +34,7 @@
 \centering{
 \pnode(0.5\textwidth,-0.5\textheight){thisCenter}
 \rput(thisCenter){%\transparent{0.25}
-\includegraphics[width=2.7in]{/home/nlisa/Course/llb/wipo-unisa/UNISACoatofArms.eps}}}
+\includegraphics[width=2.7in]{/home/nuk3/course/llb/wipo-unisa/UNISACoatofArms.eps}}}
 #+END_EXPORT
 
 #+LaTeX: \justifying
@@ -191,8 +191,8 @@ As per the provisions of [section 45(1)]cite:rsa78_patents_act and [Article 28.1
 the exclusive[fn::In the sense that /`others'/ may be explicitly excluded from doing so.] right to make, use, offering for sale or
 disposal, to sell or dispose of, or importation in respect of chemical compound X. Moreover ABC Inc holds the exclusive right to
 assign, transfer by succession and to conclude licensing contracts as per [Article 28.2]cite:wto17_trips. However it is
-interesting to note that, as per the provisions of [section 45(2)]cite:rsa78_patents_act, the authorized sale of a /`patented
-article by or on behalf of a patentee or their licensee shall, subject to other patent rights, give the purchaser the right to
+interesting to note that, as per the provisions of [section
+45(2)]cite:rsa78_patents_act, the authorized sale of a /`patented article by or on behalf of a patentee or their licensee shall, subject to other patent rights, give the purchaser the right to
 use, offer to dispose of and dispose of that article'/, thus giving XYZ (Pty) Ltd a mechanism to refute the infringement action of
 ABC Inc.\\
 

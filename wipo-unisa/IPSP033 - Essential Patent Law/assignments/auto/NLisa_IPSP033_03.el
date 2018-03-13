@@ -5,12 +5,12 @@
                      '(("article" "11pt")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
                      '(("inputenc" "utf8") ("fontenc" "T1") ("ulem" "normalem") ("geometry" "margin=0.80in") ("biblatex" "backend=biber" "style=ieee") ("nth" "super" "negative") ("cleveref" "capitalise")))
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (TeX-run-style-hooks
     "latex2e"
@@ -38,19 +38,19 @@
     "transparent"
     "ragged2e")
    (LaTeX-add-labels
-    "sec:org89a7fdd"
-    "sec:orge9a9cdb"
-    "sec:org96c37c5"
-    "sec:org4ec3366"
-    "sec:org9fae41e"
-    "sec:org525bd6c"
-    "sec:orgb12cd1d"
-    "sec:orgdfb0a1f"
-    "sec:org4fdaa9e"
-    "sec:orga4157cc"
-    "sec:orgf9c56d6"
-    "sec:orga67db75")
+    "sec:orgd040b0e"
+    "sec:orgf63c198"
+    "sec:org3010de5"
+    "sec:org16bb940"
+    "sec:org4c9dece"
+    "sec:org0e9925d"
+    "sec:org66fb381"
+    "sec:org3cefedf"
+    "sec:org3cf5cc3"
+    "sec:org133961e"
+    "sec:orgd58e3f4"
+    "sec:orgc1e17f1")
    (LaTeX-add-bibliographies
-    "/home/nlisa/Course/bibliography/bibliography"))
+    "/home/nuk3/course/training/csir/novellasers/bibliography/bibliography"))
  :latex)
 
