@@ -1,0 +1,113 @@
+* LaTeX Preamble                                                     :ignore:
+#+TITLE: IPSP044 - Essential Trademark Law
+#+AUTHOR: Nyameko Lisa
+#+DATE: 13 April 2018
+#+SUBTITLE: Assignment 01 - 751243
+
+#+LATEX_HEADER: \usepackage[margin=0.80in]{geometry}
+#+LATEX_HEADER: \usepackage[backend=biber, style=ieee]{biblatex}
+#+LATEX_HEADER: \usepackage{float}
+#+LATEX_HEADER: \usepackage[super,negative]{nth}
+#+LATEX_HEADER: \usepackage[capitalise]{cleveref}
+#+LATEX_HEADER: \usepackage{pst-node,transparent,ragged2e}
+#+LATEX_HEADER: \addbibresource{/home/nuk3/.spacemacs.d/org-files/bibliography.bib}
+#+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[misc]{citetitle}{#1}
+#+LATEX_HEADER: \DeclareFieldFormat[misc]{title}{#1}
+#+LATEX_HEADER: \renewcommand*{\bibpagespunct}{%
+#+LATEX_HEADER:   \ifentrytype{inproceedings}
+#+LATEX_HEADER:     {\addspace}
+#+LATEX_HEADER:     {\addcomma\space}}
+#+LATEX_HEADER: \AtEveryCitekey{\ifuseauthor{}{\clearname{author}}}
+#+LATEX_HEADER: \AtEveryBibitem{\ifuseauthor{}{\clearname{author}}}
+
+#+OPTIONS: toc:nil
+#+LATEX_HEADER: \SpecialCoor
+
+# Institution
+#+BEGIN_EXPORT latex
+\addvspace{110pt}
+\centering{
+\pnode(0.5\textwidth,-0.5\textheight){thisCenter}
+\rput(thisCenter){%\transparent{0.25}
+\includegraphics[width=2.7in]{/home/nuk3/course/llb/wipo-unisa/UNISACoatofArms.eps}}}
+#+END_EXPORT
+
+#+LaTeX: \justifying
+#+LaTeX: \addvspace{110pt}
+* Declaration
+  :PROPERTIES:
+   :UNNUMBERED: t
+  :END:
+  I know that plagiarism is to use someone else’s work and pass it off as my own.\\
+  I know that plagiarism is wrong.\\
+  I confirm that this assignment is my own work.\\
+  I have acknowledged in the bibliography accompanying the assignment all the sources that I have used.\\
+  I have not directly copied without acknowledgement anything from the Internet or from any other source.\\
+  I have indicated every quotation and citation in a footnote or bracket linked to that quotation.\\
+  I have not allowed anyone else to copy my work and to pass it off as their own work.\\
+  I understand that if any unacknowledged copying whatsoever appears in my assignment I will receive zero per cent for the assignment.\\
+  I am aware of the UNISA policy on plagiarism and understand that disciplinary proceedings can be instituted against me by UNISA if I contravene this policy.\\
+  I indicate my understanding and acceptance of this declaration by
+  entering my name here under:
+    - Name: *Nyameko Lisa* (Student Number: *7874-909-3*)
+
+** NOTE
+Please note that footnotes will be denoted as [fn::This is a footnote.] and will
+appear at the bottom of the page.\\
+References will be denoted by cite:rsa93_tm_act and will appear at the end of the document.
+\newpage
+* Advise whether the design will qualify for design protection and what the steps are to register it. [20]
+
+cite:corbett84_homecraft_steel_v_sm_hare,usa76_title17_us_copyright_act,usa46_title15_ch22,usa47_title17_ch9,wipo89_washington_treaty_ip_ic,wipo79_locarno_agreement,wipo25_hague_agreement,rsa93_designs_act,vheerden71_xactics_v_tailored_containers,hiemstra75_wrb_v_plasbox,eloff75_swisstool_v_omega,vdwesthuizen02_slavepak_v_buddy,friedman67_screentex_v_lyons,southwood05_sunsmart_v_flagpole,duplessis02_koninklijke_phillips_v_kenwood,harms07_clipsal_aus_v_trust_electri,aldous92_c_h_engineering_v_klucznik_sons,hiemstral73_brudd_lines_v_badsey,ranchod12_bmw_v_grandmark,barry35_allen_sherman_hoff_v_registrar_designs,wipo83_paris_conve_protect_ip
+
+cite:rsa93_designs_act 14-16
+
+Aesthetic design definitions
+
+cite:corbett84_homecraft_steel_v_sm_hare
+
+* Requirement for Fuctional Design Portection
+
+* Requirements for Aestetic Design Protection
+
+
+As per the definitions of [section 2(1)]cite:rsa93_tm_act and given that the Republic is a Paris Convention Member State, [article 15(1)]cite:wto17_trips, [article 1(2)]cite:wipo83_paris_conve_protect_ip, it follows that /`EVENFLOW'/ and /`EVENFLO'/ will be understood to be *marks*, in that they are names or signs capable of being represented graphically. Moreover they constitute *trade marks*, as they have been proposed by P[fn::Where EVENFLOW constitutes a *registered trade mark*, [section 2(1)]cite:rsa93_tm_act.] and M in relation to distinguishing their trade or use from other goods or services connected in the course of trade regarding /`cosmetics'/, and /`paints and varnishes'/ respectively.\\
+
+As per [section 2(4)]cite:rsa93_tm_act, /`use'/ or /`proposed use'/ shall be construed as the use of a visual representation of the mark [section 2(2)(a)]cite:rsa93_tm_act, as pertaining to physical form or other relation in terms of goods[section 2(3)(a)]cite:rsa93_tm_act, or as pertaining to the use thereof in any relation to the performance of any services[fn::Also referred to as service marks, [article 1(2)]cite:wipo83_paris_conve_protect_ip] [section 2(3)(b)]cite:rsa93_tm_act.\\
+
+As per the provisions of [section 17]cite:rsa93_tm_act, it is assumed that M has advertised that his application has been accepted for review. Furthermore as per [section 21]cite:rsa93_tm_act and [article 15(5)]cite:wto17_trips, the window period of *3 months* from date of the advertisement of the acceptance of the application is still available to P to oppose the application. The basis of P's opposition will be the conflict of M's mark with his own and it's general lack of inherent eligibility for trade mark registration.\\
+
+In establishing inherent ineligibility of M's mark, registration may be denied
+on a number of grounds, however Paris Union Member States [article
+1(1)]cite:wipo83_paris_conve_protect_ip, may not derogate from the provisions of
+the Paris Convention, [article 15(2)]cite:wto17_trips. Furthermore, P must
+demonstrate that M's application to register his mark does _not_ amount to *honest
+concurrent use*, [section 14(1)]cite:rsa93_tm_act.\\
+
+As per the provisions of [section 10(1)]cite:rsa93_tm_act, P could argue that
+M's mark does not constitute a trade mark, in that EVENFLO is incapable of
+generally distinguishing the goods and services it provides, from those of
+EVENFLOW, [section 9(1) and section 10(2)(a)]cite:rsa93_tm_act. Furthermore, it
+could be argued that since P has not granted any consent, registration of the
+EVENFLO mark is likely to cause deception or confusion with the registered trade
+mark EVENFLOW, [section 10(12-17)]cite:rsa93_tm_act. Where the notion of
+/`reasonable probability or "likelihood" to cause deception or confusion'/, was
+extensively argued in citetitle:harms01_cowbell_v_ics,
+cite:harms01_cowbell_v_ics, in accordance with our case law and referencing
+similar cases, it was said that likelihood of confusion must /`be appreciated
+globally'/ and that:
+#+BEGIN_QUOTE
+/``...global appreciation of the visual, aural or conceptual similarity of the marks in question, must be based on the overall impression given by the marks, bearing in mind, in particular, their distinctive and dominant components.''/
+#+END_QUOTE
+\\
+
+As per the provisions of [section 34(1)(b)]cite:rsa93_tm_act, the similarities between the registered trade mark of P, EVENFLOW and that of the one in the application by M, EVENFLO, are plainly apparent. Should P be able to demonstrate that in the course of trade of the similar mark EVENFLO, that even when registered in different classes, the similarities in their use may amount to deception or confusion, and the exploitation of the goodwill garnered by P's EVENFLOW.\\
+
+Moreover, as per the provisions of [article 2(1)]cite:wipo96_model_provi_unfair_comp and [article 10^{bis}(3)(3)]cite:wipo83_paris_conve_protect_ip, P could argue that use and registration of M's mark EVENFLO, would amount to /unfair competition/, in that the registration or use of the mark EVENFLO in the course of trade is likely to cause confusion with the trademark EVENFLOW, [article 2(2)(i)]cite:wipo96_model_provi_unfair_comp, or to mislead the public [article 4(1)]cite:wipo96_model_provi_unfair_comp as to the nature of those goods, through exploitation of the goodwill enjoyed by P and his trademark EVENFLOW. Thus amounting to unfair competition through the /dilution/[fn::/``Lessening of the distinctive character or advertising value of a trademark''./] of the EVENFLOW trade mark's goodwill or reputation, [article 3(2)(a)(i)]cite:wipo96_model_provi_unfair_comp.
+
+* Bibliography                                                       :ignore:
+\printbibliography
+
+#  LocalWords:  patentable
