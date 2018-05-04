@@ -1,5 +1,5 @@
 * LaTeX Preamble                                                     :ignore:
-#+TITLE: IPSP044 - Essential Trademark Law
+#+TITLE: IPSP055 - Essential Industrial Design Law
 #+AUTHOR: Nyameko Lisa
 #+DATE: 13 April 2018
 #+SUBTITLE: Assignment 01 - 751243
@@ -56,56 +56,131 @@
 ** NOTE
 Please note that footnotes will be denoted as [fn::This is a footnote.] and will
 appear at the bottom of the page.\\
-References will be denoted by cite:rsa93_tm_act and will appear at the end of the document.
+References will be denoted by cite:rsa93_designs_act and will appear at the end of the document.
 \newpage
 * Advise whether the design will qualify for design protection and what the steps are to register it. [20]
 
-cite:corbett84_homecraft_steel_v_sm_hare,usa76_title17_us_copyright_act,usa46_title15_ch22,usa47_title17_ch9,wipo89_washington_treaty_ip_ic,wipo79_locarno_agreement,wipo25_hague_agreement,rsa93_designs_act,vheerden71_xactics_v_tailored_containers,hiemstra75_wrb_v_plasbox,eloff75_swisstool_v_omega,vdwesthuizen02_slavepak_v_buddy,friedman67_screentex_v_lyons,southwood05_sunsmart_v_flagpole,duplessis02_koninklijke_phillips_v_kenwood,harms07_clipsal_aus_v_trust_electri,aldous92_c_h_engineering_v_klucznik_sons,hiemstral73_brudd_lines_v_badsey,ranchod12_bmw_v_grandmark,barry35_allen_sherman_hoff_v_registrar_designs,wipo83_paris_conve_protect_ip
+** Introduction
 
-cite:rsa93_designs_act 14-16
+As per the definitions of [section 2(1)]cite:rsa93_tm_act and given that the
+Republic is both a Paris Convention as well as a World Intellectual Property
+Organisation (WIPO) Member State, [article 15(1)]cite:wto17_trips, [article
+1(2)]cite:wipo83_paris_conve_protect_ip, cite:wipo25_hague_agreement, South African statutory design
+legislation is in compliance with International Conventions and legal instruments.\\
 
-Aesthetic design definitions
+As per the provisions of cite:rsa78_patents_act, patent rights seek to protect
+the principle underlying an inventive process or product. In contrast the South
+African Designs Act No. 195 of 1993 cite:rsa93_designs_act, provides provisions
+for the protection of only the physical form of articles of manufacture intended
+to be multiplied by industrial processes, [section 14(4)]cite:rsa93_designs_act.
 
-cite:corbett84_homecraft_steel_v_sm_hare
+** Requirements for design protection
 
-* Requirement for Fuctional Design Portection
+Judson Beaumont, who will henceforth be referred to as the *``proprietor''* of
+the Beaver Cabinet design which will in turn be referred to as the *``article''*, as
+per the provisions of [section 1(1)]cite:rsa93_designs_act and his Straight Line
+Designs studio should be advised that the legislation makes provision for both
+_aesthetic designs_ (Part A) as well as _functional designs_ (Part F)
+registrations, as per the provisions of [section
+14(1)(a-b)]cite:rsa93_designs_act.
 
-* Requirements for Aestetic Design Protection
+*** Aesthetic designs
 
-
-As per the definitions of [section 2(1)]cite:rsa93_tm_act and given that the Republic is a Paris Convention Member State, [article 15(1)]cite:wto17_trips, [article 1(2)]cite:wipo83_paris_conve_protect_ip, it follows that /`EVENFLOW'/ and /`EVENFLO'/ will be understood to be *marks*, in that they are names or signs capable of being represented graphically. Moreover they constitute *trade marks*, as they have been proposed by P[fn::Where EVENFLOW constitutes a *registered trade mark*, [section 2(1)]cite:rsa93_tm_act.] and M in relation to distinguishing their trade or use from other goods or services connected in the course of trade regarding /`cosmetics'/, and /`paints and varnishes'/ respectively.\\
-
-As per [section 2(4)]cite:rsa93_tm_act, /`use'/ or /`proposed use'/ shall be construed as the use of a visual representation of the mark [section 2(2)(a)]cite:rsa93_tm_act, as pertaining to physical form or other relation in terms of goods[section 2(3)(a)]cite:rsa93_tm_act, or as pertaining to the use thereof in any relation to the performance of any services[fn::Also referred to as service marks, [article 1(2)]cite:wipo83_paris_conve_protect_ip] [section 2(3)(b)]cite:rsa93_tm_act.\\
-
-As per the provisions of [section 17]cite:rsa93_tm_act, it is assumed that M has advertised that his application has been accepted for review. Furthermore as per [section 21]cite:rsa93_tm_act and [article 15(5)]cite:wto17_trips, the window period of *3 months* from date of the advertisement of the acceptance of the application is still available to P to oppose the application. The basis of P's opposition will be the conflict of M's mark with his own and it's general lack of inherent eligibility for trade mark registration.\\
-
-In establishing inherent ineligibility of M's mark, registration may be denied
-on a number of grounds, however Paris Union Member States [article
-1(1)]cite:wipo83_paris_conve_protect_ip, may not derogate from the provisions of
-the Paris Convention, [article 15(2)]cite:wto17_trips. Furthermore, P must
-demonstrate that M's application to register his mark does _not_ amount to *honest
-concurrent use*, [section 14(1)]cite:rsa93_tm_act.\\
-
-As per the provisions of [section 10(1)]cite:rsa93_tm_act, P could argue that
-M's mark does not constitute a trade mark, in that EVENFLO is incapable of
-generally distinguishing the goods and services it provides, from those of
-EVENFLOW, [section 9(1) and section 10(2)(a)]cite:rsa93_tm_act. Furthermore, it
-could be argued that since P has not granted any consent, registration of the
-EVENFLO mark is likely to cause deception or confusion with the registered trade
-mark EVENFLOW, [section 10(12-17)]cite:rsa93_tm_act. Where the notion of
-/`reasonable probability or "likelihood" to cause deception or confusion'/, was
-extensively argued in citetitle:harms01_cowbell_v_ics,
-cite:harms01_cowbell_v_ics, in accordance with our case law and referencing
-similar cases, it was said that likelihood of confusion must /`be appreciated
-globally'/ and that:
+As per the provisions of [section 1(1)]cite:rsa93_designs_act, which stipulates
+that @@latex:\textit{``...any design applied to any article, whether for the
+pattern or the shape or the configuration or the ornamentation thereof, or for
+any two or more of these purposes, and by whatever means is applied, having
+features which appeal to and are judged solely by the eye, irrespective of the
+aesthetic quality thereof...''}@@, as was stipulated by Judge Corbett in
+citetitle:corbett84_homecraft_steel_v_sm_hare:
 #+BEGIN_QUOTE
-/``...global appreciation of the visual, aural or conceptual similarity of the marks in question, must be based on the overall impression given by the marks, bearing in mind, in particular, their distinctive and dominant components.''/
+@@latex:\textit{To qualify as a design, an article must have some special feature
+which appeals to the eye and distinguishes it from others of its class.''}@@
 #+END_QUOTE
-\\
+The *proprietor* would be advised to pursue aesthetic design registration for
+their *article*.
 
-As per the provisions of [section 34(1)(b)]cite:rsa93_tm_act, the similarities between the registered trade mark of P, EVENFLOW and that of the one in the application by M, EVENFLO, are plainly apparent. Should P be able to demonstrate that in the course of trade of the similar mark EVENFLO, that even when registered in different classes, the similarities in their use may amount to deception or confusion, and the exploitation of the goodwill garnered by P's EVENFLOW.\\
+*** Functional designs
+Again as per the provisions of [section 1(1)]cite:rsa93_designs_act, the
+definition of a function design is @@latex:\textit{``...any design applied to any article,
+either for the pattern or the shape or the configuration thereof, or for any two
+or more of these purposes, and by whatever means it is applied, having features
+which are necessitated by the function which the article to which the design is
+applied, is to perform, and includes an integrated circuit topography, a mask
+work and a series of mask works...''}@@.\\
 
-Moreover, as per the provisions of [article 2(1)]cite:wipo96_model_provi_unfair_comp and [article 10^{bis}(3)(3)]cite:wipo83_paris_conve_protect_ip, P could argue that use and registration of M's mark EVENFLO, would amount to /unfair competition/, in that the registration or use of the mark EVENFLO in the course of trade is likely to cause confusion with the trademark EVENFLOW, [article 2(2)(i)]cite:wipo96_model_provi_unfair_comp, or to mislead the public [article 4(1)]cite:wipo96_model_provi_unfair_comp as to the nature of those goods, through exploitation of the goodwill enjoyed by P and his trademark EVENFLOW. Thus amounting to unfair competition through the /dilution/[fn::/``Lessening of the distinctive character or advertising value of a trademark''./] of the EVENFLOW trade mark's goodwill or reputation, [article 3(2)(a)(i)]cite:wipo96_model_provi_unfair_comp.
+Whist it is possible for the *proprietor* to lodge both functional and aesthetic
+design registration applications in respect of their *article*, as per the
+provisions of [section 14(1)(b)(ii)]cite:rsa93_designs_act, it is not obviously
+apparent that there are any functional features of the Beaver Cabinet article
+that require protection of purely functional design features or methods and
+principles of it's construction [section 14(4)]cite:rsa93_designs_act, /``that
+are not commonplace in the art in question''/. Without any evidence to the
+contrary, Straight Line Designs would most likely be unsuccessful in seeking
+functional design registration for their *article*.
+
+*** Novelty requirements
+
+As per the provisions of [section 14(1)(a)]cite:rsa93_designs_act, should Judson
+be able to demonstrate that his Beaver Cabinet is both *new* and *original*, he
+may in the prescribed manner and on payment of the prescribed fee, apply for
+aesthetic design registration. Moreover the Beaver Cabinet must be different
+from or not form part of the *state of the art* within a grace period of six
+months from the date of first disclosure, or release date [section
+14(2)(b)]cite:rsa93_designs_act. Where state of the art comprises of all matter
+which has been made available to the public, within or outside the Republic, by
+written means, usage or any other form [section 14(3)(a)]cite:rsa93_designs_act,
+including all matter contained in pending registration applications [section
+14(3)(b)]cite:rsa93_designs_act. Courts of the Republic have interpreted the
+meaning of /`original'/ to coincide with that definition outlined in
+cite:rsa78_copyrightact, and which was further elaborated on by Judge Van
+Heerden in citetitle:vheerden71_xactics_v_tailored_containers, where he
+explained that:
+#+BEGIN_QUOTE
+@@latex:\textit{``I have accordingly come to the conclusion that applicant's registered design
+68/346 was not new or original by reason of the fact that a design not substantially
+different therefrom had already been described in a printed publication before the
+date of application for registration.''}@@
+#+END_QUOTE
+
+** Requirements and procedure for registration
+As per the provisions of [section 44]cite:rsa93_designs_act, should Judson have
+either already registered or applied for protection of the Beaver Cabinet design
+in a convention member state outside of the Republic, then as the *proprietor*
+of said *article*, in accordance with cite:rsa93_designs_act, he may indeed
+apply for registration within the Republic. Judson my also ensure that he
+himself is protected by clearly articulated, binding employment agreements with
+his staff of eight full-time craftspeople, to ensure that he is the unequivocal
+sole proprietor of the design [section 14(7)]cite:rsa93_designs_act.\\
+
+As per the provisions of [section 15]cite:rsa93_designs_act, there is neither
+examination nor provision for opposition with regards to the Beaver Cabinet's
+registrability. The Registrar will consider Judons' application and should he be
+satisfied that all formal requirements have been met in the prescribed manner
+[section 16]cite:rsa93_designs_act, he will register the Beaver Cabinet design
+and issue the official Certificate of registration [section
+18]cite:rsa93_designs_act. After the certificate is issued and the design is
+published as per [section 18(b)]cite:rsa93_designs_act, the official file is
+released to the public for inspection [section 19]cite:rsa93_designs_act. Judson
+should expect the process to be completed within 12 months of the date of
+filing. Moreover there are provisions for him to correct any clerical errors
+upon application [section 26]cite:rsa93_designs_act.
+
+*** Prescribed filing requirements
+Judon's application for the registration of his Beaver Cabinet, must comply with
+the above mentioned statutory requirements, and be accompanied by the prescribed
+forms, containing all the required information including but not limited to:
+
+- As the proprietor of the article's design, Judson must provide his name and
+  physical address,
+- Article for which design protection is to be applied (Cabinet), and the
+  corresponding international classification cite:wipo79_locarno_agreement,
+- Type of Design (Aesthetic only /recommended/),
+- Number, date and country of the basic application if Convention priority is to
+  be claimed,
+- A declaration of novelty or definitive statement outlining all the features
+  of the design for which protection is sought.
+
 
 * Bibliography                                                       :ignore:
 \printbibliography
