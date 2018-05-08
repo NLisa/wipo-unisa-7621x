@@ -1,0 +1,209 @@
+
+* LaTeX Preamble                                                     :ignore:
+#+TITLE: IPSP066 - Internet Aspects of Copyright and Trade Marks
+#+AUTHOR: Nyameko Lisa
+#+DATE: 13 April 2018
+#+SUBTITLE: Assignment 01 - 695242
+
+#+LATEX_HEADER: \usepackage[margin=0.80in]{geometry}
+#+LATEX_HEADER: \usepackage[backend=biber, style=ieee]{biblatex}
+#+LATEX_HEADER: \usepackage{float}
+#+LATEX_HEADER: \usepackage[super,negative]{nth}
+#+LATEX_HEADER: \usepackage[capitalise]{cleveref}
+#+LATEX_HEADER: \usepackage{pst-node,transparent,ragged2e}
+#+LATEX_HEADER: \addbibresource{/home/nuk3/.spacemacs.d/org-files/bibliography.bib}
+#+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[misc]{citetitle}{#1}
+#+LATEX_HEADER: \DeclareFieldFormat[misc]{title}{#1}
+#+LATEX_HEADER: \renewcommand*{\bibpagespunct}{%
+#+LATEX_HEADER:   \ifentrytype{inproceedings}
+#+LATEX_HEADER:     {\addspace}
+#+LATEX_HEADER:     {\addcomma\space}}
+#+LATEX_HEADER: \AtEveryCitekey{\ifuseauthor{}{\clearname{author}}}
+#+LATEX_HEADER: \AtEveryBibitem{\ifuseauthor{}{\clearname{author}}}
+
+#+OPTIONS: toc:nil
+#+LATEX_HEADER: \SpecialCoor
+
+# Institution
+#+BEGIN_EXPORT latex
+\addvspace{110pt}
+\centering{
+\pnode(0.5\textwidth,-0.5\textheight){thisCenter}
+\rput(thisCenter){%\transparent{0.25}
+\includegraphics[width=2.7in]{/home/nuk3/course/llb/wipo-unisa/UNISACoatofArms.eps}}}
+#+END_EXPORT
+
+#+LaTeX: \justifying
+#+LaTeX: \addvspace{110pt}
+* Declaration
+  :PROPERTIES:
+   :UNNUMBERED: t
+  :END:
+  I know that plagiarism is to use someone else’s work and pass it off as my own.\\
+  I know that plagiarism is wrong.\\
+  I confirm that this assignment is my own work.\\
+  I have acknowledged in the bibliography accompanying the assignment all the sources that I have used.\\
+  I have not directly copied without acknowledgement anything from the Internet or from any other source.\\
+  I have indicated every quotation and citation in a footnote or bracket linked to that quotation.\\
+  I have not allowed anyone else to copy my work and to pass it off as their own work.\\
+  I understand that if any unacknowledged copying whatsoever appears in my assignment I will receive zero per cent for the assignment.\\
+  I am aware of the UNISA policy on plagiarism and understand that disciplinary proceedings can be instituted against me by UNISA if I contravene this policy.\\
+  I indicate my understanding and acceptance of this declaration by
+  entering my name here under:
+    - Name: *Nyameko Lisa* (Student Number: *7874-909-3*)
+
+** NOTE
+Please note that footnotes will be denoted as [fn::This is a footnote.] and will
+appear at the bottom of the page.\\
+References will be denoted by cite:rsa93_designs_act and will appear at the end of the document.
+\newpage
+
+* Sibusiso wants to register the domain name `united'.
+cite:rsa02_elect_comm_trans_act,rsa67_performers_protection_act,nygh00_prelim_draft_conven,icann13_rules,icann99_policy,eurlex01_harmonisation,eurlex00_elec_commerce,wipo96_wppt
+
+
+
+** Can he register such a domain name?
+** Could he be liable for trademark infringement?
+study unit 7, pg 9
+** Is there any other procedure that could be instituted to resolve the dispute?
+ Study unit 4
+
+chapter X, XI of elect_comm_trans_act
+
+* Sibusiso wants to place samples from the sound recordings for sale on his web site.
+** Which holders of intellectual property rights may be affected by this?
+** Which of their rights may be affected?
+** Does he need their permission to do so? What form will such permission take?
+** If he does not obtain their permission, will HostNet also be legally liable? article 12 mere conduit pg 13 international instruments, article 14 and 15
+
+* Advise whether the design will qualify for design protection and what the steps are to register it. [20]
+
+** Introduction
+
+As per the definitions of [section 2(1)]cite:rsa93_tm_act and given that the
+Republic is both a Paris Convention as well as a World Intellectual Property
+Organisation (WIPO) Member State, [article 15(1)]cite:wto17_trips, [article
+1(2)]cite:wipo83_paris_conve_protect_ip, cite:wipo25_hague_agreement, South African statutory design
+legislation is in compliance with International Conventions and legal instruments.\\
+
+As per the provisions of cite:rsa78_patents_act, patent rights seek to protect
+the principle underlying an inventive process or product. In contrast the South
+African Designs Act No. 195 of 1993 cite:rsa93_designs_act, provides provisions
+for the protection of only the physical form of articles of manufacture intended
+to be multiplied by industrial processes, [section 14(4)]cite:rsa93_designs_act.
+
+** Requirements for design protection
+
+Judson Beaumont, who will henceforth be referred to as the *``proprietor''* of
+the Beaver Cabinet design which will in turn be referred to as the *``article''*, as
+per the provisions of [section 1(1)]cite:rsa93_designs_act and his Straight Line
+Designs studio should be advised that the legislation makes provision for both
+_aesthetic designs_ (Part A) as well as _functional designs_ (Part F)
+registrations, as per the provisions of [section
+14(1)(a-b)]cite:rsa93_designs_act.
+
+*** Aesthetic designs
+
+As per the provisions of [section 1(1)]cite:rsa93_designs_act, which stipulates
+that @@latex:\textit{``...any design applied to any article, whether for the
+pattern or the shape or the configuration or the ornamentation thereof, or for
+any two or more of these purposes, and by whatever means is applied, having
+features which appeal to and are judged solely by the eye, irrespective of the
+aesthetic quality thereof...''}@@, as was stipulated by Judge Corbett in
+citetitle:corbett84_homecraft_steel_v_sm_hare:
+#+BEGIN_QUOTE
+@@latex:\textit{To qualify as a design, an article must have some special feature
+which appeals to the eye and distinguishes it from others of its class.''}@@
+#+END_QUOTE
+The *proprietor* would be advised to pursue aesthetic design registration for
+their *article*.
+
+*** Functional designs
+Again as per the provisions of [section 1(1)]cite:rsa93_designs_act, the
+definition of a function design is @@latex:\textit{``...any design applied to any article,
+either for the pattern or the shape or the configuration thereof, or for any two
+or more of these purposes, and by whatever means it is applied, having features
+which are necessitated by the function which the article to which the design is
+applied, is to perform, and includes an integrated circuit topography, a mask
+work and a series of mask works...''}@@.\\
+
+Whist it is possible for the *proprietor* to lodge both functional and aesthetic
+design registration applications in respect of their *article*, as per the
+provisions of [section 14(1)(b)(ii)]cite:rsa93_designs_act, it is not obviously
+apparent that there are any functional features of the Beaver Cabinet article
+that require protection of purely functional design features or methods and
+principles of it's construction [section 14(4)]cite:rsa93_designs_act, /``that
+are not commonplace in the art in question''/. Without any evidence to the
+contrary, Straight Line Designs would most likely be unsuccessful in seeking
+functional design registration for their *article*.
+
+*** Novelty requirements
+
+As per the provisions of [section 14(1)(a)]cite:rsa93_designs_act, should Judson
+be able to demonstrate that his Beaver Cabinet is both *new* and *original*, he
+may in the prescribed manner and on payment of the prescribed fee, apply for
+aesthetic design registration. Moreover the Beaver Cabinet must be different
+from or not form part of the *state of the art* within a grace period of six
+months from the date of first disclosure, or release date [section
+14(2)(b)]cite:rsa93_designs_act. Where state of the art comprises of all matter
+which has been made available to the public, within or outside the Republic, by
+written means, usage or any other form [section 14(3)(a)]cite:rsa93_designs_act,
+including all matter contained in pending registration applications [section
+14(3)(b)]cite:rsa93_designs_act. Courts of the Republic have interpreted the
+meaning of /`original'/ to coincide with that definition outlined in
+cite:rsa78_copyrightact, and which was further elaborated on by Judge Van
+Heerden in citetitle:vheerden71_xactics_v_tailored_containers, where he
+explained that:
+#+BEGIN_QUOTE
+@@latex:\textit{``I have accordingly come to the conclusion that applicant's registered design
+68/346 was not new or original by reason of the fact that a design not substantially
+different therefrom had already been described in a printed publication before the
+date of application for registration.''}@@
+#+END_QUOTE
+
+** Requirements and procedure for registration
+As per the provisions of [section 44]cite:rsa93_designs_act, should Judson have
+either already registered or applied for protection of the Beaver Cabinet design
+in a convention member state outside of the Republic, then as the *proprietor*
+of said *article*, in accordance with cite:rsa93_designs_act, he may indeed
+apply for registration within the Republic. Judson my also ensure that he
+himself is protected by clearly articulated, binding employment agreements with
+his staff of eight full-time craftspeople, to ensure that he is the unequivocal
+sole proprietor of the design [section 14(7)]cite:rsa93_designs_act.\\
+
+As per the provisions of [section 15]cite:rsa93_designs_act, there is neither
+examination nor provision for opposition with regards to the Beaver Cabinet's
+registrability. The Registrar will consider Judons' application and should he be
+satisfied that all formal requirements have been met in the prescribed manner
+[section 16]cite:rsa93_designs_act, he will register the Beaver Cabinet design
+and issue the official Certificate of registration [section
+18]cite:rsa93_designs_act. After the certificate is issued and the design is
+published as per [section 18(b)]cite:rsa93_designs_act, the official file is
+released to the public for inspection [section 19]cite:rsa93_designs_act. Judson
+should expect the process to be completed within 12 months of the date of
+filing. Moreover there are provisions for him to correct any clerical errors
+upon application [section 26]cite:rsa93_designs_act.
+
+*** Prescribed filing requirements
+Judon's application for the registration of his Beaver Cabinet, must comply with
+the above mentioned statutory requirements, and be accompanied by the prescribed
+forms, containing all the required information including but not limited to:
+
+- As the proprietor of the article's design, Judson must provide his name and
+  physical address,
+- Article for which design protection is to be applied (Cabinet), and the
+  corresponding international classification cite:wipo79_locarno_agreement,
+- Type of Design (Aesthetic only /recommended/),
+- Number, date and country of the basic application if Convention priority is to
+  be claimed,
+- A declaration of novelty or definitive statement outlining all the features
+  of the design for which protection is sought.
+
+
+* Bibliography                                                       :ignore:
+\printbibliography
+
+#  LocalWords:  patentable
