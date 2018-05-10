@@ -5,8 +5,8 @@
 #+DATE: 13 April 2018
 #+SUBTITLE: Assignment 01 - 695242
 
-#+LATEX_HEADER: \usepackage[margin=0.80in]{geometry}
-#+LATEX_HEADER: \usepackage[backend=biber, style=ieee]{biblatex}
+#+LATEX_HEADER: \usepackage[margin=0.65in]{geometry}
+#+LATEX_HEADER: \usepackage[backend=biber, style=ieee, url=false]{biblatex}
 #+LATEX_HEADER: \usepackage{float}
 #+LATEX_HEADER: \usepackage[super,negative]{nth}
 #+LATEX_HEADER: \usepackage[capitalise]{cleveref}
@@ -57,153 +57,142 @@
 ** NOTE
 Please note that footnotes will be denoted as [fn::This is a footnote.] and will
 appear at the bottom of the page.\\
-References will be denoted by cite:rsa93_designs_act and will appear at the end of the document.
+References will be denoted by cite:rsa93_tm_act and will appear at the end of the document.
 \newpage
 
 * Sibusiso wants to register the domain name `united'.
-cite:rsa02_elect_comm_trans_act,rsa67_performers_protection_act,nygh00_prelim_draft_conven,icann13_rules,icann99_policy,eurlex01_harmonisation,eurlex00_elec_commerce,wipo96_wppt
-
-
-
-** Can he register such a domain name?
-** Could he be liable for trademark infringement?
-study unit 7, pg 9
-** Is there any other procedure that could be instituted to resolve the dispute?
- Study unit 4
-
-chapter X, XI of elect_comm_trans_act
-
-* Sibusiso wants to place samples from the sound recordings for sale on his web site.
-** Which holders of intellectual property rights may be affected by this?
-** Which of their rights may be affected?
-** Does he need their permission to do so? What form will such permission take?
-** If he does not obtain their permission, will HostNet also be legally liable? article 12 mere conduit pg 13 international instruments, article 14 and 15
-
-* Advise whether the design will qualify for design protection and what the steps are to register it. [20]
-
-** Introduction
 
 As per the definitions of [section 2(1)]cite:rsa93_tm_act and given that the
-Republic is both a Paris Convention as well as a World Intellectual Property
-Organisation (WIPO) Member State, [article 15(1)]cite:wto17_trips, [article
-1(2)]cite:wipo83_paris_conve_protect_ip, cite:wipo25_hague_agreement, South African statutory design
-legislation is in compliance with International Conventions and legal instruments.\\
+Republic is a Paris Convention Member State, [article 15(1)]cite:wto17_trips,
+[article 1(2)]cite:wipo83_paris_conve_protect_ip, it follows that
+/`UNITED.gTLD'/ and /`UNITED.ccTLD/ will be understood to be *marks*, in that
+they are names or signs capable of being represented graphically. Moreover
+/`UNITED.COM'/ constitutes a *well-known registered service* or *trade mark* in
+the United States of America in relation to distinguishing their trade or use
+from other goods or services connected in the course of trade regarding
+/`airline and courier services.'/.
 
-As per the provisions of cite:rsa78_patents_act, patent rights seek to protect
-the principle underlying an inventive process or product. In contrast the South
-African Designs Act No. 195 of 1993 cite:rsa93_designs_act, provides provisions
-for the protection of only the physical form of articles of manufacture intended
-to be multiplied by industrial processes, [section 14(4)]cite:rsa93_designs_act.
+** Can he register such a domain name?
 
-** Requirements for design protection
+In order to reserve such a domain name in a general Top-Level Domain or *gTLD*,
+the *registrant* Sibusiso must register it with an ICANN-accredited
+registrar[fn::Or alternatively through a registrar's resellers.]
+cite:icann13_rules. The registrar will then check if the UNITED.gTLD domain name
+is available, and then either create or lookup a WHOIS (domain name registration
+record) with the registrant's information cite:icann99_policy. The registrant would be advised
+against the pursuit of gTLD of the `united' domain name, as he is not likely to
+be successful. In particular, while the `united' trade mark may be territorial by
+its very nature, the specific `united.com' domain name cannot be owned by
+multiple companies, irrespective of the uniqueness of their products and / or
+markets.\\
 
-Judson Beaumont, who will henceforth be referred to as the *``proprietor''* of
-the Beaver Cabinet design which will in turn be referred to as the *``article''*, as
-per the provisions of [section 1(1)]cite:rsa93_designs_act and his Straight Line
-Designs studio should be advised that the legislation makes provision for both
-_aesthetic designs_ (Part A) as well as _functional designs_ (Part F)
-registrations, as per the provisions of [section
-14(1)(a-b)]cite:rsa93_designs_act.
+Alternatively, the registrant would be strongly advised to instead pursue
+registration of the country code Top-Level Domain or *ccTLD* domain
+`united.co.za', through one of the ccTLD operators
+[section 59]cite:rsa02_elect_comm_trans_act, particularly if the students he intends to sell
+sound recordings to are based within the Republic. This will be assigned on a
+first-come first-serve basis.
 
-*** Aesthetic designs
+** Could he be liable for trade mark infringement?
+Yes indeed, as per the provisions of [sections 10(6) and 35]cite:rsa93_tm_act
+/(for litigation within the Republic)/, [Article 16 subsections (1), (2) and
+(3)]cite:wto17_trips, [Article
+@@latex:6\textsuperscript{\textit{bis}}@@(1)]cite:wipo83_paris_conve_protect_ip,
+[Article 16]cite:wipo70_tlt and [subsection 1125(c)]cite:usa46_title15_ch22
+/(for actions within the United States of America)/, the proprietors of the
+second level domain `united', as is the case with the airline company, may argue
+that it is indeed a *well-known* mark and that registration of Sibusiso's domain
+name in either a gTLD or ccTLD, constitutes trade mark infringement, through the
+*dilution* of a well-known mark.\\
 
-As per the provisions of [section 1(1)]cite:rsa93_designs_act, which stipulates
-that @@latex:\textit{``...any design applied to any article, whether for the
-pattern or the shape or the configuration or the ornamentation thereof, or for
-any two or more of these purposes, and by whatever means is applied, having
-features which appeal to and are judged solely by the eye, irrespective of the
-aesthetic quality thereof...''}@@, as was stipulated by Judge Corbett in
-citetitle:corbett84_homecraft_steel_v_sm_hare:
-#+BEGIN_QUOTE
-@@latex:\textit{To qualify as a design, an article must have some special feature
-which appeals to the eye and distinguishes it from others of its class.''}@@
-#+END_QUOTE
-The *proprietor* would be advised to pursue aesthetic design registration for
-their *article*.
+Dilution protection is not subject to the same limitations of `traditional'
+trade mark infringement,[fn:1] in that it extends to use of the offending mark to
+/any/ goods and services. The proprietors of the UNITED.com Airlines trade
+mark and domain name, need demonstrate that:
+- Their mark is well known within the Republic, i.e. it would be sufficient for
+  them to show that their trade mark has acquired a reputation amongst a
+  substantial number of members of the public,
+  citetitle:corbett97_mcd_v_joburgers cite:corbett97_mcd_v_joburgers,
+- Sibusiso has used the mark in the course of trade, where the courts of
+  the Republic view this in the `traditional' trade mark infringement[fn:1]
+  sense, citetitle:harms01_cowbell_v_ics cite:harms01_cowbell_v_ics, lastly
+- Use of the infringing mark is likely to take unfair advantage of, or be
+  detrimental to the distinctive character of the UNITED Airlines trade mark,
+  amounting to unfair competition [articles 2(1) and 3(2)(a)(i)]cite:wipo96_model_provi_unfair_comp.
 
-*** Functional designs
-Again as per the provisions of [section 1(1)]cite:rsa93_designs_act, the
-definition of a function design is @@latex:\textit{``...any design applied to any article,
-either for the pattern or the shape or the configuration thereof, or for any two
-or more of these purposes, and by whatever means it is applied, having features
-which are necessitated by the function which the article to which the design is
-applied, is to perform, and includes an integrated circuit topography, a mask
-work and a series of mask works...''}@@.\\
+** Is there any other procedure that could be instituted to resolve the dispute?
 
-Whist it is possible for the *proprietor* to lodge both functional and aesthetic
-design registration applications in respect of their *article*, as per the
-provisions of [section 14(1)(b)(ii)]cite:rsa93_designs_act, it is not obviously
-apparent that there are any functional features of the Beaver Cabinet article
-that require protection of purely functional design features or methods and
-principles of it's construction [section 14(4)]cite:rsa93_designs_act, /``that
-are not commonplace in the art in question''/. Without any evidence to the
-contrary, Straight Line Designs would most likely be unsuccessful in seeking
-functional design registration for their *article*.
+ICANN provides a Uniform Domain Name Dispute Resolution Policy which outlines
+provisions [section 4(a)(i)]cite:icann99_policy, within which mandatory
+administrative proceedings may be instituted, on the basis that as a *third
+party complainant* UNITED Airlines asserts that Sibusiso's domain is identical
+or confusingly similar to their trade or service mark over which they have
+rights to.
 
-*** Novelty requirements
+* Sibusiso wants to place samples from the sound recordings for sale on his web site.
+As a Convention Member the provisions of [Article 9(1)]cite:wto17_trips,
+[section 5]cite:rsa78_copyrightact, [Article 1(2)]cite:eurlex00_elec_commerce,
+[Article 5(2)]cite:wipo86_berne and [Article 1(4)]cite:wipo96_copyright_treaty
+which dictate that the statues of the Republic shall govern international
+copyright protection as it pertains to the Internet. Furthermore as per the
+provisions of [sections 1 and 2(1)(b,e)]cite:rsa78_copyrightact and [Article
+2(1)]cite:wipo86_berne the sound recordings shall be considered as *protected
+artistic works* or *sound recordings*.
 
-As per the provisions of [section 14(1)(a)]cite:rsa93_designs_act, should Judson
-be able to demonstrate that his Beaver Cabinet is both *new* and *original*, he
-may in the prescribed manner and on payment of the prescribed fee, apply for
-aesthetic design registration. Moreover the Beaver Cabinet must be different
-from or not form part of the *state of the art* within a grace period of six
-months from the date of first disclosure, or release date [section
-14(2)(b)]cite:rsa93_designs_act. Where state of the art comprises of all matter
-which has been made available to the public, within or outside the Republic, by
-written means, usage or any other form [section 14(3)(a)]cite:rsa93_designs_act,
-including all matter contained in pending registration applications [section
-14(3)(b)]cite:rsa93_designs_act. Courts of the Republic have interpreted the
-meaning of /`original'/ to coincide with that definition outlined in
-cite:rsa78_copyrightact, and which was further elaborated on by Judge Van
-Heerden in citetitle:vheerden71_xactics_v_tailored_containers, where he
-explained that:
-#+BEGIN_QUOTE
-@@latex:\textit{``I have accordingly come to the conclusion that applicant's registered design
-68/346 was not new or original by reason of the fact that a design not substantially
-different therefrom had already been described in a printed publication before the
-date of application for registration.''}@@
-#+END_QUOTE
+** Which holders of intellectual property rights may be affected by this?
 
-** Requirements and procedure for registration
-As per the provisions of [section 44]cite:rsa93_designs_act, should Judson have
-either already registered or applied for protection of the Beaver Cabinet design
-in a convention member state outside of the Republic, then as the *proprietor*
-of said *article*, in accordance with cite:rsa93_designs_act, he may indeed
-apply for registration within the Republic. Judson my also ensure that he
-himself is protected by clearly articulated, binding employment agreements with
-his staff of eight full-time craftspeople, to ensure that he is the unequivocal
-sole proprietor of the design [section 14(7)]cite:rsa93_designs_act.\\
+As per the provisions of [Article 14]cite:wto17_trips, [sections 1, 3,
+4(1)(a)]cite:rsa78_copyrightact, [Articles 2 and 3]cite:wipo96_wppt, [Article 3
+and 9(1)]cite:wipo86_berne, the *authors*, and they are understood to be the
+performers, producers, licensees and broadcasting organisations of the sound
+recordings.
 
-As per the provisions of [section 15]cite:rsa93_designs_act, there is neither
-examination nor provision for opposition with regards to the Beaver Cabinet's
-registrability. The Registrar will consider Judons' application and should he be
-satisfied that all formal requirements have been met in the prescribed manner
-[section 16]cite:rsa93_designs_act, he will register the Beaver Cabinet design
-and issue the official Certificate of registration [section
-18]cite:rsa93_designs_act. After the certificate is issued and the design is
-published as per [section 18(b)]cite:rsa93_designs_act, the official file is
-released to the public for inspection [section 19]cite:rsa93_designs_act. Judson
-should expect the process to be completed within 12 months of the date of
-filing. Moreover there are provisions for him to correct any clerical errors
-upon application [section 26]cite:rsa93_designs_act.
+** Which of their rights may be affected?
+- Exclusive right of reproduction [section 9(a)]cite:rsa78_copyrightact,
+  [Article 9(1) and (2)]cite:wipo86_berne, [Article 7 and 11]cite:wipo96_wppt
+  and [Article 2(a-e)]cite:eurlex01_harmonisation,
 
-*** Prescribed filing requirements
-Judon's application for the registration of his Beaver Cabinet, must comply with
-the above mentioned statutory requirements, and be accompanied by the prescribed
-forms, containing all the required information including but not limited to:
+- Exclusive right of offering by way of trade, directly or indirectly, a
+  reproduction of the sound recording [section 9(b)]cite:rsa78_copyrightact,
 
-- As the proprietor of the article's design, Judson must provide his name and
-  physical address,
-- Article for which design protection is to be applied (Cabinet), and the
-  corresponding international classification cite:wipo79_locarno_agreement,
-- Type of Design (Aesthetic only /recommended/),
-- Number, date and country of the basic application if Convention priority is to
-  be claimed,
-- A declaration of novelty or definitive statement outlining all the features
-  of the design for which protection is sought.
+- Exclusive right of publication, distribution or broadcast to the public, or
+  causing the sound recording to be transmitted in a diffusion service [section
+  9(c-d)]cite:rsa78_copyrightact, [Article
+  11@@latex:\textsuperscript{bis}@@(1)(i)-(ii)]cite:wipo86_berne, [Article
+  6(1)]cite:wipo96_copyright_treaty, [Article 8(1) and 12(1)]cite:wipo96_wppt
+  and [Article 4]cite:eurlex01_harmonisation,
 
+- Exclusive right of communication to the public of a performance [section
+  9(e)]cite:rsa78_copyrightact, [Article 11(1)(i)-(ii)]cite:wipo86_berne,
+  [Article 8]cite:wipo96_copyright_treaty, [Article 13-15]cite:wipo96_wppt and
+  [Article 3]cite:eurlex01_harmonisation, and
+
+- Exclusive right[fn::Sampling constitutes an adaptation.] of adaptation,
+  arrangement and other alteration [section 6(f-g)]cite:rsa78_copyrightact,
+  [Article 12]cite:wipo86_berne and [Article 16]cite:wipo96_wppt.
+
+** Does he need their permission to do so? What form will such permission take?
+
+Yes indeed, by way of a license, [section 22]cite:rsa78_copyrightact and
+[Article 13(1)]cite:wipo86_berne.
+
+** If he does not obtain their permission, will HostNet also be legally liable?
+
+With respect to Sibusiso's intellectual property rights infringement, the
+intermediary service provider HostNet shall _*not*_ be legally liable, for
+activities conducted during the course of its trade:
+- Information transmission or acting as a *`mere conduit'* [Article 12]cite:eurlex00_elec_commerce,
+- Temporary information storage *`caching'* [Article 13]cite:eurlex00_elec_commerce, and
+- Hosting [Article 14]cite:eurlex00_elec_commerce.
+
+Moreover there exist provisions against statutory requirements obliging HostNet
+to monitor Sibusiso's activities on their respective servers [Article 15]cite:eurlex00_elec_commerce.
 
 * Bibliography                                                       :ignore:
 \printbibliography
 
-#  LocalWords:  patentable
+#  LocalWords:  patentable ccTLD gTLD WHOIS ICANN Sibusiso Sibusiso's
+
+* Footnotes
+
+[fn:1] Restricted to goods and services which are the same or similar to those for which the mark is registered.
