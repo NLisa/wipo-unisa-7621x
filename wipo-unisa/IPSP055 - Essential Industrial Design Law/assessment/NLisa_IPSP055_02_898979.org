@@ -67,24 +67,6 @@ cite:vdwesthuizen02_slavepak_v_buddy
 
 cite:duplessis02_koninklijke_phillips_v_kenwood
 
-** Requirements for design protection
-*** Aesthetic design protection
-*** Function; design protection
-
-** Infringement
-
-** Visual Judgement of Similarity
-
-** Innocent Infringement
-
-** Proceedings for Infringement
-
-
-
-* Advise whether the design will qualify for design protection and what the steps are to register it. [20]
-
-** Introduction
-
 As per the definitions of [section 2(1)]cite:rsa93_tm_act and given that the
 Republic is both a Paris Convention as well as a World Intellectual Property
 Organisation (WIPO) Member State, [article 15(1)]cite:wto17_trips, [article
@@ -95,7 +77,37 @@ As per the provisions of cite:rsa78_patents_act, patent rights seek to protect
 the principle underlying an inventive process or product. In contrast the South
 African Designs Act No. 195 of 1993 cite:rsa93_designs_act, provides provisions
 for the protection of only the physical form of articles of manufacture intended
-to be multiplied by industrial processes, [section 14(4)]cite:rsa93_designs_act.
+to be multiplied by industrial processes, [section
+14(4)]cite:rsa93_designs_act.\\
+
+As per the provisions of [section 20(1)]cite:rsa93_designs_act, the effect of
+registration of the design in *Figure 2* shall grant the registered proprietor
+in the Republic, for the duration of registration the exclusive right to exclude
+others from *making* or *using* any article included in the class in which their
+design is registered and embodying the registered design or a design not
+substantially different from the registered design.
+
+
+** Requirements for design protection
+*** Aesthetic design protection
+*** Function; design protection
+
+** Infringement
+
+As per the provisions of
+
+** Visual Judgement of Similarity
+
+As per citetitle:corbett84_homecraft_steel_v_sm_hare cite:corbett84_homecraft_steel_v_sm_hare
+
+** Innocent Infringement
+
+** Proceedings for Infringement
+
+
+
+* Advise whether the design will qualify for design protection and what the steps are to register it. [20]
+
 
 ** Requirements for design protection
 
