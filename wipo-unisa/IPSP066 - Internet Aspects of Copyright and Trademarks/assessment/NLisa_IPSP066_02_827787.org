@@ -60,7 +60,7 @@ appear at the bottom of the page.\\
 References will be denoted by cite:rsa93_tm_act and will appear at the end of the document.
 \newpage
 
-* Will Sibusiso be liable if consent from the rights holders has not been obtain? TO whom will he be liable?
+* Will Sibusiso be liable if consent from the rights holders has not been obtain? To whom will he be liable?
 
 * Where will an infringement action against him be instituted?
 
