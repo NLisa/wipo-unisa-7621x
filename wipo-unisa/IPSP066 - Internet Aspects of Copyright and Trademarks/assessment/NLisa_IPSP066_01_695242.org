@@ -5,7 +5,7 @@
 #+DATE: 13 April 2018
 #+SUBTITLE: Assignment 01 - 695242
 
-#+LATEX_HEADER: \usepackage[margin=0.65in]{geometry}
+#+LATEX_HEADER: \usepackage[margin=0.60in]{geometry}
 #+LATEX_HEADER: \usepackage[backend=biber, style=ieee, url=false]{biblatex}
 #+LATEX_HEADER: \usepackage{float}
 #+LATEX_HEADER: \usepackage[super,negative]{nth}
@@ -127,7 +127,14 @@ provisions [section 4(a)(i)]cite:icann99_policy, within which mandatory
 administrative proceedings may be instituted, on the basis that as a *third
 party complainant* UNITED Airlines asserts that Sibusiso's domain is identical
 or confusingly similar to their trade or service mark over which they have
-rights to.
+rights to.\\
+
+As per the provisions of [Chapter 2, Paragraphs 110 -
+111]cite:wipo99_management_dns_ip_report, Sibusiso may institute Submission to
+Jurisdiction and to Alternative Dispute Resolution Procedures. The ADR procedures to
+follow are described and outlined in Chapter 3: Resolving Conflicts in a
+Multijurisdictional World with a Global Medium: A Uniform Dispute-Resolution
+Policy.
 
 * Sibusiso wants to place samples from the sound recordings for sale on his web site.
 As a Convention Member the provisions of [Article 9(1)]cite:wto17_trips,

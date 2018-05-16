@@ -5,7 +5,7 @@
 #+DATE: 26 April 2018
 #+SUBTITLE: Assignment 02 - 827787
 
-#+LATEX_HEADER: \usepackage[margin=0.65in]{geometry}
+#+LATEX_HEADER: \usepackage[margin=0.80in]{geometry}
 #+LATEX_HEADER: \usepackage[backend=biber, style=ieee, url=false]{biblatex}
 #+LATEX_HEADER: \usepackage{float}
 #+LATEX_HEADER: \usepackage[super,negative]{nth}
@@ -57,109 +57,56 @@
 ** NOTE
 Please note that footnotes will be denoted as [fn::This is a footnote.] and will
 appear at the bottom of the page.\\
-References will be denoted by cite:rsa93_tm_act and will appear at the end of the document.
+References will be denoted by cite:rsa78_copyrightact and will appear at the end of the document.
 \newpage
 
-* Will Sibusiso be liable if consent from the rights holders has not been obtain? To whom will he be liable?
+* Will Sibusiso be liable if consent from the rights holders has not been obtained? To whom will he be liable?
+
+As a Convention Member the provisions of [section 5]cite:rsa78_copyrightact,
+[section 104(c,d)]cite:usa76_title17_us_copyright_act, [Article
+9(1)]cite:wto17_trips, [Article 1(2)]cite:eurlex00_elec_commerce, [Article
+5(2)]cite:wipo86_berne and [Article 1(4)]cite:wipo96_copyright_treaty which
+dictate that the statues of the Republic shall govern international copyright
+protection as it pertains to the Internet. Furthermore as per the provisions of
+[sections 1 and 2(1)(b,e)]cite:rsa78_copyrightact, [sections 101 and
+102(a)(2,7)]cite:usa76_title17_us_copyright_act and [Article
+2(1)]cite:wipo86_berne the sound recordings shall be considered as *protected
+artistic works* or *sound recordings*, where the samples of those works
+constitute *adaptations* or *derivative works*.\\
+
+As per the provisions of [sections 1, 3, 4(1)(a)]cite:rsa78_copyrightact,
+[section 101]cite:usa76_title17_us_copyright_act, [Article 14]cite:wto17_trips,
+[Articles 2 and 3]cite:wipo96_wppt, [Article 3 and 9(1)]cite:wipo86_berne, the
+*authors*, will in this instance be considered as the rights holders of the
+sound recording samples, and they are understood to be the performers,
+producers, licensees and broadcasting organisations of the sound recordings.\\
+
+Linking is a means of exploiting third-party content on the Internet, and thus
+enhancing a web-page with coloured or underlined descriptive words *Hyperlinked*
+to Uniform Resource Locator (URL), linking to the audio samples. The mere
+creation of the links does not in and of themselves constitute copyright
+infringement.\\
+
+However, depending on the licensing / contractual conditions of the links to the
+samples, Sibusiso may find himself liable to the proprietors and content
+generators of the sites hosted on servers in the United States of America on
+which the samples appear, *in addition to* the original authors of the sound
+recordings for contributory infringement, should the sound recordings be hosted
+on those American servers illegally.
 
 * Where will an infringement action against him be instituted?
+Infringement action can be instituted against either within the Republic or within the United States of America.
 
 * What law will apply?
+The following are potential statutory rights of the respective holders that may be affected:
 
-* Sibusiso wants to register the domain name `united'.
-
-As per the definitions of [section 2(1)]cite:rsa93_tm_act and given that the
-Republic is a Paris Convention Member State, [article 15(1)]cite:wto17_trips,
-[article 1(2)]cite:wipo83_paris_conve_protect_ip, it follows that
-/`UNITED.gTLD'/ and /`UNITED.ccTLD/ will be understood to be *marks*, in that
-they are names or signs capable of being represented graphically. Moreover
-/`UNITED.COM'/ constitutes a *well-known registered service* or *trade mark* in
-the United States of America in relation to distinguishing their trade or use
-from other goods or services connected in the course of trade regarding
-/`airline and courier services.'/.
-
-** Can he register such a domain name?
-
-In order to reserve such a domain name in a general Top-Level Domain or *gTLD*,
-the *registrant* Sibusiso must register it with an ICANN-accredited
-registrar[fn::Or alternatively through a registrar's resellers.]
-cite:icann13_rules. The registrar will then check if the UNITED.gTLD domain name
-is available, and then either create or lookup a WHOIS (domain name registration
-record) with the registrant's information cite:icann99_policy. The registrant would be advised
-against the pursuit of gTLD of the `united' domain name, as he is not likely to
-be successful. In particular, while the `united' trade mark may be territorial by
-its very nature, the specific `united.com' domain name cannot be owned by
-multiple companies, irrespective of the uniqueness of their products and / or
-markets.\\
-
-Alternatively, the registrant would be strongly advised to instead pursue
-registration of the country code Top-Level Domain or *ccTLD* domain
-`united.co.za', through one of the ccTLD operators
-[section 59]cite:rsa02_elect_comm_trans_act, particularly if the students he intends to sell
-sound recordings to are based within the Republic. This will be assigned on a
-first-come first-serve basis.
-
-** Could he be liable for trade mark infringement?
-Yes indeed, as per the provisions of [sections 10(6) and 35]cite:rsa93_tm_act
-/(for litigation within the Republic)/, [Article 16 subsections (1), (2) and
-(3)]cite:wto17_trips, [Article
-@@latex:6\textsuperscript{\textit{bis}}@@(1)]cite:wipo83_paris_conve_protect_ip,
-[Article 16]cite:wipo70_tlt and [subsection 1125(c)]cite:usa46_title15_ch22
-/(for actions within the United States of America)/, the proprietors of the
-second level domain `united', as is the case with the airline company, may argue
-that it is indeed a *well-known* mark and that registration of Sibusiso's domain
-name in either a gTLD or ccTLD, constitutes trade mark infringement, through the
-*dilution* of a well-known mark.\\
-
-Dilution protection is not subject to the same limitations of `traditional'
-trade mark infringement,[fn:1] in that it extends to use of the offending mark to
-/any/ goods and services. The proprietors of the UNITED.com Airlines trade
-mark and domain name, need demonstrate that:
-- Their mark is well known within the Republic, i.e. it would be sufficient for
-  them to show that their trade mark has acquired a reputation amongst a
-  substantial number of members of the public,
-  citetitle:corbett97_mcd_v_joburgers cite:corbett97_mcd_v_joburgers,
-- Sibusiso has used the mark in the course of trade, where the courts of
-  the Republic view this in the `traditional' trade mark infringement[fn:1]
-  sense, citetitle:harms01_cowbell_v_ics cite:harms01_cowbell_v_ics, lastly
-- Use of the infringing mark is likely to take unfair advantage of, or be
-  detrimental to the distinctive character of the UNITED Airlines trade mark,
-  amounting to unfair competition [articles 2(1) and 3(2)(a)(i)]cite:wipo96_model_provi_unfair_comp.
-
-** Is there any other procedure that could be instituted to resolve the dispute?
-
-ICANN provides a Uniform Domain Name Dispute Resolution Policy which outlines
-provisions [section 4(a)(i)]cite:icann99_policy, within which mandatory
-administrative proceedings may be instituted, on the basis that as a *third
-party complainant* UNITED Airlines asserts that Sibusiso's domain is identical
-or confusingly similar to their trade or service mark over which they have
-rights to.
-
-* Sibusiso wants to place samples from the sound recordings for sale on his web site.
-As a Convention Member the provisions of [Article 9(1)]cite:wto17_trips,
-[section 5]cite:rsa78_copyrightact, [Article 1(2)]cite:eurlex00_elec_commerce,
-[Article 5(2)]cite:wipo86_berne and [Article 1(4)]cite:wipo96_copyright_treaty
-which dictate that the statues of the Republic shall govern international
-copyright protection as it pertains to the Internet. Furthermore as per the
-provisions of [sections 1 and 2(1)(b,e)]cite:rsa78_copyrightact and [Article
-2(1)]cite:wipo86_berne the sound recordings shall be considered as *protected
-artistic works* or *sound recordings*.
-
-** Which holders of intellectual property rights may be affected by this?
-
-As per the provisions of [Article 14]cite:wto17_trips, [sections 1, 3,
-4(1)(a)]cite:rsa78_copyrightact, [Articles 2 and 3]cite:wipo96_wppt, [Article 3
-and 9(1)]cite:wipo86_berne, the *authors*, and they are understood to be the
-performers, producers, licensees and broadcasting organisations of the sound
-recordings.
-
-** Which of their rights may be affected?
 - Exclusive right of reproduction [section 9(a)]cite:rsa78_copyrightact,
-  [Article 9(1) and (2)]cite:wipo86_berne, [Article 7 and 11]cite:wipo96_wppt
-  and [Article 2(a-e)]cite:eurlex01_harmonisation,
+  [section 106(1)]cite:usa76_title17_us_copyright_act, [Article 9(1) and
+  (2)]cite:wipo86_berne, [Article 7 and 11]cite:wipo96_wppt and [Article
+  2(a-e)]cite:eurlex01_harmonisation,
 
 - Exclusive right of offering by way of trade, directly or indirectly, a
-  reproduction of the sound recording [section 9(b)]cite:rsa78_copyrightact,
+  reproduction of the sound recording [section 9(b)]cite:rsa78_copyrightact, [section 106(3)]cite:usa76_title17_us_copyright_act,
 
 - Exclusive right of publication, distribution or broadcast to the public, or
   causing the sound recording to be transmitted in a diffusion service [section
@@ -169,36 +116,17 @@ recordings.
   and [Article 4]cite:eurlex01_harmonisation,
 
 - Exclusive right of communication to the public of a performance [section
-  9(e)]cite:rsa78_copyrightact, [Article 11(1)(i)-(ii)]cite:wipo86_berne,
-  [Article 8]cite:wipo96_copyright_treaty, [Article 13-15]cite:wipo96_wppt and
-  [Article 3]cite:eurlex01_harmonisation, and
+  9(e)]cite:rsa78_copyrightact, [section
+  106(6)]cite:usa76_title17_us_copyright_act, [Article
+  11(1)(i)-(ii)]cite:wipo86_berne, [Article 8]cite:wipo96_copyright_treaty,
+  [Article 13-15]cite:wipo96_wppt and [Article 3]cite:eurlex01_harmonisation,
+  and
 
 - Exclusive right[fn::Sampling constitutes an adaptation.] of adaptation,
   arrangement and other alteration [section 6(f-g)]cite:rsa78_copyrightact,
   [Article 12]cite:wipo86_berne and [Article 16]cite:wipo96_wppt.
 
-** Does he need their permission to do so? What form will such permission take?
-
-Yes indeed, by way of a license, [section 22]cite:rsa78_copyrightact and
-[Article 13(1)]cite:wipo86_berne.
-
-** If he does not obtain their permission, will HostNet also be legally liable?
-
-With respect to Sibusiso's intellectual property rights infringement, the
-intermediary service provider HostNet shall _*not*_ be legally liable, for
-activities conducted during the course of its trade:
-- Information transmission or acting as a *`mere conduit'* [Article 12]cite:eurlex00_elec_commerce,
-- Temporary information storage *`caching'* [Article 13]cite:eurlex00_elec_commerce, and
-- Hosting [Article 14]cite:eurlex00_elec_commerce.
-
-Moreover there exist provisions against statutory requirements obliging HostNet
-to monitor Sibusiso's activities on their respective servers [Article 15]cite:eurlex00_elec_commerce.
-
 * Bibliography                                                       :ignore:
 \printbibliography
 
 #  LocalWords:  patentable ccTLD gTLD WHOIS ICANN Sibusiso Sibusiso's
-
-* Footnotes
-
-[fn:1] Restricted to goods and services which are the same or similar to those for which the mark is registered.
