@@ -95,10 +95,27 @@ recordings for contributory infringement, should the sound recordings be hosted
 on those American servers illegally.
 
 * Where will an infringement action against him be instituted?
-Infringement action can be instituted against either within the Republic or within the United States of America.
+Infringement action can be instituted against within the Republic or within the
+United States of America. In particular however, given that the defendant
+Sibusiso is domiciled or resident of, and his business is registered within the
+Republic, the High Courts of the Republic have jurisdiction.\\
+
+However should Sibusiso, the defendant, be a foreign peregrinus (neither
+domiciled nor resident) of all South African High and Magistrate Courts, then
+the plaintiff's area of residence, or where the conclusion and/or breach of
+contract occurred, i.e. the United States, will hold jurisdiction. Regardless
+however, the parties cannot themselves submit to or choose a specific
+magistrate's courts in their agreement.
 
 * What law will apply?
-The following are potential statutory rights of the respective holders that may be affected:
+Issues of contract or trade practice law or both may arise in addition to issues
+of copyright law. Deepening on the "click-wrap" or implied license, a number of
+subjective implications may arise pertaining to the whether Sibusiso was in fact
+eligible or not to hyperlink the multimedia material for commercial purposes on
+his own website.\\
+
+The following are potential statutory rights of the respective holders that may
+be affected, specifically as it pertains to copyright law:
 
 - Exclusive right of reproduction [section 9(a)]cite:rsa78_copyrightact,
   [section 106(1)]cite:usa76_title17_us_copyright_act, [Article 9(1) and
