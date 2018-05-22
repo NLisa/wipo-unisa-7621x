@@ -1,8 +1,8 @@
 * LaTeX Preamble                                                     :ignore:
 #+TITLE: IPSP055 - Essential Industrial Design Law
 #+AUTHOR: Nyameko Lisa
-#+DATE: 26 April 2018
-#+SUBTITLE: Assignment 02 - 898979
+#+DATE: 18 May 2018
+#+SUBTITLE: Assignment 03
 
 #+LATEX_HEADER: \usepackage[margin=0.80in]{geometry}
 #+LATEX_HEADER: \usepackage[url=false, backend=biber, style=ieee]{biblatex}
@@ -58,6 +58,14 @@ Please note that footnotes will be denoted as [fn::This is a footnote.] and will
 appear at the bottom of the page.\\
 References will be denoted by cite:rsa93_designs_act and will appear at the end of the document.
 \newpage
+
+* Will the *Vision 100 Motorrad* design qualify substantially for either functional or aesthetic design protection in South Africa?
+
+* Are there any other forms of intellectual property protection available to BMW for the Vision 100 Motorrad?
+
+* State whether the acrions of Carsmart International amount to infringement of the South African design for the Vision 100 Motorrad lights, to which Carsmart counterclaims.
+
+* Is it possible to register a design right for the semiconductor chip that regulates the control of the `Flexframe' of the Vision 100 Motorrad?
 
 * Analyse the possibility of design infringement. [20]
 

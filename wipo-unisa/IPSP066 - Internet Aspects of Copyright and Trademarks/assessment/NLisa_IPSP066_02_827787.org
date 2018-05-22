@@ -1,9 +1,8 @@
-
 * LaTeX Preamble                                                     :ignore:
 #+TITLE: IPSP066 - Internet Aspects of Copyright and Trade Marks
 #+AUTHOR: Nyameko Lisa
-#+DATE: 26 April 2018
-#+SUBTITLE: Assignment 02 - 827787
+#+DATE: 18 May 2018
+#+SUBTITLE: EXAM
 
 #+LATEX_HEADER: \usepackage[margin=0.80in]{geometry}
 #+LATEX_HEADER: \usepackage[backend=biber, style=ieee, url=false]{biblatex}
@@ -59,6 +58,8 @@ Please note that footnotes will be denoted as [fn::This is a footnote.] and will
 appear at the bottom of the page.\\
 References will be denoted by cite:rsa78_copyrightact and will appear at the end of the document.
 \newpage
+
+* Give a list of fifteen (15) questions that you will ask Sibusiso in order to advise him in this matter.
 
 * Will Sibusiso be liable if consent from the rights holders has not been obtained? To whom will he be liable?
 
