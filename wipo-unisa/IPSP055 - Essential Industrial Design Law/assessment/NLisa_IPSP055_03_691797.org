@@ -60,11 +60,97 @@ References will be denoted by cite:rsa93_designs_act and will appear at the end 
 \newpage
 
 * Will the *Vision 100 Motorrad* design qualify substantially for either functional or aesthetic design protection in South Africa?
+As per the definitions of [section 2(1)]cite:rsa93_tm_act and given that the
+Republic is both a Paris Convention as well as a World Intellectual Property
+Organisation (WIPO) Member State, [article 15(1)]cite:wto17_trips, [article
+1(2)]cite:wipo83_paris_conve_protect_ip, cite:wipo25_hague_agreement, South African statutory design
+legislation is in compliance with International Conventions and legal instruments.\\
 
-** Originality
+As per the provisions of cite:rsa78_patents_act, patent rights seek to protect
+the principle underlying an inventive process or product. In contrast the South
+African Designs Act No. 195 of 1993 cite:rsa93_designs_act, provides provisions
+for the protection of only the physical form of articles of manufacture intended
+to be multiplied by industrial processes, [section 14(4)]cite:rsa93_designs_act.
 
-** Not commonplace in the art in question
+** Requirements for design protection
 
+Judson Beaumont, who will henceforth be referred to as the *``proprietor''* of
+the Beaver Cabinet design which will in turn be referred to as the *``article''*, as
+per the provisions of [section 1(1)]cite:rsa93_designs_act and his Straight Line
+Designs studio should be advised that the legislation makes provision for both
+_aesthetic designs_ (Part A) as well as _functional designs_ (Part F)
+registrations, as per the provisions of [section
+14(1)(a-b)]cite:rsa93_designs_act.
+
+*** Aesthetic designs
+
+As per the provisions of [section 1(1)]cite:rsa93_designs_act, which stipulates
+that @@latex:\textit{``...any design applied to any article, whether for the
+pattern or the shape or the configuration or the ornamentation thereof, or for
+any two or more of these purposes, and by whatever means is applied, having
+features which appeal to and are judged solely by the eye, irrespective of the
+aesthetic quality thereof...''}@@, as was stipulated by Judge Corbett in
+citetitle:corbett84_homecraft_steel_v_sm_hare:
+#+BEGIN_QUOTE
+@@latex:\textit{To qualify as a design, an article must have some special feature
+which appeals to the eye and distinguishes it from others of its class.''}@@
+#+END_QUOTE
+The *proprietor* would be advised to pursue aesthetic design registration for
+their *article*.
+
+*** Functional designs
+Again as per the provisions of [section 1(1)]cite:rsa93_designs_act, the
+definition of a function design is @@latex:\textit{``...any design applied to any article,
+either for the pattern or the shape or the configuration thereof, or for any two
+or more of these purposes, and by whatever means it is applied, having features
+which are necessitated by the function which the article to which the design is
+applied, is to perform, and includes an integrated circuit topography, a mask
+work and a series of mask works...''}@@.\\
+
+Whist it is possible for the *proprietor* to lodge both functional and aesthetic
+design registration applications in respect of their *article*, as per the
+provisions of [section 14(1)(b)(ii)]cite:rsa93_designs_act, it is not obviously
+apparent that there are any functional features of the Beaver Cabinet article
+that require protection of purely functional design features or methods and
+principles of it's construction [section 14(4)]cite:rsa93_designs_act, /``that
+are not commonplace in the art in question''/. Without any evidence to the
+contrary, Straight Line Designs would most likely be unsuccessful in seeking
+functional design registration for their *article*.
+
+*** Originality
+
+As per the provisions of [section 14(1)(a)]cite:rsa93_designs_act, should Judson
+be able to demonstrate that his Beaver Cabinet is both *new* and *original*, he
+may in the prescribed manner and on payment of the prescribed fee, apply for
+aesthetic design registration. Moreover the Beaver Cabinet must be different
+from or not form part of the *state of the art* within a grace period of six
+months from the date of first disclosure, or release date [section
+14(2)(b)]cite:rsa93_designs_act. Where state of the art comprises of all matter
+which has been made available to the public, within or outside the Republic, by
+written means, usage or any other form [section 14(3)(a)]cite:rsa93_designs_act,
+including all matter contained in pending registration applications [section
+14(3)(b)]cite:rsa93_designs_act. Courts of the Republic have interpreted the
+meaning of /`original'/ to coincide with that definition outlined in
+cite:rsa78_copyrightact, and which was further elaborated on by Judge Van
+Heerden in citetitle:vheerden71_xactics_v_tailored_containers, where he
+explained that:
+#+BEGIN_QUOTE
+@@latex:\textit{``I have accordingly come to the conclusion that applicant's registered design
+68/346 was not new or original by reason of the fact that a design not substantially
+different therefrom had already been described in a printed publication before the
+date of application for registration.''}@@
+#+END_QUOTE
+
+Moreover in respect of the prior art depicted in *Figure 2*, it could be argued
+that the commonplace in the art elements and aspects demonstrated therein,
+describe features that are necessarily determined by the function of the article
+in question and are *not* registrable as designs in and of themselves.
+
+In terms of the definition of  F  "design" in s 1 (1) of the Act, any feature which is dictated solely by the function which the article is intended to perform, is excluded from protection under the Act. The top and bottom flanges and the return lip on the bottom flange are purely functional in that they provide the requisite rigidity and facilitate handling of the fascias. The fluting on the face  G  of the design serves the functional purpose of providing additional rigidity. In regard to the question of when functional features are excluded from protection, see Amp Incorporated v Unilux (Pty) Ltd [1972] RPC 103; Swisstool Manufacturing Co v Omega Africa Plastics (supra ). See also the commentary on "method or principle of construction" in Russel-Clarke (supra at 27 - 28) and Kestos Ltd v Kempat Ltd &  H  Kemp [1936] 53 RPC 139 at 151.
+
+Irrespective of the fact that the Vission 100 incorporates registrable as well
+as unregistrable features, it is the registratble features that the BMW would be
+encouraged to persue.
 * Are there any other forms of intellectual property protection available to BMW for the Vision 100 Motorrad?
 
 * State whether the actions of Carsmart International amount to infringement of the South African design for the Vision 100 Motorrad lights, to which Carsmart counterclaims.
