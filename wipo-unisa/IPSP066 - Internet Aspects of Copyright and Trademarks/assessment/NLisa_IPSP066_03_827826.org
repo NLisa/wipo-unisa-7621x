@@ -2,7 +2,7 @@
 #+TITLE: IPSP066 - Internet Aspects of Copyright and Trade Marks
 #+AUTHOR: Nyameko Lisa
 #+DATE: 18 May 2018
-#+SUBTITLE: EXAM
+#+SUBTITLE: Assignment 3: 827826
 
 #+LATEX_HEADER: \usepackage[margin=0.80in]{geometry}
 #+LATEX_HEADER: \usepackage[backend=biber, style=ieee, url=false]{biblatex}
@@ -60,7 +60,11 @@ References will be denoted by cite:rsa93_tm_act and will appear at the end of th
 \newpage
 
 * Give a list of fifteen (15) questions that you will ask Sibusiso in order to advise him in this matter.
-
+First Sibusiso will be advised on the aspects of his domain name as they pertain
+to trade mark law. Then Sibusiso will be advised in terms of the content of his
+web site as it pertains to the law of copyright. Finally, a course of action for
+Sibusiso to pursue will be presented based on a summative evaluation
+of his circumstances.
 ** What is the `nature' of the Sound Recordings Sibusiso wishes to sell on his website?
 As per the definitions of [section 2(1)]cite:rsa93_tm_act and given that the
 Republic is a Paris Convention Member State, [article 15(1)]cite:wto17_trips,
@@ -72,9 +76,7 @@ the United States of America in relation to distinguishing their trade or use
 from other goods or services connected in the course of trade regarding
 /`airline and courier services.'/, as per the provisions of [Class 39 -
 Transport; packaging and storage of goods, travel
-arrangements]cite:wipo57_ncl.\\
-
-As per the provisions of cite:wipo57_ncl, Sibusiso would be advised to pursue
+arrangements]cite:wipo57_ncl. As per those very same provisions, Sibusiso would be advised to pursue
 trade mark registration of the `united' mark under:
 - Class 35: advertising; business management/administration - /``in particular the bringing together, for the benefit of others, a variety of goods enabling customers to conveniently view and purchase those goods; such services may be provided by... means of electronic media, for example, through web sites...''/, and
 - Class 41: education; providing of training; entertainment; sporting and
@@ -90,8 +92,8 @@ record) with the registrant's information cite:icann99_policy. The registrant wo
 against the pursuit of gTLD of the `united' domain name, as he is not likely to
 be successful. In particular, while the `united' trade mark may be territorial by
 its very nature, the specific `united.com' domain name cannot be owned by
-multiple companies, irrespective of the uniqueness of their products and / or
-markets.\\
+multiple companies, irrespective of the uniqueness of their products and/or
+markets.
 
 ** Has Sibusiso considered ccTLD registration or an alternative domain name?
 The registrant would be advised to instead pursue registration of the country
@@ -100,7 +102,7 @@ operators [section 59]cite:rsa02_elect_comm_trans_act, particularly if the
 students he intends to sell sound recordings to are based within the Republic.
 This will be assigned on a first-come first-serve basis. Alternatively, he could
 pursue registration of a more descriptive domain name, such as
-`studentsoundz.co.za', for example.
+_`studentsoundz.co.za'_, for example.
 
 ** Does Sibusiso understand that he could be liable for trade mark infringement?
 As per the provisions of [sections 10(6) and 35]cite:rsa93_tm_act /(for
@@ -114,7 +116,7 @@ that it is indeed a *well-known* mark and that registration of Sibusiso's domain
 name in either a gTLD or ccTLD, constitutes trade mark infringement, through the
 *dilution* of a well-known mark.
 
-** Has Sibusiso already began trading under the `united' and has he in any way exploited the good will or brand of the UNITED.Com airline company?
+** Has Sibusiso already began trading under the `united' and has he in any way exploited the `good will' or `brand' of the UNITED.COM airline company?
 Dilution protection is not subject to the same limitations of `traditional'
 trade mark infringement,[fn:1] in that it extends to use of the offending mark to
 /any/ goods and services. The proprietors of the UNITED.com Airlines trade
@@ -130,8 +132,8 @@ mark and domain name, need demonstrate that:
   detrimental to the distinctive character of the UNITED Airlines trade mark,
   amounting to unfair competition [articles 2(1) and 3(2)(a)(i)]cite:wipo96_model_provi_unfair_comp.
 
-** Is there any other procedure that could be instituted to resolve the dispute?
-ICANN provides a Uniform Domain Name Dispute Resolution Policy which outlines
+** Does Sibusiso know that there are two additional procedures that could be instituted to resolve the domain name dispute?
+ICANN provides a *Uniform Domain Name Dispute Resolution Policy* which outlines
 provisions [section 4(a)(i)]cite:icann99_policy, within which mandatory
 administrative proceedings may be instituted, on the basis that as a *third
 party complainant* UNITED Airlines asserts that Sibusiso's domain is identical
@@ -140,73 +142,12 @@ rights to.\\
 
 As per the provisions of [Chapter 2, Paragraphs 110 -
 111]cite:wipo99_management_dns_ip_report, Sibusiso may institute Submission to
-Jurisdiction and to Alternative Dispute Resolution Procedures. The ADR procedures to
+Jurisdiction and to *Alternative Dispute Resolution* Procedures. The ADR procedures to
 follow are described and outlined in Chapter 3: Resolving Conflicts in a
 Multijurisdictional World with a Global Medium: A Uniform Dispute-Resolution
 Policy.
 
-** Sibusiso wants to place samples from the sound recordings for sale on his web site.
-As a Convention Member the provisions of [Article 9(1)]cite:wto17_trips,
-[section 5]cite:rsa78_copyrightact, [Article 1(2)]cite:eurlex00_elec_commerce,
-[Article 5(2)]cite:wipo86_berne and [Article 1(4)]cite:wipo96_copyright_treaty
-which dictate that the statues of the Republic shall govern international
-copyright protection as it pertains to the Internet. Furthermore as per the
-provisions of [sections 1 and 2(1)(b,e)]cite:rsa78_copyrightact and [Article
-2(1)]cite:wipo86_berne the sound recordings shall be considered as *protected
-artistic works* or *sound recordings*.
-
-** Which holders of intellectual property rights may be affected by this?
-
-As per the provisions of [Article 14]cite:wto17_trips, [sections 1, 3,
-4(1)(a)]cite:rsa78_copyrightact, [Articles 2 and 3]cite:wipo96_wppt, [Article 3
-and 9(1)]cite:wipo86_berne, the *authors*, and they are understood to be the
-performers, producers, licensees and broadcasting organisations of the sound
-recordings.
-
-** Which of their rights may be affected?
-- Exclusive right of reproduction [section 9(a)]cite:rsa78_copyrightact,
-  [Article 9(1) and (2)]cite:wipo86_berne, [Article 7 and 11]cite:wipo96_wppt
-  and [Article 2(a-e)]cite:eurlex01_harmonisation,
-
-- Exclusive right of offering by way of trade, directly or indirectly, a
-  reproduction of the sound recording [section 9(b)]cite:rsa78_copyrightact,
-
-- Exclusive right of publication, distribution or broadcast to the public, or
-  causing the sound recording to be transmitted in a diffusion service [section
-  9(c-d)]cite:rsa78_copyrightact, [Article
-  11@@latex:\textsuperscript{bis}@@(1)(i)-(ii)]cite:wipo86_berne, [Article
-  6(1)]cite:wipo96_copyright_treaty, [Article 8(1) and 12(1)]cite:wipo96_wppt
-  and [Article 4]cite:eurlex01_harmonisation,
-
-- Exclusive right of communication to the public of a performance [section
-  9(e)]cite:rsa78_copyrightact, [Article 11(1)(i)-(ii)]cite:wipo86_berne,
-  [Article 8]cite:wipo96_copyright_treaty, [Article 13-15]cite:wipo96_wppt and
-  [Article 3]cite:eurlex01_harmonisation, and
-
-- Exclusive right[fn::Sampling constitutes an adaptation.] of adaptation,
-  arrangement and other alteration [section 6(f-g)]cite:rsa78_copyrightact,
-  [Article 12]cite:wipo86_berne and [Article 16]cite:wipo96_wppt.
-
-** Does he need their permission to do so? What form will such permission take?
-
-Yes indeed, by way of a license, [section 22]cite:rsa78_copyrightact and
-[Article 13(1)]cite:wipo86_berne.
-
-** If he does not obtain their permission, will HostNet also be legally liable?
-
-With respect to Sibusiso's intellectual property rights infringement, the
-intermediary service provider HostNet shall _*not*_ be legally liable, for
-activities conducted during the course of its trade:
-- Information transmission or acting as a *`mere conduit'* [Article 12]cite:eurlex00_elec_commerce,
-- Temporary information storage *`caching'* [Article 13]cite:eurlex00_elec_commerce, and
-- Hosting [Article 14]cite:eurlex00_elec_commerce.
-
-Moreover there exist provisions against statutory requirements obliging HostNet
-to monitor Sibusiso's activities on their respective servers [Article 15]cite:eurlex00_elec_commerce.
-
-
-** Will Sibusiso be liable if consent from the rights holders has not been obtained? To whom will he be liable?
-
+** Does Sibusiso know that copyright subsists uniquely in both the samples as well as the original sound recordings he wishes to host for sale on his web site?
 As a Convention Member the provisions of [section 5]cite:rsa78_copyrightact,
 [section 104(c,d)]cite:usa76_title17_us_copyright_act, [Article
 9(1)]cite:wto17_trips, [Article 1(2)]cite:eurlex00_elec_commerce, [Article
@@ -217,77 +158,166 @@ protection as it pertains to the Internet. Furthermore as per the provisions of
 102(a)(2,7)]cite:usa76_title17_us_copyright_act and [Article
 2(1)]cite:wipo86_berne the sound recordings shall be considered as *protected
 artistic works* or *sound recordings*, where the samples of those works
-constitute *adaptations* or *derivative works*.\\
+constitute *adaptations* or *derivative works*.
 
+** Has Sibusiso identified and indicated his intent to sell the sound recordings/samples to the respective owners, i.e. to the person(s) (i) who first made or created the works, (ii) by whom the arrangements for the production of the sound recording were made, or (iii) the first broadcasters of the works?
 As per the provisions of [sections 1, 3, 4(1)(a)]cite:rsa78_copyrightact,
 [section 101]cite:usa76_title17_us_copyright_act, [Article 14]cite:wto17_trips,
 [Articles 2 and 3]cite:wipo96_wppt, [Article 3 and 9(1)]cite:wipo86_berne, the
-*authors*, will in this instance be considered as the rights holders of the
-sound recording samples, and they are understood to be the performers,
-producers, licensees and broadcasting organisations of the sound recordings.\\
+*authors*, will in this instance be considered as the intellectual property
+rights holders of the sound recordings and corresponding samples, and they are
+understood to be the performers, producers, licensees and broadcasting
+organisations of the sound recordings.
 
-Linking is a means of exploiting third-party content on the Internet, and thus
-enhancing a web-page with coloured or underlined descriptive words *Hyperlinked*
-to Uniform Resource Locator (URL), linking to the audio samples. The mere
-creation of the links does not in and of themselves constitute copyright
-infringement.\\
-
-However, depending on the licensing / contractual conditions of the links to the
-samples, Sibusiso may find himself liable to the proprietors and content
-generators of the sites hosted on servers in the United States of America on
-which the samples appear, *in addition to* the original authors of the sound
-recordings for contributory infringement, should the sound recordings be hosted
-on those American servers illegally.
-
-** Where will an infringement action against him be instituted?
-Infringement action can be instituted against within the Republic or within the
-United States of America. In particular however, given that the defendant
-Sibusiso is domiciled or resident of, and his business is registered within the
-Republic, the High Courts of the Republic have jurisdiction.\\
-
-However should Sibusiso, the defendant, be a foreign peregrinus (neither
-domiciled nor resident) of all South African High and Magistrate Courts, then
-the plaintiff's area of residence, or where the conclusion and/or breach of
-contract occurred, i.e. the United States, will hold jurisdiction. Regardless
-however, the parties cannot themselves submit to or choose a specific
-magistrate's courts in their agreement.
-
-** What law will apply?
-Issues of contract or trade practice law or both may arise in addition to issues
-of copyright law. Deepening on the "click-wrap" or implied license, a number of
-subjective implications may arise pertaining to the whether Sibusiso was in fact
-eligible or not to hyperlink the multimedia material for commercial purposes on
-his own website.\\
-
-The following are potential statutory rights of the respective holders that may
-be affected, specifically as it pertains to copyright law:
-
+** Without explicit permission, does Sibusiso understand that he may be in violation of a number of the intellectual property rights that vest with the holders discussed above?
 - Exclusive right of reproduction [section 9(a)]cite:rsa78_copyrightact,
   [section 106(1)]cite:usa76_title17_us_copyright_act, [Article 9(1) and
   (2)]cite:wipo86_berne, [Article 7 and 11]cite:wipo96_wppt and [Article
   2(a-e)]cite:eurlex01_harmonisation,
-
 - Exclusive right of offering by way of trade, directly or indirectly, a
   reproduction of the sound recording [section 9(b)]cite:rsa78_copyrightact, [section 106(3)]cite:usa76_title17_us_copyright_act,
-
 - Exclusive right of publication, distribution or broadcast to the public, or
   causing the sound recording to be transmitted in a diffusion service [section
   9(c-d)]cite:rsa78_copyrightact, [Article
   11@@latex:\textsuperscript{bis}@@(1)(i)-(ii)]cite:wipo86_berne, [Article
   6(1)]cite:wipo96_copyright_treaty, [Article 8(1) and 12(1)]cite:wipo96_wppt
   and [Article 4]cite:eurlex01_harmonisation,
-
 - Exclusive right of communication to the public of a performance [section
   9(e)]cite:rsa78_copyrightact, [section
   106(6)]cite:usa76_title17_us_copyright_act, [Article
   11(1)(i)-(ii)]cite:wipo86_berne, [Article 8]cite:wipo96_copyright_treaty,
   [Article 13-15]cite:wipo96_wppt and [Article 3]cite:eurlex01_harmonisation,
   and
-
 - Exclusive right[fn::Sampling constitutes an adaptation.] of adaptation,
   arrangement and other alteration [section 6(f-g)]cite:rsa78_copyrightact,
   [Article 12]cite:wipo86_berne and [Article 16]cite:wipo96_wppt.
 
+** Does Sibusiso know how old the sound recordings and samples are, or can he demonstrate that his use amounts to fair dealing, and does he appreciate than it may be necessary for him to become a licensee of the various copyright holders?
+As per the provisions of [section 3(2)(a,c,d,e,f)]cite:rsa78_copyrightact,
+[Article 7]cite:wipo86_berne and [Article 17]cite:wipo96_wppt the duration for which copyright subsists in the
+sound recordings and their corresponding samples, is *fifty years* from the end
+of the year of first performance, broadcast or publication. Should none of these
+apply then the term of protection is the life of the author and fifty years from
+the year in which the author dies. Or should infringement action be heard in the
+United States, *95* years after first publication, *120* years after creation or
+*70* years after the presumed death of the author, whichever expires first as per
+[section 302(e)]cite:usa76_title17_us_copyright_act.\\
+
+As per the provisions of [section 12]cite:rsa78_copyrightact, [section
+107]cite:usa76_title17_us_copyright_act and [Articles 10 and
+10@@latex:\textsuperscript{bis}@@]cite:wipo86_berne, if he can demonstrate that
+his use amounts to /`fair dealing'/, e.g. as per [subsection (c)(ii)], do the
+sound recordings constitute the broadcasting for the purpose of reporting
+current events, for example?\\
+
+Unless Sibusiso can show that his intended use satisfies either of the above
+conditions he will require the authors' permission by way of a license, [section
+22]cite:rsa78_copyrightact, [section 115]cite:usa76_title17_us_copyright_act and
+[Article 13(1)]cite:wipo86_berne.
+
+** Has Sibusiso considered the implications of his potential intellectual property rights infringement on his intermediary service provider?
+With respect to Sibusiso's intellectual property rights infringement, the
+intermediary service provider HostNet shall _*not*_ be legally liable, for
+activities conducted during the course of its trade:
+- Information transmission or acting as a *`mere conduit'* [Article 12]cite:eurlex00_elec_commerce,
+- Temporary information storage *`caching'* [Article 13]cite:eurlex00_elec_commerce, and
+- Hosting [Article 14]cite:eurlex00_elec_commerce.
+
+Moreover there exist provisions against statutory requirements obliging HostNet
+to monitor Sibusiso's activities on their respective servers [Article 15]cite:eurlex00_elec_commerce.
+
+** Has Sibusiso arranged a Royalty payment agreement or can he demonstrate that he is a `manufacturer' of the sound recordings which are hosted on American Servers?
+Linking is a means of exploiting third-party content on the Internet, and thus
+enhancing a web-page with coloured or underlined descriptive words *Hyperlinked*
+to Uniform Resource Locator (URL), linking to the audio samples. The mere
+creation of the links does not in and of themselves constitute copyright
+infringement.\\
+
+However, depending on the licensing/contractual conditions of the links to the
+samples, Sibusiso may find himself liable to the proprietors and content
+generators of the sites hosted on servers in the United States of America on
+which the samples appear, *in addition to* the original authors of the sound
+recordings for contributory infringement, should the sound recordings be hosted
+on those American servers illegally.\\
+
+As per the provisions of [section 9A]cite:rsa78_copyrightact and [section
+111]cite:usa76_title17_us_copyright_act, in the absence of licensing and/or
+contractual agreements to the contrary, Sibusiso will be required to pay
+appropriate royalties to the owners of the relevant copyright.\\
+
+Lastly should Sibusiso be capable of demonstrating that he satisfies the
+provisions of [section 14(1)(a-d)]cite:rsa78_copyrightact and [section
+115]cite:usa76_title17_us_copyright_act then he meet the requirements of a
+``manufacturer'', for which copyright in a musical work shall not be infringed
+by such a person.
+
+** Does Sibusiso appreciate that an infringement action against him may be instituted within the Republic, or within the United States, or even in both jurisdictions?
+Infringement action can be instituted against within the Republic or within the
+United States of America. In particular however, given that the defendant
+Sibusiso is domiciled or resident of, and his business is registered within the
+Republic, the High Courts of the Republic have jurisdiction.\\
+
+However should Sibusiso, acting as the defendant in some such matter, be a
+foreign peregrinus (neither domiciled nor resident) of all South African High
+and Magistrate Courts, then the plaintiff's area of residence, or where the
+conclusion and/or breach of contract occurred, i.e. the United States of
+America, will hold jurisdiction. Regardless however, the parties cannot
+themselves submit to or choose a specific magistrate's courts in their
+agreement.
+
+** Does Sibusiso understand that he may be liable for vicarious liability or contributory infringement?
+If it can be shown that the users of Sibusiso website, themselves were actively
+engaged in the unauthorised reproduction and distribution of the copyrighted
+works, both Sibusiso and the users of his website, may find themselves liable
+for contributory and vicarious copyright infringement [section
+23(2)(b,c,d)]cite:rsa78_copyrightact and [sections 110, 501 and
+1201]cite:usa76_title17_us_copyright_act, in matters to be potentially heard in
+jurisdictions across the globe.\\
+
+Within the context of American case law, in the matter heard before the United
+States Court of Appeals in the Ninth Circuit, between
+citetitle:scroeder01_anm_records_v_napster
+cite:scroeder01_anm_records_v_napster, the onus was on the industry to
+demonstrate that Napster users themselves were actively engaged in the
+unauthorised reproduction and distribution of copyrighted works, for successful
+action of contributory and vicarious copyright against Napster, whose
+counterclaim against their users' direct infringement, and in turn themselves,
+was the `fair use' defence. The Court of Appeal concurred with the district
+court's finding, in that:
+#+BEGIN_QUOTE
+@@latex:\textit{``...more than eighty percent of the files available on Napster
+may have been copyright protected and owned or administered by plaintiffs,
+thereby violating the plaintiff's exclusive rights of reproduction and
+distribution under §106, U.S. Copyright Act.}@@
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+@@latex:\textit{The district court determined that Napster had harmed the music industry's
+market in two ways: it reduces audio CD sales among college students and it
+raises barriers to plaintiffs' entry into the market for the digital downloading
+of music. To which the Court of Appeal again concurred, adding the that lack of
+harm to an established market cannot deprive the copyright holder of the right
+to develop alternative markets for their works.''}@@
+#+END_QUOTE
+
+** Does Sibusiso understand all the statutory laws that may apply before he proceeds with registration of his domain and commencement of his business trading?
+Issues of contract or trade practice law or both may arise in addition to issues
+of trade mark and copyright law. Depending on the "click-wrap" or implied license, a number of
+subjective implications may arise pertaining to the whether Sibusiso was in fact
+eligible or not to hyperlink the multimedia material for commercial purposes on
+his own website. Moreover it is not entirely clear which jurisdiction these
+matters may be heard.\\
+
+Sibusiso would be strongly advised to:
+- pursue domain name and trade mark registration of a *`unique'* ccTLD such as
+  /studentsounds.co.za/ or /edurecordings.co.za/, for example,
+- obtain licensing / contractual authorisations from the *authors* and copyright holders to host
+  the sound recordings and their corresponding samples,
+- obtain licensing / contractual authorisation from the American web hosts to use
+  their samples on his own web site,
+- establish licensing / contractual agreements with his web host to absolve him
+  of any liability that may arise from his users' (the students) misuse of his platform.
+\newpage
 * Bibliography                                                       :ignore:
 \printbibliography
 
