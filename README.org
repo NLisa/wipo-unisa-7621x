@@ -2,7 +2,7 @@
 #+SUBTITLE: in Accounting and Economics with Law
 * LaTeX Preamble                                                     :ignore:
 #+LATEX_HEADER: \usepackage[backend=bibtex, style=ieee]{biblatex}
-#+LATEX_HEADER: \addbibresource{/home/nuk3/course/training/csir/novellasers/bibliography/bibliography.bib}
+#+LATEX_HEADER: \addbibresource{/home/nuk3/.spacemacs.d/org-files/bibliography.bib}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{number}{#1}
@@ -73,13 +73,20 @@
    CLOSED: [2017-12-10 Sun 09:30]
    - State "DONE"       from "BUSY"       [2017-12-10 Sun 09:30]
    - State "BUSY"       from "TODO"       [2017-08-11 Fri 15:15]
-** TODO [#A] IPSP055 - Essential Indusctrial Design Law			:idlaw:
-** TODO [#A] IPSP066 - Internet Aspects of Copyright and Trademarks
-** TODO [#A] IPSP078 - Legal Aspects of Electronic Commerce
-** TODO [#A] IPSP098 - Traditional Knowledge and Biodiversity
+** BUSY [#A] IPSP055 - Essential Indusctrial Design Law               :idlaw:
+   - State "BUSY"       from "TODO"       [2018-08-27 Mon 15:12]
+** BUSY [#A] IPSP066 - Internet Aspects of Copyright and Trademarks
+   - State "BUSY"       from "TODO"       [2018-08-27 Mon 15:12]
+** BUSY [#A] IPSP078 - Legal Aspects of Electronic Commerce
+   - State "BUSY"       from "TODO"       [2018-08-27 Mon 15:12]
+*** BUSY Reference Tests
+    - State "BUSY"       from              [2018-08-27 Mon 15:12]
+
+
+
+** BUSY [#A] IPSP098 - Traditional Knowledge and Biodiversity
+   - State "BUSY"       from "TODO"       [2018-08-27 Mon 15:12]
 * TODO [#C] Part-Time LLB / BCOM				       :wits:
   BCom Accounting and Economics with Law (2019 - 2023)
 * Bibliography                                                       :ignore:
-#+BEGIN_EXPORT latex
 \printbibliography
-#+END_EXPORT

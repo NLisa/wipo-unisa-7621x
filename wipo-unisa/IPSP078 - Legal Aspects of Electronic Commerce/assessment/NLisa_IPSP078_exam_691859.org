@@ -1,0 +1,97 @@
+* LaTeX Preamble                                                     :ignore:
+#+TITLE: IPSP078 - Legal Aspects of Electronic Commerce
+#+AUTHOR: Nyameko Lisa
+#+DATE: 31 August 2018
+#+SUBTITLE: Portfolio Exam: 691859
+
+#+LATEX_HEADER: \usepackage[margin=0.80in]{geometry}
+#+LATEX_HEADER: \usepackage[backend=biber, style=ieee, url=false]{biblatex}
+#+LATEX_HEADER: \usepackage{float}
+#+LATEX_HEADER: \usepackage[super,negative]{nth}
+#+LATEX_HEADER: \usepackage[capitalise]{cleveref}
+#+LATEX_HEADER: \usepackage{pst-node,transparent,ragged2e}
+#+LATEX_HEADER: \addbibresource{/home/nuk3/.spacemacs.d/org-files/bibliography.bib}
+#+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
+#+LATEX_HEADER: \DeclareFieldFormat[misc]{citetitle}{#1}
+#+LATEX_HEADER: \DeclareFieldFormat[misc]{title}{#1}
+#+LATEX_HEADER: \renewcommand*{\bibpagespunct}{%
+#+LATEX_HEADER:   \ifentrytype{inproceedings}
+#+LATEX_HEADER:     {\addspace}
+#+LATEX_HEADER:     {\addcomma\space}}
+#+LATEX_HEADER: \AtEveryCitekey{\ifuseauthor{}{\clearname{author}}}
+#+LATEX_HEADER: \AtEveryBibitem{\ifuseauthor{}{\clearname{author}}}
+
+#+OPTIONS: toc:nil
+#+LATEX_HEADER: \SpecialCoor
+
+# Institution
+#+BEGIN_EXPORT latex
+\addvspace{110pt}
+\centering{
+\pnode(0.5\textwidth,-0.5\textheight){thisCenter}
+\rput(thisCenter){%\transparent{0.25}
+\includegraphics[width=2.7in]{/home/nuk3/course/llb/wipo-unisa/UNISACoatofArms.eps}}}
+#+END_EXPORT
+
+#+LaTeX: \justifying
+#+LaTeX: \addvspace{110pt}
+* Declaration
+  :PROPERTIES:
+   :UNNUMBERED: t
+  :END:
+  I know that plagiarism is to use someone else’s work and pass it off as my own.\\
+  I know that plagiarism is wrong.\\
+  I confirm that this assignment is my own work.\\
+  I have acknowledged in the bibliography accompanying the assignment all the sources that I have used.\\
+  I have not directly copied without acknowledgement anything from the Internet or from any other source.\\
+  I have indicated every quotation and citation in a footnote or bracket linked to that quotation.\\
+  I have not allowed anyone else to copy my work and to pass it off as their own work.\\
+  I understand that if any unacknowledged copying whatsoever appears in my assignment I will receive zero per cent for the assignment.\\
+  I am aware of the UNISA policy on plagiarism and understand that disciplinary proceedings can be instituted against me by UNISA if I contravene this policy.\\
+  I indicate my understanding and acceptance of this declaration by
+  entering my name here under:
+    - Name: *Nyameko Lisa* (Student Number: *7874-909-3*)
+
+** NOTE
+Please note that footnotes will be denoted as [fn::This is a footnote.] and will
+appear at the bottom of the page.\\
+References will be denoted by cite:rsa93_tm_act and will appear at the end of the document.
+\newpage
+
+
+* Question 1 [15]
+cite:papadopoulus12_intro_cyberlaw,buys00_towards_ecomm_policy_sa,hamann14_direct_marketing_and_spam_via_ecomms,eiselen16_ecomm,gereda16_elec_comms_trans_act,pistorius16_copyright_law_it,pistorius16_domain_names_infringe_tm,un96_uncitral_model_law_ecomm,comesa10_model_law_+on_e_trans,rsa00_green_paper_ecomm_sa,hipssa13_elec_trans_ecom_sadc_model_law,rsa12_elect_comm_trans_amend_bill,rsa12_ect_adr,rsa02_elect_comm_trans_act
+** List five legal challenges that electronic commerce poses [5].
+
+Electronic commerce poses a number of regulatory challenges, which include but are
+not limited to:
+
+- Taxation Laws
+  - How does one associate electronic transactions with the appropriate
+    territory to determine any applicable taxes?
+  - Do general taxation, VAT, and custom duties regimes apply and how can double
+    taxation be prevented with regards to electronic transactions?
+- Banking Laws and Electronic Payments (Cyber Credit and Crypto-Currencies)
+  - Do banking regulations apply to and is credit provider authorisation a
+    prerequisite for issuing cyber credit?
+   Do crypto-currencies constitute legal tender?
+- Contract Laws and Evidence
+  -
+- Liability
+- Intellectual Property Rights
+- Consumer Protection
+- Privacy Issues
+- Applicable International Private Laws and Jurisdiction
+
+** Explain the extent to which the Electronic Communication and Transactions Act of 2002 has address these challenges [10].
+
+* Compare and contrast the challenges addressed in the ECT Act with the following [10]:
+
+** The UNCITRAL Model on Electronic Commerce of 1996 [5].
+
+** The SADC Model Law on Electronic Transactions and Electronic Commerce of 2012. In your answer briefly explain what impact the SADC Model will have on the South African legislation and those of neighbouring countries [5].
+
+
+* Bibliography                                                       :ignore:
+\printbibliography
