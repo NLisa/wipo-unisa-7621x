@@ -97,19 +97,64 @@ leaders. These regimes are `self-legitimised' within and across the community
 though the accrual of consensus to abide by and adhere to these laws and
 rules.\\
 
-
+Generally speaking customary law is not recognised by legal institutions outside
+of the relevant communities where they were originally established. The culture
+and history of a people are preserved by the community elders and leaders, who
+are also responsible for determining eligibility and allocation of various arts
+to be practised amongst the community's artisans, as well as dispute resolution.
 
 ** What are the problems confronting rights holders (in our case the people in Junin Peru)? (10)
-But intellectual property is not only about property. It is also
-about recognition of identifiable, human creators and respect
-for their contributions. From this perspective, intellectual
-property has a very important role to play in protecting the
-dignity of the holders of traditional knowledge. By conferring
-property rights in relation to such knowledge, those holders
-enabled, to a certain extent, to control its use by others.
 
+Many existing legal frameworks are inadequate at resolving or determining a
+common denominator between the economic interests of commercialisation, and the
+traditional interests of the people of Junin, Peru. Generally speaking, the lack
+of representation in litigation, coupled with inadequate protection has
+resulted in the dismissal and disrespect of the indigenous people of Peru, who
+/arguably should/ have enjoyed the conferral of intellectual property rights in
+relation to the `indigenous knowledge' regarding the uses of the maca, and again
+/arguably should/ have control over its exploitation by others.\\
+
+Globalisation has given rise to a reluctance of younger generations to learn the
+traditional and cultural practices. Coupled with the absence of willing heirs
+and participants, means that there is significant risk of loss of the
+traditional and indigenous knowledge regarding the maca, should it be
+inadequately documented and ill-preserved.\\
+
+Generally speaking modern society holds a prejudiced view, denigrating
+traditional knowledge as `primitive'. This lack of appreciation for such
+knowledge, stems from the indigenous people traditionally exploiting the effects
+of the maca plant, without describing them in terms of the molecular and chemical
+reactions of modern biochemical interactions. This has seen two United States
+patents granted for the chemical components, specifically the methods of
+extraction form the active ingredients of the maca plant, and not the plant
+itself.
 
 ** What is WIPO's role in protecting traditional knowledge? (20)
+cite:wto17_trips,wipo83_paris_conve_protect_ip
+The WIPO General Assembly established an Intergovernmental Committee on
+Intellectual Property and Genetic Resources, Traditional Knowledge and Folklore
+focusing primarily on three issues of discussion:
+- access to genetic resources and benefit-sharing,
+- the protection of traditional knowledge, innovations and creativity, and
+- the protection of expressions of folklore, including handicrafts.
+
+Where the scope of the current work programme of WIPO includes:
+- development of resources detailing methods to implement existing mechanisms of
+  intellectual property frameworks for the protection of transitional knowledge,
+- complimentary to the above, hands-on national training workshop on existing
+  intellectual property systems and their use in the protection of traditional
+  knowledge,
+- with respect to documentation and preservation of transitional knowledge,
+  establishing mechanisms of their standardisation and recognition as
+  instruments of intellectual property,
+- fact finding missions, to providing evidence of practical implementations for
+  the protection of traditional knowledge under existing intellectual property
+  mechanisms,
+- fact finding missions and feasibility studies into the applicability of
+  customary laws to traditional knowledge and their integration with existing
+  statutory regulations,
+- pilot project on the collective acquisition, management, enforcement of
+  intellectual property rights within traditional knowledge.
 
 * Bibliography                                                       :ignore:
 \printbibliography
