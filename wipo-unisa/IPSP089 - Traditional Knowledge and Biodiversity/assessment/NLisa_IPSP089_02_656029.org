@@ -1,7 +1,7 @@
 * LaTeX Preamble                                                     :ignore:
-#+TITLE: IPSP066 - Internet Aspects of Copyright and Trade Marks
+#+TITLE: IPSP089 - Legal Aspects of Traditional Knowledge and Biodiversity
 #+AUTHOR: Nyameko Lisa
-#+DATE: 18 May 2018
+#+DATE: 30 September 2018
 #+SUBTITLE: Assignment 2: 656029
 
 #+LATEX_HEADER: \usepackage[margin=0.80in]{geometry}
@@ -10,7 +10,7 @@
 #+LATEX_HEADER: \usepackage[super,negative]{nth}
 #+LATEX_HEADER: \usepackage[capitalise]{cleveref}
 #+LATEX_HEADER: \usepackage{pst-node,transparent,ragged2e}
-#+LATEX_HEADER: \addbibresource{/home/nuk3/.spacemacs.d/org-files/bibliography.bib}
+#+LATEX_HEADER: \addbibresource{/home/nlisa/.spacemacs.d/org-files/bibliography.bib}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
 #+LATEX_HEADER: \DeclareFieldFormat[misc]{citetitle}{#1}
@@ -59,7 +59,58 @@ appear at the bottom of the page.\\
 References will be denoted by cite:rsa93_tm_act and will appear at the end of the document.
 \newpage
 
-* Give a list of
+* Question 1 [50]
+Discuss the following in respect of traditional cultural expressions
+(expressions of folklore):
+
+** Why is there a need to protect expressions of folklore? (20)
+
+Folklore is an important element of a nation's cultural heritage, providing its
+people with an avenue for self-expression and it exists as a means of a
+country's social identity. Traditional expressions have generally been
+characterized as a broad set of oral and or written literary, artistic,
+religious, scientific, technological works and other traditions and productions
+that are transmitted from one generation to another, and whose creators need not
+necessarily be indigenous peoples.\\
+
+With regards to folklore, aspects related to its subject matter, technological
+and methodological content need to be taken into consideration. Thus it is
+important to consider not only protection from a copyright perspective, but also
+the mechanisms of industrial property protection, including patents, trademarks
+and industrial designs.\\
+
+The need for protection of expressions of folklore arises where the creators or
+rights holders, would need to prevent others from reproducing their creations or
+disseminating them to the public through performance or broadcast, /(i.e. law of
+copyright)/; and to restrict the unauthorized misappropriation of technological
+and methodological ideas, inventions, crafts, designs and carvings, /(i.e. laws
+of patents, trademarks and industrial designs)/. Moreover, informal traditional
+customary regimes may not provide adequate protection against cultural, economic
+or commercial exploitation.\\
+
+Both globalization and the advent of technological telecommunications advances
+in recent history, have lead to the improper exploitation of cultural
+expressions of folklore currently experienced today. The misappropriation of the
+intellectual property rights that /`should'/ be enjoyed by a people, resulting
+from their endeavors and accumulated cultural heritage can take a number of
+forms, from commercial exploitation to adaptation and distortion of the original
+works.\\
+
+There exists a clear need for the development of both national and international
+instruments \ frameworks, providing legal protection against the exploitation of
+cultural expressions of folklore, without any compensation to their originating
+communities. Moreover, litigation processes are also required to reclassify
+those expressions of folklore that were previously considered to belong to the
+public domain. Not forgetting the subsequent infringement and sanctioning
+procedures with regards to infringement of the rights in `works of folklore'.
+
+** The WIPO / UNESCO's Model Provisions on the issue. (30)
+
+cite:wipo86_berne
+
+cite:wto17_trips
+
+As per the provisions of [article 15(
 
 * Bibliography                                                       :ignore:
 \printbibliography

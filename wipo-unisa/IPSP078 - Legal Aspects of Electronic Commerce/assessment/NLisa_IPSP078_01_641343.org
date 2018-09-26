@@ -10,7 +10,7 @@
 #+LATEX_HEADER: \usepackage[super,negative]{nth}
 #+LATEX_HEADER: \usepackage[capitalise]{cleveref}
 #+LATEX_HEADER: \usepackage{pst-node,transparent,ragged2e}
-#+LATEX_HEADER: \addbibresource{/home/nuk3/.spacemacs.d/org-files/bibliography.bib}
+#+LATEX_HEADER: \addbibresource{/home/nlisa/.spacemacs.d/org-files/bibliography.bib}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
 #+LATEX_HEADER: \DeclareFieldFormat[misc]{citetitle}{#1}
@@ -31,7 +31,7 @@
 \centering{
 \pnode(0.5\textwidth,-0.5\textheight){thisCenter}
 \rput(thisCenter){%\transparent{0.25}
-\includegraphics[width=2.7in]{/home/nuk3/course/llb/wipo-unisa/UNISACoatofArms.eps}}}
+\includegraphics[width=2.7in]{/home/nlisa/course/llb/wipo-unisa/UNISACoatofArms.eps}}}
 #+END_EXPORT
 
 #+LaTeX: \justifying

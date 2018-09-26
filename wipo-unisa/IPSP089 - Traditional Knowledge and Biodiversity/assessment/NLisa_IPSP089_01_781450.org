@@ -1,5 +1,5 @@
 * LaTeX Preamble                                                     :ignore:
-#+TITLE: IPSP089 - Legal Aspects of Traditional Knowledge and Bioduversity
+#+TITLE: IPSP089 - Legal Aspects of Traditional Knowledge and Biodiversity
 #+AUTHOR: Nyameko Lisa
 #+DATE: 31 August 2018
 #+SUBTITLE: Assignment 1: 781450
