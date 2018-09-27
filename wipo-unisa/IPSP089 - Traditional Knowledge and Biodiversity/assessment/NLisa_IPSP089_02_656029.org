@@ -110,7 +110,14 @@ cite:wipo86_berne
 
 cite:wto17_trips
 
-As per the provisions of [article 15(
+As per the provisions of [article 15(4)(a-b)]cite:wipo86_berne, although not
+explicitly limited to, nor directly referring to folklore, member Union
+countries may use their respective national legislation to designate a competent
+authority to represent, protect and enforce the rights of an unknown, but
+assumed to be a domiciled in said country, author of an unpublished work.
+
+
+
 
 * Bibliography                                                       :ignore:
 \printbibliography
