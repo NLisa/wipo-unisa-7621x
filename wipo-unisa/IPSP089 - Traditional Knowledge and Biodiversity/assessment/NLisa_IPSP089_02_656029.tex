@@ -1,69 +1,90 @@
-* LaTeX Preamble                                                     :ignore:
-#+TITLE: IPSP089 - Legal Aspects of Traditional Knowledge and Biodiversity
-#+AUTHOR: Nyameko Lisa
-#+DATE: 30 September 2018
-#+SUBTITLE: Assignment 2: 656029
+% Created 2018-10-01 Mon 15:38
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\usepackage[margin=0.80in]{geometry}
+\usepackage[backend=biber, style=ieee, url=false]{biblatex}
+\usepackage{float}
+\usepackage[super,negative]{nth}
+\usepackage[capitalise]{cleveref}
+\usepackage{pst-node,transparent,ragged2e}
+\addbibresource{/home/nlisa/.spacemacs.d/org-files/bibliography.bib}
+\DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
+\DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
+\DeclareFieldFormat[misc]{citetitle}{#1}
+\DeclareFieldFormat[misc]{title}{#1}
+\renewcommand*{\bibpagespunct}{%
+\ifentrytype{inproceedings}
+{\addspace}
+{\addcomma\space}}
+\AtEveryCitekey{\ifuseauthor{}{\clearname{author}}}
+\AtEveryBibitem{\ifuseauthor{}{\clearname{author}}}
+\SpecialCoor
+\author{Nyameko Lisa}
+\date{30 September 2018}
+\title{IPSP089 - Legal Aspects of Traditional Knowledge and Biodiversity\\\medskip
+\large Assignment 2: 656029}
+\hypersetup{
+ pdfauthor={Nyameko Lisa},
+ pdftitle={IPSP089 - Legal Aspects of Traditional Knowledge and Biodiversity},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 26.1 (Org mode 9.1.14)},
+ pdflang={English}}
+\begin{document}
 
-#+LATEX_HEADER: \usepackage[margin=0.80in]{geometry}
-#+LATEX_HEADER: \usepackage[backend=biber, style=ieee, url=false]{biblatex}
-#+LATEX_HEADER: \usepackage{float}
-#+LATEX_HEADER: \usepackage[super,negative]{nth}
-#+LATEX_HEADER: \usepackage[capitalise]{cleveref}
-#+LATEX_HEADER: \usepackage{pst-node,transparent,ragged2e}
-#+LATEX_HEADER: \addbibresource{/home/nlisa/.spacemacs.d/org-files/bibliography.bib}
-#+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
-#+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
-#+LATEX_HEADER: \DeclareFieldFormat[misc]{citetitle}{#1}
-#+LATEX_HEADER: \DeclareFieldFormat[misc]{title}{#1}
-#+LATEX_HEADER: \renewcommand*{\bibpagespunct}{%
-#+LATEX_HEADER:   \ifentrytype{inproceedings}
-#+LATEX_HEADER:     {\addspace}
-#+LATEX_HEADER:     {\addcomma\space}}
-#+LATEX_HEADER: \AtEveryCitekey{\ifuseauthor{}{\clearname{author}}}
-#+LATEX_HEADER: \AtEveryBibitem{\ifuseauthor{}{\clearname{author}}}
-
-#+OPTIONS: toc:nil
-#+LATEX_HEADER: \SpecialCoor
-
-# Institution
-#+BEGIN_EXPORT latex
+\maketitle
 \addvspace{110pt}
 \centering{
 \pnode(0.5\textwidth,-0.5\textheight){thisCenter}
 \rput(thisCenter){%\transparent{0.25}
 \includegraphics[width=2.7in]{/home/nlisa/course/llb/wipo-unisa/UNISACoatofArms.eps}}}
-#+END_EXPORT
 
-#+LaTeX: \justifying
-#+LaTeX: \addvspace{110pt}
-* Declaration
-  :PROPERTIES:
-   :UNNUMBERED: t
-  :END:
-  I know that plagiarism is to use someone else’s work and pass it off as my own.\\
-  I know that plagiarism is wrong.\\
-  I confirm that this assignment is my own work.\\
-  I have acknowledged in the bibliography accompanying the assignment all the sources that I have used.\\
-  I have not directly copied without acknowledgement anything from the Internet or from any other source.\\
-  I have indicated every quotation and citation in a footnote or bracket linked to that quotation.\\
-  I have not allowed anyone else to copy my work and to pass it off as their own work.\\
-  I understand that if any unacknowledged copying whatsoever appears in my assignment I will receive zero per cent for the assignment.\\
-  I am aware of the UNISA policy on plagiarism and understand that disciplinary proceedings can be instituted against me by UNISA if I contravene this policy.\\
-  I indicate my understanding and acceptance of this declaration by
-  entering my name here under:
-    - Name: *Nyameko Lisa* (Student Number: *7874-909-3*)
+\justifying
+\addvspace{110pt}
+\section*{Declaration}
+\label{sec:orgbd182c5}
+I know that plagiarism is to use someone else’s work and pass it off as my own.\\
+I know that plagiarism is wrong.\\
+I confirm that this assignment is my own work.\\
+I have acknowledged in the bibliography accompanying the assignment all the sources that I have used.\\
+I have not directly copied without acknowledgement anything from the Internet or from any other source.\\
+I have indicated every quotation and citation in a footnote or bracket linked to that quotation.\\
+I have not allowed anyone else to copy my work and to pass it off as their own work.\\
+I understand that if any unacknowledged copying whatsoever appears in my assignment I will receive zero per cent for the assignment.\\
+I am aware of the UNISA policy on plagiarism and understand that disciplinary proceedings can be instituted against me by UNISA if I contravene this policy.\\
+I indicate my understanding and acceptance of this declaration by
+entering my name here under:
+\begin{itemize}
+\item Name: \textbf{Nyameko Lisa} (Student Number: \textbf{7874-909-3})
+\end{itemize}
 
-** NOTE
-Please note that footnotes will be denoted as [fn::This is a footnote.] and will
+\subsection*{NOTE}
+\label{sec:org1f0d708}
+Please note that footnotes will be denoted as \footnote{This is a footnote.} and will
 appear at the bottom of the page.\\
-References will be denoted by cite:rsa93_tm_act and will appear at the end of the document.
+References will be denoted by \cite{rsa93_tm_act} and will appear at the end of the document.
 \newpage
 
-* Question 1 [50]
+\section{Question 1 [50]}
+\label{sec:orgd8bad80}
 Discuss the following in respect of traditional cultural expressions
 (expressions of folklore):
 
-** Why is there a need to protect expressions of folklore? (20)
+\subsection{Why is there a need to protect expressions of folklore? (20)}
+\label{sec:org4f61271}
 
 Folklore is an important element of a nation's cultural heritage, providing its
 people with an avenue for self-expression and it exists as a means of a
@@ -81,32 +102,33 @@ and industrial designs.\\
 
 The need for protection of expressions of folklore arises where the creators or
 rights holders, would need to prevent others from reproducing their creations or
-disseminating them to the public through performance or broadcast, /(i.e. law of
-copyright)/; and to restrict the unauthorized misappropriation of technological
-and methodological ideas, inventions, crafts, designs and carvings, /(i.e. laws
-of patents, trademarks and industrial designs)/. Moreover, informal traditional
+disseminating them to the public through performance or broadcast, \emph{(i.e. law of
+copyright)}; and to restrict the unauthorized misappropriation of technological
+and methodological ideas, inventions, crafts, designs and carvings, \emph{(i.e. laws
+of patents, trademarks and industrial designs)}. Moreover, informal traditional
 customary regimes may not provide adequate protection against cultural, economic
 or commercial exploitation.\\
 
 Both globalization and the advent of technological telecommunications advances
 in recent history, have lead to the improper exploitation of cultural
 expressions of folklore currently experienced today. The misappropriation of the
-intellectual property rights that /`should'/ be enjoyed by a people, resulting
+intellectual property rights that \emph{`should'} be enjoyed by a people, resulting
 from their endeavors and accumulated cultural heritage can take a number of
 forms, from commercial exploitation to adaptation and distortion of the original
 works.\\
 
 There exists a clear need for the development of both national and international
-instruments \ frameworks, providing legal protection against the exploitation of
+instruments $\backslash$ frameworks, providing legal protection against the exploitation of
 cultural expressions of folklore, without any compensation to their originating
 communities. Moreover, litigation processes are also required to reclassify
 those expressions of folklore that were previously considered to belong to the
 public domain. Not forgetting the subsequent infringement and sanctioning
 procedures with regards to infringement of the rights in `works of folklore'.
 
-** The WIPO / UNESCO's Model Provisions on the issue. (30)
+\subsection{The WIPO / UNESCO's Model Provisions on the issue. (30)}
+\label{sec:org7d08ce3}
 
-As per the provisions of [article 15(4)(a-b)]cite:wipo86_berne, although not
+As per the provisions of [article 15(4)(a-b)]\cite{wipo86_berne}, although not
 explicitly limited to, nor directly referring to folklore, member Union
 countries may use their respective national legislation to designate a competent
 authority to represent, protect and enforce the rights of an unknown, but
@@ -114,85 +136,85 @@ assumed to be a domiciled in said country, author of an unpublished work.
 After which, that member of the Union must by way of written declaration notify
 the WIPO Director General of said details, who in turn will communicate the
 details of the declaration to all other countries of the Union, as per the
-introductory observations of cite:wipo85_model_provi_national_laws_folklore.\\
+introductory observations of \cite{wipo85_model_provi_national_laws_folklore}.\\
 
 In 1980 a working group was established between WIPO and UNESCO, where a study
 for the draft model provisions for national laws on the protection of creations
 of folklore were undertaken. In 1982 the Directors General of UNESCO and WIPO
 convened a Committee of Governmental Experts on the Intellectual Property
-Aspects of the Protection of Expressions of Folklore, where the /`Model Provisions for National Laws on the Protection of Expressions of Folklore
-Against Illicit Exploitation and Other Prejudicial Actions/' were adopted.
+Aspects of the Protection of Expressions of Folklore, where the \emph{`Model Provisions for National Laws on the Protection of Expressions of Folklore
+Against Illicit Exploitation and Other Prejudicial Actions}' were adopted.
 Moreover these provisions were designed in such a way as to be adaptable to
 appropriate national conditions, with the primary objective of protecting
-against the abuse [section 1]cite:wipo85_model_provi_national_laws_folklore, of
+against the abuse [section 1]\cite{wipo85_model_provi_national_laws_folklore}, of
 expressions of folklore whilst also encouraging it's further development and
 dissemination, as per the introductory observations of
-cite:wipo85_model_provi_national_laws_folklore.\\
+\cite{wipo85_model_provi_national_laws_folklore}.\\
 
-[Section 2]cite:wipo85_model_provi_national_laws_folklore articulates the
+[Section 2]\cite{wipo85_model_provi_national_laws_folklore} articulates the
 expressions of folklore protected under these Model Provisions, as
-/``productions consisting of characteristic elements of the traditional artistic
-heritage developed and maintain by a community''/, including verbal, musical,
+\emph{``productions consisting of characteristic elements of the traditional artistic
+heritage developed and maintain by a community''}, including verbal, musical,
 physically demonstrative and tangible expressions. [Sections 3 and
-4]cite:wipo85_model_provi_national_laws_folklore deal with the authorized
+4]\cite{wipo85_model_provi_national_laws_folklore} deal with the authorized
 utilization and corresponding exceptions respectively. Permission from a
 competent authority is required for: any publication, reproduction or any
 distribution of copies of [section
-3(i)]cite:wipo85_model_provi_national_laws_folklore; or any public recitation,
+3(i)]\cite{wipo85_model_provi_national_laws_folklore}; or any public recitation,
 performance or transmission [section
-3(ii)]cite:wipo85_model_provi_national_laws_folklore of expressions of folklore.
+3(ii)]\cite{wipo85_model_provi_national_laws_folklore} of expressions of folklore.
 With the exception of utilization that is educational [section
-4.1(i)]cite:wipo85_model_provi_national_laws_folklore; an illustration
+4.1(i)]\cite{wipo85_model_provi_national_laws_folklore}; an illustration
 consistent with fair practice [section
-4.1(ii)]cite:wipo85_model_provi_national_laws_folklore; borrowed and re-used in
+4.1(ii)]\cite{wipo85_model_provi_national_laws_folklore}; borrowed and re-used in
 the creation of an original work of an author(s) [section
-4.1(iii)]cite:wipo85_model_provi_national_laws_folklore; or where the
+4.1(iii)]\cite{wipo85_model_provi_national_laws_folklore}; or where the
 utilization is incidental [section
-4.2]cite:wipo85_model_provi_national_laws_folklore.\\
+4.2]\cite{wipo85_model_provi_national_laws_folklore}.\\
 
 Utilization of an expression of folklore without either consent from a competent
 authority nor appropriate acknowledgement of source of the author or community
 and / or geographic place from which the work originates [section
-5.1]cite:wipo85_model_provi_national_laws_folklore, constitute offensive
-violations [section 6]cite:wipo85_model_provi_national_laws_folklore which are
+5.1]\cite{wipo85_model_provi_national_laws_folklore}, constitute offensive
+violations [section 6]\cite{wipo85_model_provi_national_laws_folklore} which are
 liable to seizure or other actions [section
-7]cite:wipo85_model_provi_national_laws_folklore and other civil remedies such
-as damages [section 8]cite:wipo85_model_provi_national_laws_folklore. Where the
+7]\cite{wipo85_model_provi_national_laws_folklore} and other civil remedies such
+as damages [section 8]\cite{wipo85_model_provi_national_laws_folklore}. Where the
 definition of a `competent or supervisory authority' [section
-9]cite:wipo85_model_provi_national_laws_folklore is left open to the relevant
+9]\cite{wipo85_model_provi_national_laws_folklore} is left open to the relevant
 member Union country.\\
 
-[Section 10[cite:wipo85_model_provi_national_laws_folklore details the necessary
+[Section 10[\cite{wipo85_model_provi_national_laws_folklore} details the necessary
 procedures required for authorization with respect to utilization of an
 expression of folklore. Such requests should be in writing to the competent
 authority / community concerned [section
-10.1]cite:wipo85_model_provi_national_laws_folklore. Where a fee may be
+10.1]\cite{wipo85_model_provi_national_laws_folklore}. Where a fee may be
 collected, as established by the supervisory authority, for the purposes of
 promoting / safeguarding national culture and folklore [section
-10.2]cite:wipo85_model_provi_national_laws_folklore. The Model Provisions also
+10.2]\cite{wipo85_model_provi_national_laws_folklore}. The Model Provisions also
 accommodate appeals from authorization applicant against decisions made by the
 competent authority [section
-10.3]cite:wipo85_model_provi_national_laws_folklore.\\
+10.3]\cite{wipo85_model_provi_national_laws_folklore}.\\
 
 As per the provisions of [section
-11]cite:wipo85_model_provi_national_laws_folklore, with respect to matters
+11]\cite{wipo85_model_provi_national_laws_folklore}, with respect to matters
 relating to appeals or offenses, the question of jurisdiction is left open and
 to be defined by the relevant member Union country. This vague and opened-ended
 definition in the Model Provisions is indeed problematic and inadequate,
 especially in light of electronic transactions and the nature of potential
 infringements and offenses that span multiple jurisdictions, across a number of
 member Union countries. As per the provisions of [section
-12]cite:wipo85_model_provi_national_laws_folklore the Model Provisions shall in
+12]\cite{wipo85_model_provi_national_laws_folklore} the Model Provisions shall in
 no way limit, prejudice nor supersede any protections applicable to expressions
 of folklore, enjoyed under copyright law; industrial property law; laws
 protecting producers, performers and broadcasting organizations; or any other
 laws or international treaties to which the country is a party to. Lastly
-[sections 13 and 14]cite:wipo85_model_provi_national_laws_folklore describe how
+[sections 13 and 14]\cite{wipo85_model_provi_national_laws_folklore} describe how
 the Model Provisions cannot be interpreted in any way to hinder the use or
 development of expressions of folklore, and where expressions of folklore are
 developed in a foreign country they are subject to reciprocal or international
 treaty based protection.
 
 
-* Bibliography                                                       :ignore:
 \printbibliography
+\end{document}

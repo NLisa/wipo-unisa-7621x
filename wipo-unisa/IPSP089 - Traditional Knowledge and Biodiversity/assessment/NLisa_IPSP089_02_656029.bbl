@@ -1,0 +1,93 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{rsa93_tm_act}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
+           family={{RSA Parliament}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{number}{194}
+      \field{title}{{Trade Marks Act No. 194}}
+      \field{year}{1993}
+      \verb{urlraw}
+      \verb http://www.wipo.int/wipolex/en/text.jsp?file_id=130446
+      \endverb
+      \verb{url}
+      \verb http://www.wipo.int/wipolex/en/text.jsp?file_id=130446
+      \endverb
+      \keyw{iplaw,tm}
+    \endentry
+    \entry{wipo86_berne}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=7cd85da3dc1ceee3ede6c4b163903fab}{%
+           family={{WIPO}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authornamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authorfullhash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{title}{{Berne Convention for the Protection of Literary and Artistic Works}}
+      \field{year}{1886}
+      \verb{urlraw}
+      \verb http://www.wipo.int/treaties/en/text.jsp?file_id=283698
+      \endverb
+      \verb{url}
+      \verb http://www.wipo.int/treaties/en/text.jsp?file_id=283698
+      \endverb
+      \keyw{iplaw,cr}
+    \endentry
+    \entry{wipo85_model_provi_national_laws_folklore}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=24a0ef0a6269be289db4de9570763de3}{%
+           family={{UNESCO}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{24a0ef0a6269be289db4de9570763de3}
+      \strng{authornamehash}{24a0ef0a6269be289db4de9570763de3}
+      \strng{authorfullhash}{24a0ef0a6269be289db4de9570763de3}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labeltitlesource}{title}
+      \field{number}{No. 832(E)}
+      \field{title}{{Model Provisions for National Laws on the Protection of Expressions of Folklore Against Illicit Exploitation and other Forms of Prejudicial Action}}
+      \field{year}{1985}
+      \verb{urlraw}
+      \verb www.wpipo.int/wipolex/en/details.jsp?id=6714
+      \endverb
+      \verb{url}
+      \verb www.wpipo.int/wipolex/en/details.jsp?id=6714
+      \endverb
+      \keyw{iplaw,comp,tm,pat,cr,biodiv,tradknow}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
