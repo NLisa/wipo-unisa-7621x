@@ -1,0 +1,442 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{rsa93_tm_act}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
+           family={{RSA Parliament}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{number}{194}
+      \field{title}{{Trade Marks Act No. 194}}
+      \field{year}{1993}
+      \verb{urlraw}
+      \verb http://www.wipo.int/wipolex/en/text.jsp?file_id=130446
+      \endverb
+      \verb{url}
+      \verb http://www.wipo.int/wipolex/en/text.jsp?file_id=130446
+      \endverb
+      \keyw{iplaw,tm}
+    \endentry
+    \entry{papadopoulus12_intro_cyberlaw}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=e0fd452c908080a4736997d3404709a3}{%
+           family={Papadopoulus},
+           familyi={P\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=714f7c5e23bd8b79fd3a0ebde9d6d3e6}{%
+           family={Papadopoulos},
+           familyi={P\bibinitperiod}}}%
+        {{hash=5f8f34759907c2016a0e4413e4ecb718}{%
+           family={Snail},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e0fd452c908080a4736997d3404709a3}
+      \strng{fullhash}{e0fd452c908080a4736997d3404709a3}
+      \strng{bibnamehash}{e0fd452c908080a4736997d3404709a3}
+      \strng{authorbibnamehash}{e0fd452c908080a4736997d3404709a3}
+      \strng{authornamehash}{e0fd452c908080a4736997d3404709a3}
+      \strng{authorfullhash}{e0fd452c908080a4736997d3404709a3}
+      \strng{editorbibnamehash}{ca46c71d1ee041465b3c49b2960ceb31}
+      \strng{editornamehash}{ca46c71d1ee041465b3c49b2960ceb31}
+      \strng{editorfullhash}{ca46c71d1ee041465b3c49b2960ceb31}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Cyberlaw @ SA III: The law of the Internet}
+      \field{edition}{Third}
+      \field{title}{An introduction to Cyberlaw}
+      \field{year}{2012}
+      \field{pages}{{1\bibrangedash 8}}
+      \range{pages}{-1}
+      \keyw{cyberlaw,internet,ecomm}
+    \endentry
+    \entry{buys00_towards_ecomm_policy_sa}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=3e15943f0b9e2a02fb75ae121baa0dee}{%
+           family={Buys},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{3e15943f0b9e2a02fb75ae121baa0dee}
+      \strng{fullhash}{3e15943f0b9e2a02fb75ae121baa0dee}
+      \strng{bibnamehash}{3e15943f0b9e2a02fb75ae121baa0dee}
+      \strng{authorbibnamehash}{3e15943f0b9e2a02fb75ae121baa0dee}
+      \strng{authornamehash}{3e15943f0b9e2a02fb75ae121baa0dee}
+      \strng{authorfullhash}{3e15943f0b9e2a02fb75ae121baa0dee}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Cyberlaw: The Law of the Internet @ SA}}
+      \field{edition}{First}
+      \field{title}{Towards an electronics commerce policy for South Africa}
+      \field{year}{2000}
+      \field{pages}{{97\bibrangedash 112}}
+      \range{pages}{-1}
+      \keyw{cyberlaw,internet,ecomm}
+    \endentry
+    \entry{hamann14_direct_marketing_and_spam_via_ecomms}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0c8e370c244cbc72f1d4ce476b5e4a2c}{%
+           family={Hamann},
+           familyi={H\bibinitperiod},
+           given={Bernard},
+           giveni={B\bibinitperiod}}}%
+        {{hash=0c2a46e43aac5433a699698aed5d6e8c}{%
+           family={Papadopoulos},
+           familyi={P\bibinitperiod},
+           given={Sylvia},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{855fbb5f202cdcc96129d8ff16afbc1f}
+      \strng{fullhash}{855fbb5f202cdcc96129d8ff16afbc1f}
+      \strng{bibnamehash}{855fbb5f202cdcc96129d8ff16afbc1f}
+      \strng{authorbibnamehash}{855fbb5f202cdcc96129d8ff16afbc1f}
+      \strng{authornamehash}{855fbb5f202cdcc96129d8ff16afbc1f}
+      \strng{authorfullhash}{855fbb5f202cdcc96129d8ff16afbc1f}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{De Jure}
+      \field{title}{Direct Marketing and Spam via Electronic Communications: An Analysis of the Regulatory Framework in South Africa"}
+      \field{volume}{47 (1)}
+      \field{year}{2014}
+      \field{pages}{{42\bibrangedash 62}}
+      \range{pages}{-1}
+      \keyw{cyberlaw,internet,ecomm}
+    \endentry
+    \entry{eiselen16_ecomm}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=372573c606ead674b26b91e1a5d2c8b4}{%
+           family={Eiselen},
+           familyi={E\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=2ae9dced8af6dd33e9b8fa0161a04414}{%
+           family={Merwe},
+           familyi={M\bibinitperiod},
+           given={Dana},
+           giveni={D\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \strng{namehash}{372573c606ead674b26b91e1a5d2c8b4}
+      \strng{fullhash}{372573c606ead674b26b91e1a5d2c8b4}
+      \strng{bibnamehash}{372573c606ead674b26b91e1a5d2c8b4}
+      \strng{authorbibnamehash}{372573c606ead674b26b91e1a5d2c8b4}
+      \strng{authornamehash}{372573c606ead674b26b91e1a5d2c8b4}
+      \strng{authorfullhash}{372573c606ead674b26b91e1a5d2c8b4}
+      \strng{editorbibnamehash}{2ae9dced8af6dd33e9b8fa0161a04414}
+      \strng{editornamehash}{2ae9dced8af6dd33e9b8fa0161a04414}
+      \strng{editorfullhash}{2ae9dced8af6dd33e9b8fa0161a04414}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Information and Communications Technology Law}
+      \field{edition}{Second}
+      \field{title}{{E-Commerce}}
+      \field{year}{2016}
+      \field{pages}{{149-181 and 195-220}}
+      \range{pages}{-1}
+      \keyw{cyberlaw,internet,ecomm}
+      \warn{\item Range field 'pages' in entry 'eiselen16_ecomm' is malformed, falling back to literal}
+    \endentry
+    \entry{gereda16_elec_comms_trans_act}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=365985a18b3f4402d179c620c8c43f36}{%
+           family={Gereda},
+           familyi={G\bibinitperiod},
+           given={Shumani\bibnamedelima L},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=e374e28a5e0e656af6b1d7e2f25e8b2c}{%
+           family={Thornton},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{365985a18b3f4402d179c620c8c43f36}
+      \strng{fullhash}{365985a18b3f4402d179c620c8c43f36}
+      \strng{bibnamehash}{365985a18b3f4402d179c620c8c43f36}
+      \strng{authorbibnamehash}{365985a18b3f4402d179c620c8c43f36}
+      \strng{authornamehash}{365985a18b3f4402d179c620c8c43f36}
+      \strng{authorfullhash}{365985a18b3f4402d179c620c8c43f36}
+      \strng{editorbibnamehash}{e374e28a5e0e656af6b1d7e2f25e8b2c}
+      \strng{editornamehash}{e374e28a5e0e656af6b1d7e2f25e8b2c}
+      \strng{editorfullhash}{e374e28a5e0e656af6b1d7e2f25e8b2c}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Telecommunications Law in South Africa}
+      \field{title}{{The Electronic and Communications Transactions Act}}
+      \field{year}{2006}
+      \field{pages}{{262\bibrangedash 295}}
+      \range{pages}{-1}
+      \keyw{cyberlaw,internet,ecomm}
+    \endentry
+    \entry{pistorius16_copyright_law_it}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=b024dce64ac82e521be531cfff5949d6}{%
+           family={Pistorius},
+           familyi={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=2ae9dced8af6dd33e9b8fa0161a04414}{%
+           family={Merwe},
+           familyi={M\bibinitperiod},
+           given={Dana},
+           giveni={D\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \strng{namehash}{b024dce64ac82e521be531cfff5949d6}
+      \strng{fullhash}{b024dce64ac82e521be531cfff5949d6}
+      \strng{bibnamehash}{b024dce64ac82e521be531cfff5949d6}
+      \strng{authorbibnamehash}{b024dce64ac82e521be531cfff5949d6}
+      \strng{authornamehash}{b024dce64ac82e521be531cfff5949d6}
+      \strng{authorfullhash}{b024dce64ac82e521be531cfff5949d6}
+      \strng{editorbibnamehash}{2ae9dced8af6dd33e9b8fa0161a04414}
+      \strng{editornamehash}{2ae9dced8af6dd33e9b8fa0161a04414}
+      \strng{editorfullhash}{2ae9dced8af6dd33e9b8fa0161a04414}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Information and Communications Technology Law}
+      \field{edition}{Second}
+      \field{title}{{Copyright Law and IT}}
+      \field{year}{2016}
+      \field{pages}{{267-270 and 292-362}}
+      \range{pages}{-1}
+      \keyw{cyberlaw,internet,ecomm}
+      \warn{\item Range field 'pages' in entry 'pistorius16_copyright_law_it' is malformed, falling back to literal}
+    \endentry
+    \entry{pistorius16_domain_names_infringe_tm}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=b024dce64ac82e521be531cfff5949d6}{%
+           family={Pistorius},
+           familyi={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=2ae9dced8af6dd33e9b8fa0161a04414}{%
+           family={Merwe},
+           familyi={M\bibinitperiod},
+           given={Dana},
+           giveni={D\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \strng{namehash}{b024dce64ac82e521be531cfff5949d6}
+      \strng{fullhash}{b024dce64ac82e521be531cfff5949d6}
+      \strng{bibnamehash}{b024dce64ac82e521be531cfff5949d6}
+      \strng{authorbibnamehash}{b024dce64ac82e521be531cfff5949d6}
+      \strng{authornamehash}{b024dce64ac82e521be531cfff5949d6}
+      \strng{authorfullhash}{b024dce64ac82e521be531cfff5949d6}
+      \strng{editorbibnamehash}{2ae9dced8af6dd33e9b8fa0161a04414}
+      \strng{editornamehash}{2ae9dced8af6dd33e9b8fa0161a04414}
+      \strng{editorfullhash}{2ae9dced8af6dd33e9b8fa0161a04414}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Information and Communications Technology Law}
+      \field{edition}{Second}
+      \field{title}{{Domain Names and Infringement of Trade Marks on the Internet}}
+      \field{year}{2016}
+      \field{pages}{{221\bibrangedash 265}}
+      \range{pages}{-1}
+      \keyw{cyberlaw,internet,ecomm}
+    \endentry
+    \entry{un96_uncitral_model_law_ecomm}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=0730c643e208288f1e34c5cc9a08bb66}{%
+           family={UNCITRAL},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {United Nations Commission on International Trade Law}%
+      }
+      \strng{authorbibnamehash}{0730c643e208288f1e34c5cc9a08bb66}
+      \strng{authornamehash}{0730c643e208288f1e34c5cc9a08bb66}
+      \strng{authorfullhash}{0730c643e208288f1e34c5cc9a08bb66}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{title}{{Model Law on Electronic Commerce with Guide to Enactment}}
+      \field{year}{1996}
+      \keyw{cyberlaw,internet,ecomm}
+    \endentry
+    \entry{comesa10_model_law_on_e_trans}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=20b7b2ce94b83103137aaa3e83baa507}{%
+           family={COMESA},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{organization}{2}{%
+        {Common Market for Eastern}%
+        {Southern Africa}%
+      }
+      \strng{authorbibnamehash}{20b7b2ce94b83103137aaa3e83baa507}
+      \strng{authornamehash}{20b7b2ce94b83103137aaa3e83baa507}
+      \strng{authorfullhash}{20b7b2ce94b83103137aaa3e83baa507}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{title}{Model Law on Electronic Transactions and Guide to Enactment}
+      \field{year}{2010}
+      \keyw{cyberlaw,internet,ecomm}
+    \endentry
+    \entry{rsa00_green_paper_ecomm_sa}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
+           family={{RSA Parliament}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Department of Communcations}%
+      }
+      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{title}{A Green Paper on Electronic Commerce for South Africa}
+      \field{year}{2000}
+      \keyw{cyberlaw,internet,ecomm}
+    \endentry
+    \entry{hipssa13_elec_trans_ecom_sadc_model_law}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=d35bd4500340c299691d4b5401385832}{%
+           family={{HIPSSA}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Harmonization of ICT Policies in Sub-Saharan Africa}%
+      }
+      \strng{authorbibnamehash}{d35bd4500340c299691d4b5401385832}
+      \strng{authornamehash}{d35bd4500340c299691d4b5401385832}
+      \strng{authorfullhash}{d35bd4500340c299691d4b5401385832}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{title}{{Electronic Transactions and Electronic Commerce: SADC Model Law}}
+      \field{year}{2013}
+      \keyw{cyberlaw,internet,ecomm}
+    \endentry
+    \entry{rsa12_elect_comm_trans_amend_bill}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
+           family={{RSA Parliament}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{number}{25}
+      \field{title}{{Electronic Communications and Transactions Amendment Bill}}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://www.ellipsis.co.za/electronic-communications-and-transactions-amendment-bill/
+      \endverb
+      \verb{url}
+      \verb https://www.ellipsis.co.za/electronic-communications-and-transactions-amendment-bill/
+      \endverb
+      \keyw{iplaw,ia}
+    \endentry
+    \entry{rsa12_ect_adr}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
+           family={{RSA Parliament}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{number}{25}
+      \field{title}{{Electronic Communications and Transactions Act No. 25: Alternative Dispute Resolution Regulations}}
+      \field{year}{2006}
+      \keyw{iplaw,ia}
+    \endentry
+    \entry{rsa02_elect_comm_trans_act}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
+           family={{RSA Parliament}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{number}{25}
+      \field{title}{{Electronic Communications and Transactions Act No. 25}}
+      \field{year}{2002}
+      \verb{urlraw}
+      \verb http://www.internet.org.za/ect_act.html
+      \endverb
+      \verb{url}
+      \verb http://www.internet.org.za/ect_act.html
+      \endverb
+      \keyw{iplaw,ia}
+    \endentry
+    \entry{Cachalia15_spring_forest_v_wilberry}{inproceedings}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=da4d3ca694465eb49b01bb09211a8ecd}{%
+           family={{JA Cachalia}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {KwaZulu-Natal Local Divsion}%
+      }
+      \strng{authorbibnamehash}{da4d3ca694465eb49b01bb09211a8ecd}
+      \strng{authornamehash}{da4d3ca694465eb49b01bb09211a8ecd}
+      \strng{authorfullhash}{da4d3ca694465eb49b01bb09211a8ecd}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labeltitlesource}{title}
+      \field{title}{{Spring Forest Trading v Wilberry (Pty) Ltd t/a Ecowash Combined Motor Holdings Limited (725/13) [2014] ZASCA 178}}
+      \field{year}{2015}
+      \field{pages}{2 SA 118 (SCA)}
+      \range{pages}{-1}
+      \keyw{cyberlaw,internet,ecomm}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
