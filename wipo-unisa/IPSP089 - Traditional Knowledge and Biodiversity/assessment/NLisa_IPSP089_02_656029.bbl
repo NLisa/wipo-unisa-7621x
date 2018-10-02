@@ -19,51 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
-    \entry{rsa93_tm_act}{misc}{useauthor=false}
-      \name{author}{1}{}{%
-        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
-           family={{RSA Parliament}},
-           familyi={R\bibinitperiod}}}%
-      }
-      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
-      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
-      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labeltitlesource}{title}
-      \field{number}{194}
-      \field{title}{{Trade Marks Act No. 194}}
-      \field{year}{1993}
-      \verb{urlraw}
-      \verb http://www.wipo.int/wipolex/en/text.jsp?file_id=130446
-      \endverb
-      \verb{url}
-      \verb http://www.wipo.int/wipolex/en/text.jsp?file_id=130446
-      \endverb
-      \keyw{iplaw,tm}
-    \endentry
-    \entry{wipo86_berne}{misc}{useauthor=false}
-      \name{author}{1}{}{%
-        {{hash=7cd85da3dc1ceee3ede6c4b163903fab}{%
-           family={{WIPO}},
-           familyi={W\bibinitperiod}}}%
-      }
-      \strng{authorbibnamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
-      \strng{authornamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
-      \strng{authorfullhash}{7cd85da3dc1ceee3ede6c4b163903fab}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
-      \field{labeltitlesource}{title}
-      \field{title}{{Berne Convention for the Protection of Literary and Artistic Works}}
-      \field{year}{1886}
-      \verb{urlraw}
-      \verb http://www.wipo.int/treaties/en/text.jsp?file_id=283698
-      \endverb
-      \verb{url}
-      \verb http://www.wipo.int/treaties/en/text.jsp?file_id=283698
-      \endverb
-      \keyw{iplaw,cr}
-    \endentry
     \entry{wipo85_model_provi_national_laws_folklore}{misc}{useauthor=false}
       \name{author}{1}{}{%
         {{hash=24a0ef0a6269be289db4de9570763de3}{%
@@ -73,8 +28,8 @@
       \strng{authorbibnamehash}{24a0ef0a6269be289db4de9570763de3}
       \strng{authornamehash}{24a0ef0a6269be289db4de9570763de3}
       \strng{authorfullhash}{24a0ef0a6269be289db4de9570763de3}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labeltitlesource}{title}
       \field{number}{No. 832(E)}
       \field{title}{{Model Provisions for National Laws on the Protection of Expressions of Folklore Against Illicit Exploitation and other Forms of Prejudicial Action}}
@@ -86,6 +41,110 @@
       \verb www.wpipo.int/wipolex/en/details.jsp?id=6714
       \endverb
       \keyw{iplaw,comp,tm,pat,cr,biodiv,tradknow}
+    \endentry
+    \entry{saurombe09_protection_indigenous_trad_knowl_through_ip}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8c60a4a551a7e65492fb411d50f5084c}{%
+           family={Saurombe},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8c60a4a551a7e65492fb411d50f5084c}
+      \strng{fullhash}{8c60a4a551a7e65492fb411d50f5084c}
+      \strng{bibnamehash}{8c60a4a551a7e65492fb411d50f5084c}
+      \strng{authorbibnamehash}{8c60a4a551a7e65492fb411d50f5084c}
+      \strng{authornamehash}{8c60a4a551a7e65492fb411d50f5084c}
+      \strng{authorfullhash}{8c60a4a551a7e65492fb411d50f5084c}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of International Commercial Law and Technology}
+      \field{number}{3}
+      \field{title}{The Protection of Indigenous Traditional Knowledge though the Intellectual Property System and the 2008 South African Intellectual Property Law Amendment Bill}
+      \field{volume}{4}
+      \field{year}{2009}
+      \field{pages}{{196\bibrangedash 202}}
+      \range{pages}{-1}
+      \keyw{iplaw,biodiv,tradknow}
+    \endentry
+    \entry{masango10_indigenous_trad_knowl_protect_prospects}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fe69241b0a42e73ab433b16462fa6a69}{%
+           family={Masango},
+           familyi={M\bibinitperiod},
+           given={Charles\bibnamedelima A},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe69241b0a42e73ab433b16462fa6a69}
+      \strng{fullhash}{fe69241b0a42e73ab433b16462fa6a69}
+      \strng{bibnamehash}{fe69241b0a42e73ab433b16462fa6a69}
+      \strng{authorbibnamehash}{fe69241b0a42e73ab433b16462fa6a69}
+      \strng{authornamehash}{fe69241b0a42e73ab433b16462fa6a69}
+      \strng{authorfullhash}{fe69241b0a42e73ab433b16462fa6a69}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{SA Jnl Libs \& Info Sci}}
+      \field{number}{1}
+      \field{title}{Indigenous Traditional Knowledge Protection: Prospects in South Africa's Intellectual Property Framework?}
+      \field{volume}{76}
+      \field{year}{2010}
+      \field{pages}{{74\bibrangedash 80}}
+      \range{pages}{-1}
+      \keyw{iplaw,biodiv,tradknow}
+    \endentry
+    \entry{geyer10_towards_clearer_defin_underst_indi}{article}{}
+      \name{author}{1}{}{%
+        {{hash=214ac330a653a80a0dce319dba1c7feb}{%
+           family={Geyer},
+           familyi={G\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{214ac330a653a80a0dce319dba1c7feb}
+      \strng{fullhash}{214ac330a653a80a0dce319dba1c7feb}
+      \strng{bibnamehash}{214ac330a653a80a0dce319dba1c7feb}
+      \strng{authorbibnamehash}{214ac330a653a80a0dce319dba1c7feb}
+      \strng{authornamehash}{214ac330a653a80a0dce319dba1c7feb}
+      \strng{authorfullhash}{214ac330a653a80a0dce319dba1c7feb}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1727-3781}
+      \field{journaltitle}{PER / PELJ}
+      \field{number}{4}
+      \field{title}{{Towards a clearer definition and understanding of "indigenous community" for the purposes of Intellectual Property Laws Amendment Bill 2010: An exploration of the concepts "indigenous" and "traditional"}}
+      \field{volume}{13}
+      \field{year}{2010}
+      \field{pages}{{127\bibrangedash 143}}
+      \range{pages}{-1}
+      \keyw{iplaw,biodiv,tradknow}
+    \endentry
+    \entry{wipo86_berne}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=7cd85da3dc1ceee3ede6c4b163903fab}{%
+           family={{WIPO}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authornamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authorfullhash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labeltitlesource}{title}
+      \field{title}{{Berne Convention for the Protection of Literary and Artistic Works}}
+      \field{year}{1886}
+      \verb{urlraw}
+      \verb http://www.wipo.int/treaties/en/text.jsp?file_id=283698
+      \endverb
+      \verb{url}
+      \verb http://www.wipo.int/treaties/en/text.jsp?file_id=283698
+      \endverb
+      \keyw{iplaw,cr}
     \endentry
   \enddatalist
 \endrefsection
