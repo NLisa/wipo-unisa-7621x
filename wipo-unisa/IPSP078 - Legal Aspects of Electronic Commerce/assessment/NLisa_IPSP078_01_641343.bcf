@@ -1975,3 +1975,92 @@
     <bcf:datasource type="file" datatype="bibtex">/home/nlisa/.spacemacs.d/org-files/bibliography.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="1">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="2">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="2">rsa12_elect_comm_trans_amend_bill</bcf:citekey>
+    <bcf:citekey order="2">eiselen16_ecomm</bcf:citekey>
+    <bcf:citekey order="2">papadopoulus12_intro_cyberlaw</bcf:citekey>
+    <bcf:citekey order="2">buys00_towards_ecomm_policy_sa</bcf:citekey>
+    <bcf:citekey order="2">pistorius16_copyright_law_it</bcf:citekey>
+    <bcf:citekey order="2">hamann14_direct_marketing_and_spam_via_ecomms</bcf:citekey>
+    <bcf:citekey order="2">pistorius16_domain_names_infringe_tm</bcf:citekey>
+    <bcf:citekey order="3">rsa00_green_paper_ecomm_sa</bcf:citekey>
+    <bcf:citekey order="4">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="5">rsa12_elect_comm_trans_amend_bill</bcf:citekey>
+    <bcf:citekey order="6">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="7">rsa12_elect_comm_trans_amend_bill</bcf:citekey>
+    <bcf:citekey order="8">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="9">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="10">rsa12_elect_comm_trans_amend_bill</bcf:citekey>
+    <bcf:citekey order="11">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="12">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="13">rsa12_elect_comm_trans_amend_bill</bcf:citekey>
+    <bcf:citekey order="14">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="15">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="16">rsa12_elect_comm_trans_amend_bill</bcf:citekey>
+    <bcf:citekey order="17">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="18">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="19">rsa12_elect_comm_trans_amend_bill</bcf:citekey>
+    <bcf:citekey order="20">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="21">rsa12_elect_comm_trans_amend_bill</bcf:citekey>
+    <bcf:citekey order="22">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="23">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="24">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="25">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="26">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="27">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="28">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="29">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="30">rsa13_popi</bcf:citekey>
+    <bcf:citekey order="31">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="32">rsa12_elect_comm_trans_amend_bill</bcf:citekey>
+    <bcf:citekey order="33">rsa12_ect_adr</bcf:citekey>
+    <bcf:citekey order="34">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="35">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="36">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="37">rsa12_elect_comm_trans_amend_bill</bcf:citekey>
+    <bcf:citekey order="38">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="39">rsa12_elect_comm_trans_amend_bill</bcf:citekey>
+    <bcf:citekey order="40">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="41">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="42">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="43">rsa12_elect_comm_trans_amend_bill</bcf:citekey>
+    <bcf:citekey order="44">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="45">rsa12_elect_comm_trans_amend_bill</bcf:citekey>
+    <bcf:citekey order="46">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="47">rsa12_elect_comm_trans_amend_bill</bcf:citekey>
+    <bcf:citekey order="48">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="49">rsa12_elect_comm_trans_amend_bill</bcf:citekey>
+    <bcf:citekey order="50">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="51">rsa12_elect_comm_trans_amend_bill</bcf:citekey>
+    <bcf:citekey order="52">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="53">rsa12_elect_comm_trans_amend_bill</bcf:citekey>
+    <bcf:citekey order="54">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="55">rsa12_elect_comm_trans_amend_bill</bcf:citekey>
+    <bcf:citekey order="56">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="57">un96_uncitral_model_law_ecomm</bcf:citekey>
+    <bcf:citekey order="58">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="59">un96_uncitral_model_law_ecomm</bcf:citekey>
+    <bcf:citekey order="60">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="61">un96_uncitral_model_law_ecomm</bcf:citekey>
+    <bcf:citekey order="62">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="63">rsa02_elect_comm_trans_act</bcf:citekey>
+    <bcf:citekey order="64">hipssa13_elec_trans_ecom_sadc_model_law</bcf:citekey>
+  </bcf:section>
+  <!-- SORTING TEMPLATES -->
+  <bcf:sortingtemplate name="none">
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sortingtemplate>
+  <!-- DATALISTS -->
+  <bcf:datalist section="0"
+                name="none/global//global/global"
+                type="entry"
+                sortingtemplatename="none"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+</bcf:controlfile>

@@ -1,0 +1,14 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is 'NLisa_IPSP078_01_641343.blg'
+[19] biber:313> INFO - === Wed Oct  3, 2018, 11:25:38
+[31] Biber.pm:371> INFO - Reading 'NLisa_IPSP078_01_641343.bcf'
+[64] Biber.pm:857> INFO - Found 13 citekeys in bib section 0
+[71] Biber.pm:3976> INFO - Processing section 0
+[77] Biber.pm:4136> INFO - Looking for bibtex format file '/home/nlisa/.spacemacs.d/org-files/bibliography.bib' for section 0
+[98] bibtex.pm:1500> INFO - LaTeX decoding ...
+[743] bibtex.pm:1316> INFO - Found BibTeX data source '/home/nlisa/.spacemacs.d/org-files/bibliography.bib'
+[780] Utils.pm:193> WARN - Range field 'pages' in entry 'eiselen16_ecomm' is malformed, falling back to literal
+[788] Utils.pm:193> WARN - Range field 'pages' in entry 'pistorius16_copyright_law_it' is malformed, falling back to literal
+[803] Utils.pm:209> ERROR - BibTeX subsystem: /tmp/6WHLmnH8dl/bibliography.bib_14072.utf8, line 10349, syntax error: found "author", expected ","
+[803] Biber.pm:110> INFO - WARNINGS: 2
+[803] Biber.pm:114> INFO - ERRORS: 1

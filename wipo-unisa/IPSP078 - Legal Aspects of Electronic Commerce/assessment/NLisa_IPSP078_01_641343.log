@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.9.11)  13 SEP 2018 15:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.9.11)  3 OCT 2018 11:25
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **NLisa_IPSP078_01_641343.tex
 (./NLisa_IPSP078_01_641343.tex
@@ -1052,6 +1053,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 46.
 LaTeX Info: Redefining \pageref on input line 46.
 LaTeX Info: Redefining \nameref on input line 46.
+
+(./NLisa_IPSP078_01_641343.out) (./NLisa_IPSP078_01_641343.out)
 \@outlinefile=\write5
 \openout5 = `NLisa_IPSP078_01_641343.out'.
 
@@ -1112,45 +1115,584 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 49.
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-
-LaTeX Warning: File `/home/nuk3/course/llb/wipo-unisa/UNISACoatofArms.eps' not 
-found on input line 53.
-
-Package epstopdf Info: Source file: </home/nuk3/course/llb/wipo-unisa/UNISACoat
-ofArms.eps>
-(epstopdf)             Output file: </home/nuk3/course/llb/wipo-unisa/UNISACoat
-ofArms-eps-converted-to.pdf>
-(epstopdf)             Command: <repstopdf --outfile=/home/nuk3/course/llb/wipo
--unisa/UNISACoatofArms-eps-converted-to.pdf /home/nuk3/course/llb/wipo-unisa/UN
-ISACoatofArms.eps>
+Package epstopdf Info: Source file: </home/nlisa/course/llb/wipo-unisa/UNISACoa
+tofArms.eps>
+(epstopdf)                    date: 2018-09-13 12:35:03
+(epstopdf)                    size: 2633606 bytes
+(epstopdf)             Output file: </home/nlisa/course/llb/wipo-unisa/UNISACoa
+tofArms-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-13 12:35:03
+(epstopdf)                    size: 91414 bytes
+(epstopdf)             Command: <repstopdf --outfile=/home/nlisa/course/llb/wip
+o-unisa/UNISACoatofArms-eps-converted-to.pdf /home/nlisa/course/llb/wipo-unisa/
+UNISACoatofArms.eps>
 (epstopdf)             \includegraphics on input line 53.
 Package epstopdf Info: Output file is already uptodate.
+</home/nlisa/course/llb/wipo-unisa/UNISACoatofArms-eps-converted-to.pdf, id=4, 
+430.60875pt x 569.12625pt>
+File: /home/nlisa/course/llb/wipo-unisa/UNISACoatofArms-eps-converted-to.pdf Gr
+aphic file (type pdf)
+<use /home/nlisa/course/llb/wipo-unisa/UNISACoatofArms-eps-converted-to.pdf>
+Package pdftex.def Info: /home/nlisa/course/llb/wipo-unisa/UNISACoatofArms-eps-
+converted-to.pdf  used on input line 53.
+(pdftex.def)             Requested size: 195.12877pt x 257.90207pt.
 
-! Package pdftex.def Error: File `/home/nuk3/course/llb/wipo-unisa/UNISACoatofA
-rms-eps-converted-to.pdf' not found: using draft setting.
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.53 ...ourse/llb/wipo-unisa/UNISACoatofArms.eps}}
-                                                  }
-? 
-! Emergency stop.
- ...                                              
-                                                  
-l.53 ...ourse/llb/wipo-unisa/UNISACoatofArms.eps}}
-                                                  }
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 1 undefined on inp
+ut line 78.
 
- 
+[1
+Non-PDF special ignored!
+<special> header=pstricks.pro
+Non-PDF special ignored!
+<special> header=pst-algparser.pro
+Non-PDF special ignored!
+<special> header=pst-tools.pro
+Non-PDF special ignored!
+<special> header=pst-dots.pro
+Non-PDF special ignored!
+<special> header=pst-node.pro
+
+Non-PDF special ignored!
+<special> ps: /pssetRGBcolor /setrgbcolor load def /pssetCMYKcolor /setcmyk...
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  tx@NodeDict begin {249.33128 -339.66878 } false...
+Non-PDF special ignored!
+<special> ps:tx@Dict begin { tx@NodeDict begin tx@NodeDict /N@thisCenter kn...
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  PutEnd  end
+ </home/nlisa/course/llb/wipo-unisa/UNISACoatofArms-eps-converted-to.pdf>]
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 2 undefined on inp
+ut line 89.
+
+
+LaTeX Warning: Citation 'rsa12_elect_comm_trans_amend_bill' on page 2 undefined
+ on input line 89.
+
+
+LaTeX Warning: Citation 'eiselen16_ecomm' on page 2 undefined on input line 89.
+
+
+
+LaTeX Warning: Citation 'papadopoulus12_intro_cyberlaw' on page 2 undefined on 
+input line 89.
+
+
+LaTeX Warning: Citation 'buys00_towards_ecomm_policy_sa' on page 2 undefined on
+ input line 89.
+
+
+LaTeX Warning: Citation 'pistorius16_copyright_law_it' on page 2 undefined on i
+nput line 89.
+
+
+LaTeX Warning: Citation 'hamann14_direct_marketing_and_spam_via_ecomms' on page
+ 2 undefined on input line 89.
+
+
+LaTeX Warning: Citation 'pistorius16_domain_names_infringe_tm' on page 2 undefi
+ned on input line 89.
+
+
+Overfull \hbox (65.7627pt too wide) in paragraph at lines 87--91
+[]\T1/cmr/m/n/10.95 , [], [],
+ []
+
+
+Overfull \hbox (48.7476pt too wide) in paragraph at lines 87--91
+[]\T1/cmr/m/n/10.95 , [],
+ []
+
+
+LaTeX Warning: Citation 'rsa00_green_paper_ecomm_sa' on page 2 undefined on inp
+ut line 108.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 2 undefined on inp
+ut line 123.
+
+
+LaTeX Warning: Citation 'rsa12_elect_comm_trans_amend_bill' on page 2 undefined
+ on input line 124.
+
+
+Overfull \hbox (180.55893pt too wide) in paragraph at lines 123--127
+\T1/cmr/m/n/10.95 As per the pro-vi-sions of [sec-tion 2(1)][], to-gether with 
+[sec-tion 2][],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--127
+
+ []
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 2 undefined on inp
+ut line 128.
+
+
+LaTeX Warning: Citation 'rsa12_elect_comm_trans_amend_bill' on page 2 undefined
+ on input line 129.
+
+
+Overfull \hbox (197.55893pt too wide) in paragraph at lines 128--134
+[]\T1/cmr/m/n/10.95 As per the pro-vi-sions of [sec-tion 5(3)][], to-gether wit
+h [sec-tion 3][],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--134
+
+ []
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 2 undefined on inp
+ut line 136.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 2 undefined on inp
+ut line 139.
+
+
+LaTeX Warning: Citation 'rsa12_elect_comm_trans_amend_bill' on page 2 undefined
+ on input line 141.
+
+
+Overfull \hbox (68.72021pt too wide) in paragraph at lines 135--142
+[]\T1/cmr/m/n/10.95 It is un-for-tu-nate in-deed to elab-o-rate on these se-ver
+e short-com-ings of the ECT Act []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--142
+
+ []
+
+[2]
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 3 undefined on inp
+ut line 143.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 3 undefined on inp
+ut line 146.
+
+
+LaTeX Warning: Citation 'rsa12_elect_comm_trans_amend_bill' on page 3 undefined
+ on input line 147.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 3 undefined on inp
+ut line 151.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 3 undefined on inp
+ut line 154.
+
+
+LaTeX Warning: Citation 'rsa12_elect_comm_trans_amend_bill' on page 3 undefined
+ on input line 155.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 3 undefined on inp
+ut line 156.
+
+
+Overfull \hbox (141.31172pt too wide) in paragraph at lines 151--160
+\T1/cmr/m/n/10.95 8][], re-spec-tively. More-over as per [sec-tions 12, 13 & 14
+][],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--160
+
+ []
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 3 undefined on inp
+ut line 161.
+
+
+LaTeX Warning: Citation 'rsa12_elect_comm_trans_amend_bill' on page 3 undefined
+ on input line 162.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 3 undefined on inp
+ut line 168.
+
+
+LaTeX Warning: Citation 'rsa12_elect_comm_trans_amend_bill' on page 3 undefined
+ on input line 169.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 3 undefined on inp
+ut line 170.
+
+
+Overfull \hbox (8.88142pt too wide) in paragraph at lines 168--173
+\T1/cmr/m/n/10.95 21-25 & 26][], the ECT Act []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--173
+
+ []
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 3 undefined on inp
+ut line 175.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 3 undefined on inp
+ut line 176.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 3 undefined on inp
+ut line 177.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 3 undefined on inp
+ut line 178.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 3 undefined on inp
+ut line 179.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 3 undefined on inp
+ut line 181.
+
+
+Overfull \hbox (114.59912pt too wide) in paragraph at lines 174--182
+\T1/cmr/m/n/10.95 ap-pli-ca-bil-ity [sec-tion 42][], re-quired in-for-ma-tion [
+sec-tion 43][],
+ []
+
+
+Overfull \hbox (96.63153pt too wide) in paragraph at lines 174--182
+\T1/cmr/m/n/10.95 ni-ca-tions [sec-tion 45][], roles and per-form-ers [sec-tion
+ 46][],
+ []
+
+
+Overfull \hbox (81.71764pt too wide) in paragraph at lines 174--182
+\T1/cmr/m/n/10.95 ap-pli-ca-bil-ity of pro-tec-tion ir-re-spec-tive of for-eign
+ law and non-exclusion [sec-tion 47 & 48][]. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--182
+
+ []
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 3 undefined on inp
+ut line 185.
+
+
+LaTeX Warning: Citation 'rsa13_popi' on page 3 undefined on input line 187.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 3 undefined on inp
+ut line 191.
+
+
+LaTeX Warning: Citation 'rsa12_elect_comm_trans_amend_bill' on page 3 undefined
+ on input line 192.
+
+
+LaTeX Warning: Citation 'rsa12_ect_adr' on page 3 undefined on input line 195.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 3 undefined on inp
+ut line 195.
+
+
+Overfull \hbox (196.27948pt too wide) in paragraph at lines 191--198
+\T1/cmr/m/n/10.95 As per the pro-vi-sions of [chap-ter X][], to-gether with [se
+c-tions 28-35][],
+ []
+
+
+Overfull \hbox (65.41084pt too wide) in paragraph at lines 191--198
+\T1/cmr/m/n/10.95 than ad-e-quately ad-dressed. More-over to-gether with [], th
+e ECT Act []
+ []
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 3 undefined on inp
+ut line 201.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 3 undefined on inp
+ut line 204.
+
+
+LaTeX Warning: Citation 'rsa12_elect_comm_trans_amend_bill' on page 3 undefined
+ on input line 205.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 3 undefined on inp
+ut line 206.
+
+
+LaTeX Warning: Citation 'rsa12_elect_comm_trans_amend_bill' on page 3 undefined
+ on input line 207.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 3 undefined on inp
+ut line 208.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 3 undefined on inp
+ut line 210.
+
+
+Overfull \hbox (104.59555pt too wide) in paragraph at lines 201--211
+\T1/cmr/m/it/10.95 con-duit' \T1/cmr/m/n/10.95 [sec-tion 73][] to-gether with [
+sec-tion 38][],
+ []
+
+
+Overfull \hbox (148.63168pt too wide) in paragraph at lines 201--211
+\T1/cmr/m/it/10.95 `caching pur-poses' \T1/cmr/m/n/10.95 [sec-tion 74][] to-get
+her with [sec-tion 39][]
+ []
+
+
+Overfull \hbox (26.72304pt too wide) in paragraph at lines 201--211
+\T1/cmr/m/n/10.95 cludes ser-vice providers' obli-ga-tion from mon-i-tor-ing da
+ta, as per [sec-tion 78][]. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--211
+
+ []
+
+[3]
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 4 undefined on inp
+ut line 212.
+
+
+LaTeX Warning: Citation 'rsa12_elect_comm_trans_amend_bill' on page 4 undefined
+ on input line 213.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 4 undefined on inp
+ut line 215.
+
+
+LaTeX Warning: Citation 'rsa12_elect_comm_trans_amend_bill' on page 4 undefined
+ on input line 216.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 4 undefined on inp
+ut line 218.
+
+
+LaTeX Warning: Citation 'rsa12_elect_comm_trans_amend_bill' on page 4 undefined
+ on input line 219.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 4 undefined on inp
+ut line 221.
+
+
+LaTeX Warning: Citation 'rsa12_elect_comm_trans_amend_bill' on page 4 undefined
+ on input line 222.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 4 undefined on inp
+ut line 224.
+
+
+LaTeX Warning: Citation 'rsa12_elect_comm_trans_amend_bill' on page 4 undefined
+ on input line 225.
+
+
+Overfull \hbox (142.97462pt too wide) in paragraph at lines 212--227
+[]\T1/cmr/m/n/10.95 As per [chap-ter XII][], to-gether with [sec-tions 43-45][]
+,
+ []
+
+
+Overfull \hbox (42.101pt too wide) in paragraph at lines 212--227
+\T1/cmr/m/n/10.95 the Act makes for ad-e-quate pro-vi-sion in terms of ``cy-ber
+ in-spec-tors''. [Sec-tion 86][]
+ []
+
+
+Overfull \hbox (0.75641pt too wide) in paragraph at lines 212--227
+\T1/cmr/m/n/10.95 tho-rised ac-cess to, in-ter-cep-tion of or in-ter-fer-ence w
+ith data; [sec-tion 87][]
+ []
+
+
+Overfull \hbox (0.12004pt too wide) in paragraph at lines 212--227
+\T1/cmr/m/n/10.95 to-gether with [sec-tion 49][] ad-dresses is-sues per-tain-in
+g to com-
+ []
+
+
+Overfull \hbox (153.67722pt too wide) in paragraph at lines 212--227
+\T1/cmr/m/n/10.95 and abet-ting; lastly [sec-tion 89][] to-gether with [sec-tio
+n 51][]
+ []
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 4 undefined on inp
+ut line 230.
+
+
+LaTeX Warning: Citation 'rsa12_elect_comm_trans_amend_bill' on page 4 undefined
+ on input line 234.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 4 undefined on inp
+ut line 237.
+
+
+LaTeX Warning: Citation 'rsa12_elect_comm_trans_amend_bill' on page 4 undefined
+ on input line 238.
+
+
+Overfull \hbox (94.98642pt too wide) in paragraph at lines 230--241
+\T1/cmr/m/n/10.95 them into ac-count as per the pro-vi-sions of [sec-tion 3(d) 
+& sec-tion 10(2)(b)(iii-iv)][].
+ []
+
+
+Overfull \hbox (88.1649pt too wide) in paragraph at lines 230--241
+\T1/cmr/m/n/10.95 laws and guide-lines of other ju-ris-dic-tions and in-ter-na-
+tional bod-ies. Fi-nally, [chap-ter XIV][],
+ []
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 4 undefined on inp
+ut line 249.
+
+
+LaTeX Warning: Citation 'un96_uncitral_model_law_ecomm' on page 4 undefined on 
+input line 251.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--254
+
+ []
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 4 undefined on inp
+ut line 259.
+
+
+LaTeX Warning: Citation 'un96_uncitral_model_law_ecomm' on page 4 undefined on 
+input line 260.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--261
+
+ []
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 4 undefined on inp
+ut line 262.
+
+
+LaTeX Warning: Citation 'un96_uncitral_model_law_ecomm' on page 4 undefined on 
+input line 264.
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 4 undefined on inp
+ut line 265.
+
+
+Overfull \hbox (95.49072pt too wide) in paragraph at lines 262--266
+\T1/cmr/m/n/10.95 posed by elec-tron-ics com-merce with re-gards to the car-ria
+ge of goods [ar-ti-cles 16 & 17][],
+ []
+
+
+LaTeX Warning: Citation 'rsa02_elect_comm_trans_act' on page 4 undefined on inp
+ut line 270.
+
+
+LaTeX Warning: Citation 'hipssa13_elec_trans_ecom_sadc_model_law' on page 4 und
+efined on input line 272.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--277
+
+ []
+
+[4]
+
+LaTeX Warning: Empty bibliography on input line 282.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 283.
+[5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 283.
+ (./NLisa_IPSP078_01_641343.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 283.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 283.
+
+
+Package rerunfilecheck Warning: File `NLisa_IPSP078_01_641343.out' has changed.
+
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `NLisa_IPSP078_01_641343.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  14035640581B97D6F7B21159AECFAEE2;1525.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                NLisa_IPSP078_01_641343
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'NLisa_IPSP078_01_641343.run.xml'.
+\openout1 = `NLisa_IPSP078_01_641343.run.xml'.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 283.
+ ) 
 Here is how much of TeX's memory you used:
- 23302 strings out of 492642
- 403553 string characters out of 6135566
- 846003 words of memory out of 5000000
- 26889 multiletter control sequences out of 15000+600000
- 10992 words of font info for 37 fonts, out of 8000000 for 9000
+ 23583 strings out of 492642
+ 408592 string characters out of 6135566
+ 852003 words of memory out of 5000000
+ 27126 multiletter control sequences out of 15000+600000
+ 20857 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,6n,43p,946b,796s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 43i,8n,43p,946b,796s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/t
+exmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public
+/cm-super/sfbx1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1
+200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/texmf-dist
+/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/pu
+blic/cm-super/sfrm0900.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/s
+frm1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></u
+sr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf-
+dist/fonts/type1/public/cm-super/sfti1095.pfb>
+Output written on NLisa_IPSP078_01_641343.pdf (5 pages, 281805 bytes).
+PDF statistics:
+ 101 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
+ 21 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+

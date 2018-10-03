@@ -3,7 +3,7 @@
 #+AUTHOR: Nyameko Lisa
 #+DATE: 30 September 2018
 #+SUBTITLE: Assignment 2: 724205
-
+#+LATEX_HEADER: \pagenumbering{roman}
 #+LATEX_HEADER: \usepackage[margin=0.80in]{geometry}
 #+LATEX_HEADER: \usepackage[backend=biber, style=ieee, url=false]{biblatex}
 #+LATEX_HEADER: \usepackage{float}
@@ -11,6 +11,7 @@
 #+LATEX_HEADER: \usepackage[capitalise]{cleveref}
 #+LATEX_HEADER: \usepackage{pst-node,transparent,ragged2e}
 #+LATEX_HEADER: \addbibresource{/home/nlisa/.spacemacs.d/org-files/bibliography.bib}
+#+LATEX_HEADER: \addbibresource{bibliography.bib}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
 #+LATEX_HEADER: \DeclareFieldFormat[misc]{citetitle}{#1}
@@ -56,12 +57,12 @@
 ** NOTE
 Please note that footnotes will be denoted as [fn::This is a footnote.] and will
 appear at the bottom of the page.\\
-References will be denoted by cite:rsa93_tm_act and will appear at the end of the document.
+References will be denoted by cite:Cachalia15_spring_forest_v_wilberry and will appear at the end of the document.
 \newpage
 
+\pagenumbering{arabic}
 
 * Question 1 [25]
-cite:papadopoulus12_intro_cyberlaw,buys00_towards_ecomm_policy_sa,hamann14_direct_marketing_and_spam_via_ecomms,eiselen16_ecomm,gereda16_elec_comms_trans_act,pistorius16_copyright_law_it,pistorius16_domain_names_infringe_tm,un96_uncitral_model_law_ecomm,comesa10_model_law_on_e_trans,rsa00_green_paper_ecomm_sa,hipssa13_elec_trans_ecom_sadc_model_law,rsa12_elect_comm_trans_amend_bill,rsa12_ect_adr,rsa02_elect_comm_trans_act
 
 The following discussions pertain to citetitle:Cachalia15_spring_forest_v_wilberry
 cite:Cachalia15_spring_forest_v_wilberry,
@@ -69,7 +70,7 @@ cite:Cachalia15_spring_forest_v_wilberry,
 ** Briefly state the facts of the case. (5)
 
 This case is an appeal from a decision of the high court, KwaZulu-Natal, Durban
-(Judge Madondo) granting interim relief pendente lite following an urgent
+(Judge Madondo) granting interim /`pendente lite relief'/ following an urgent
 application by Wilberry (Pty) Ltd t/a as Ecowash *the respondent*, against Spring
 Forest Trading 599 CC *the appellant*, and Combined Motor Holdings Limited t/a
 The Green Machine (CMH)[fn::Cited here as it has an interest in the relief
@@ -80,12 +81,12 @@ cancellation of several agreements in which the applicant leased
 MDU's[fn::Mobile Dispensing Units.] from the respondent, which the applicant
 required for use in its mobile car wash business. The agreement included a
 non-variation clause stipulating that changes to or cancellation of the
-agreement would only be effective if reduced to writing and signed by both
-parties, and afforded the appellant the right to promote, operate and lease out
+agreement would only be effective if recorded in writing and signed by both
+parties, and it also afforded the appellant the right to promote, operate and lease out
 the respondent's MDU's to third parties.\\
 
 The appellant subsequently reneged on its rental obligations in terms of the
-agreement, and after negotiations the parties had reached a verbal understanding
+agreement and after negotiations the parties had reached a verbal understanding
 to cancel the standing agreements. The terms of the cancellation of the
 agreements, were recorded in a series of email correspondences between the
 respective representative(s) for the respondent Mr Nigel Keirby-Smith and those
@@ -102,12 +103,12 @@ signed by both parties*. As per the provisions of [sections 11, 12 and
 13]cite:rsa02_elect_comm_trans_act, statutory regulations of the Republic
 afford legal recognition to transactions concluded electronically via email. The
 SCA[fn::Supreme Court of Appeals.] was required to consider whether the dispute
-arising from the exchange of emails between the parties, indeed satisfy the
+arising from the exchange of emails between the parties, did indeed satisfy the
 *writing* [section 12]cite:rsa02_elect_comm_trans_act and *signature* [section
 13]cite:rsa02_elect_comm_trans_act requirements, thereby constituting legal
 consensual cancellation.\\
 
-The appellant settled the rental in arrears, but continued its car washing
+The appellant settled the rental fees which were, but continued its car washing
 operations at the locations of the rental agreements, arguing that it was
 entitled to do so as the agreements between itself and the respondent had been
 effectively canceled. The appellant then entered into subsequent agreements with
@@ -151,14 +152,90 @@ demonstrated that the requirement is indeed met if a method of electronic
 signature used to identify a party and indicate their approval of the contained
 information [section 13(3)(a)]cite:rsa02_elect_comm_trans_act, and that the method
 was indeed `appropriately reliable' for the intended purposes of the information
-communicated. In the SCA's analysis of [section 13(3)]cite:rsa02_elect_comm_trans_act, Justice
-Cachali argued cite:Cachalia15_spring_forest_v_wilberry:
+communicated [section 13(3)(b)]cite:rsa02_elect_comm_trans_act. In the SCA's analysis of [section 13(3)]cite:rsa02_elect_comm_trans_act, Justice
+Cachali argued [paragraph 19]cite:Cachalia15_spring_forest_v_wilberry:
 #+BEGIN_QUOTE
 \textit{‘The respondent submits that the phrase: “Where the signature of a person is required by law” (emphasis added) in s 13(1) it should be interpreted not only to include formalities required by statute but must also incorporate instances where parties to an agreement impose their own formalities on a contract, as in this case. And, so the contention goes, because the parties required their signatures for the contracts to be cancelled the requirement could only be satisfied by the use of an advanced electronic signature as contemplated in s 13(1), which did not occur in this case.’}
 #+END_QUOTE
+
+The SCA ordered that the appeal be upheld with costs, and that the order of the
+HC be set aside and dismissed with costs [paragraph 32]cite:Cachalia15_spring_forest_v_wilberry.
+
 ** What is the impact of the case on the law? (5)
 
+The SCA held that courts seek to determine whether the method of signature used
+fulfills the function of a signature which is to authenticate the identity of a
+signatory and to appropriately validate it's authenticity, rather than insisting
+on the form a signature may assume. The judgment held that the approach of
+courts has in general been pragmatic and not overly formal, citing a case
+[paragraph 148F-G]cite:elec_signa63_putter_v_provincial_insurance where
+the courts have accepted any mark made by a person attesting to a document
+[paragraph 25]cite:Cachalia15_spring_forest_v_wilberry:
+#+BEGIN_QUOTE
+\textit{`In the days before electronic communication, the courts were willing to accept any mark made by a person for the purpose of attesting a document, or identifying it as his act, to be a valid signature. They went even further and accepted a mark made by a magistrate for a witness, whose participation went only as far as symbolically touching the magistrate’s pen.'}
+#+END_QUOTE
+
+The SCA held that the typed written names of the respective parties appearing at
+the foot of the emails in question, were indeed intended to identify the
+parties, amounted to data that was logically associated with data in the body of
+the emails, and thus constituting legal electronic signatures, [paragraph 29]cite:Cachalia15_spring_forest_v_wilberry:
+#+BEGIN_QUOTE
+\textit{`There is no dispute regarding the reliability of the emails, the accuracy of the information communicated or the identities of the persons who appended their names to the emails. On the contrary, as I have found earlier, the emails clearly and unambiguously evinced an intention by the parties to cancel their agreements. It ill-behoves the respondent, which responded to clear questions by email itself, to now rely on the non-variation clauses to escape the consequences of its commitments made at the meeting on 25 February 2013 which were later confirmed by email.'}
+#+END_QUOTE
+
+Given that the SCA upheld the appeal, finding that the email cancellation of the
+agreements in question was indeed valid, raises the important and difficult
+question of whether courts of the Republic would hold a similar view in terms of
+an agreement canceled via other electronic instant text messaging platforms and
+social media, such as SMS[fn::Short Message Services.], WhatsApp, FaceBook
+status updates, Twitter, etc...
+
 ** What are the opinions of other authors regarding the principle discussed in the case? (5)
+
+With reference to [section 13]cite:rsa02_elect_comm_trans_act Shumani L. Gereda
+cite:gereda16_elec_comms_trans_act, argued that where contracting parties failed
+or neglected to agree on the electronic signature to be used, the presumption is
+that the requirement of a signature is met if a method is used to identify the
+person (who has purportedly `signed' the electronic communication) and to
+indicate said person's approval of the data message. Such intent can be made by
+any means from which said person's intent can be inferred.\\
+
+In the newsletter for Sonnenberg Property & Legal Advice cite:fritz_sonnenberg,
+Fritz Sonnenberg advises how the precedent established by the  findings of the
+SCA would be applicable to most contracts (including residential and commercial
+leases), where electronic communications are used to effect changes. However
+electronic signatures cannot be used for long-term[fn::Exceeding 20 years.]
+lease of land, the signing of a will, agreements for the sale of immovable
+property and bills of exchange. Adding that it would be beneficial to include a
+clause in an agreement stipulating the nature of electronic communications that
+will constitute acceptable means of written communications. Lastly he advises
+that one should ensure email communications should be signed if one requires
+them to be binding, and one should explicitly declare that they are not binding
+should one not want them to be bound.\\
+
+Simone Dickson, a director at the firm Cliffe Dekker Hofmeyer provides similar
+advise cite:simone_dickson, advising contracting parties to be cognizant of the
+SCA's judgment and to carefully consider any electronic communications between
+themselves. Moreover she advises that parties include express provisions in the
+contract which clearly regulate how electronic communications will apply in
+order to avoid disputes and ambiguity.\\
+
+Ryan Tucker of RM Tucker Attorneys, also provides similar advise cite:rmtucker,
+clarifying and reiterating that contract negotiators making amendments to, or
+canceling agreements via email, or other electronic means, with a simple
+signature at the foot of the message will be sufficient to effect such
+amendments/cancellations, unless one explicitly imposes more stringent
+requirements in their agreements.\\
+
+In additional to the above considerations, attorneys from Abrahams & Gross
+explicitly enumerate cite:abgross the laws/transactions to which [section 12 and
+13]cite:rsa02_elect_comm_trans_act are not applicable, where variations and/or
+cancellations must be effected in the traditional manner written on paper and
+signed by hand:
+- Wills Act 7 of 1953 (Wills);
+- Alienation of Land Act 68 of of 1981 (An agreement for alienation/sale of immovable property and an agreement for the long terms lease of immovable property in excess of 20 years as provided for in the aforesaid act);
+- Bills of Exchange Act 34 of 1964 (bills of exchange); and
+- Stamp Duties Act 77 of 1968 (stamp duties).
 
 * Bibliography                                                       :ignore:
 \printbibliography

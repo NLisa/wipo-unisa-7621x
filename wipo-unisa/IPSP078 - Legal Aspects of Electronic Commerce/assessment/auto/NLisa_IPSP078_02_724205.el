@@ -38,15 +38,16 @@
     "transparent"
     "ragged2e")
    (LaTeX-add-labels
-    "sec:org6344f9a"
-    "sec:org45f3e37"
-    "sec:org33e40d2"
-    "sec:org5a2b872"
-    "sec:org351e88d"
-    "sec:org287d0ea"
-    "sec:orgc00f50c"
-    "sec:org294430b")
+    "sec:org9b769f5"
+    "sec:orgd1c97ec"
+    "sec:org1a65305"
+    "sec:org1b4b8fb"
+    "sec:org6f73a0b"
+    "sec:org476c79e"
+    "sec:org8a9b93b"
+    "sec:orgb0c03e5")
    (LaTeX-add-bibliographies
-    "/home/nlisa/.spacemacs.d/org-files/bibliography"))
+    "/home/nlisa/.spacemacs.d/org-files/bibliography"
+    "bibliography"))
  :latex)
 
