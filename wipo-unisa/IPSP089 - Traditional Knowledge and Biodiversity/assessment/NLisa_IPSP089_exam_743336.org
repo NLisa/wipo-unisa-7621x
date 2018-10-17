@@ -1,7 +1,7 @@
 * LaTeX Preamble                                                     :ignore:
-#+TITLE: IPSP066 - Internet Aspects of Copyright and Trade Marks
+#+TITLE: IPSP089 - Legal Aspects of Traditional Knowledge and Biodiversity
 #+AUTHOR: Nyameko Lisa
-#+DATE: 18 May 2018
+#+DATE: 19 October 2018
 #+SUBTITLE: Portfolio Exam: 743336
 
 #+LATEX_HEADER: \usepackage[margin=0.80in]{geometry}
@@ -10,7 +10,7 @@
 #+LATEX_HEADER: \usepackage[super,negative]{nth}
 #+LATEX_HEADER: \usepackage[capitalise]{cleveref}
 #+LATEX_HEADER: \usepackage{pst-node,transparent,ragged2e}
-#+LATEX_HEADER: \addbibresource{/home/nuk3/.spacemacs.d/org-files/bibliography.bib}
+#+LATEX_HEADER: \addbibresource{/home/nlisa/.spacemacs.d/org-files/bibliography.bib}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
 #+LATEX_HEADER: \DeclareFieldFormat[misc]{citetitle}{#1}
@@ -31,7 +31,7 @@
 \centering{
 \pnode(0.5\textwidth,-0.5\textheight){thisCenter}
 \rput(thisCenter){%\transparent{0.25}
-\includegraphics[width=2.7in]{/home/nuk3/course/llb/wipo-unisa/UNISACoatofArms.eps}}}
+\includegraphics[width=2.7in]{/home/nlisa/course/llb/wipo-unisa/UNISACoatofArms.eps}}}
 #+END_EXPORT
 
 #+LaTeX: \justifying
@@ -59,7 +59,43 @@ appear at the bottom of the page.\\
 References will be denoted by cite:rsa93_tm_act and will appear at the end of the document.
 \newpage
 
-* Give a list of
+* Question 1 [25]
+
+Critically analyse this statement:
+
+The concept `traditional knowledge' has many facets and encompasses several
+components. What characterizes traditional knowledge is the fact that,
+generally, it is not produced systematically, but in accordance with the
+individual creator's, or the collective creators' responses to their cultural
+environment and their interaction with it.
+
+* Question 2 [25]
+
+Discuss how traditional crafts are protected. In your answer, refer to relevant
+case studies, also the use of alternative forms of intellectual property in
+dealing with this issue.
+
+* Question 3 [25]
+
+/Read the following statement and answer the question that follows:/
+
+In developed countries, expressions of folklore are generally considered as
+belonging to the public domain. This approach explains why, in the main,
+developed countries generally did not establish a legal protection of the
+manifold national or other communicate interests related to the utilization of
+expressions of folklore.
+
+** Do you agree with the statement? Indicate and explain your reasons. (15)
+
+** Give an indication of what is the position in developing countries. (10)
+
+* Question 4 [25]
+
+Identify the issues relating to the protection of ethnobotanical knowledge. In your answer refer to the following:
+
+** Protection against exploitation of industrial property. (10)
+
+** Protection for exploitation of industrial property. (15)
 
 * Bibliography                                                       :ignore:
 \printbibliography

@@ -1,0 +1,376 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{rsa02_elect_comm_trans_act}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
+           family={{RSA Parliament}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{number}{25}
+      \field{title}{{Electronic Communications and Transactions Act No. 25}}
+      \field{year}{2002}
+      \verb{urlraw}
+      \verb http://www.internet.org.za/ect_act.html
+      \endverb
+      \verb{url}
+      \verb http://www.internet.org.za/ect_act.html
+      \endverb
+      \keyw{iplaw,ia}
+    \endentry
+    \entry{rsa12_elect_comm_trans_amend_bill}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
+           family={{RSA Parliament}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labeltitlesource}{title}
+      \field{number}{25}
+      \field{title}{{Electronic Communications and Transactions Amendment Bill}}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://www.ellipsis.co.za/electronic-communications-and-transactions-amendment-bill/
+      \endverb
+      \verb{url}
+      \verb https://www.ellipsis.co.za/electronic-communications-and-transactions-amendment-bill/
+      \endverb
+      \keyw{iplaw,ia}
+    \endentry
+    \entry{rsa78_copyrightact}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
+           family={{RSA Parliament}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labeltitlesource}{title}
+      \field{title}{{Copyright Act No. 98}}
+      \field{year}{1978}
+      \keyw{iplaw,cr}
+    \endentry
+    \entry{wto17_trips}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=1c1ae8324c0650a3de7978682e3f8969}{%
+           family={{WTO}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{1c1ae8324c0650a3de7978682e3f8969}
+      \strng{authornamehash}{1c1ae8324c0650a3de7978682e3f8969}
+      \strng{authorfullhash}{1c1ae8324c0650a3de7978682e3f8969}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labeltitlesource}{title}
+      \field{title}{{Agreement on Trade-Related Aspects of Intellectual Property Rights}}
+      \field{year}{1994}
+      \verb{urlraw}
+      \verb https://www.wto.org/english/tratop_e/trips_e/trips_e.htm
+      \endverb
+      \verb{url}
+      \verb https://www.wto.org/english/tratop_e/trips_e/trips_e.htm
+      \endverb
+      \keyw{iplaw,cr,comp,tm,pat}
+    \endentry
+    \entry{eurlex00_elec_commerce}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=eb8bfc08e2a8d789dcd5659676cd32f2}{%
+           family={{The European Parliament and the Council of the European Union}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{eb8bfc08e2a8d789dcd5659676cd32f2}
+      \strng{authornamehash}{eb8bfc08e2a8d789dcd5659676cd32f2}
+      \strng{authorfullhash}{eb8bfc08e2a8d789dcd5659676cd32f2}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{number}{32000L0031}
+      \field{title}{{Directive 2000/31/EC of the European Parliament and of the Council}}
+      \field{year}{2000}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32000L0031&from=en
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32000L0031&from=en
+      \endverb
+      \keyw{iplaw,cr,ia}
+    \endentry
+    \entry{wipo86_berne}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=7cd85da3dc1ceee3ede6c4b163903fab}{%
+           family={{WIPO}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authornamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authorfullhash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{title}{{Berne Convention for the Protection of Literary and Artistic Works}}
+      \field{year}{1886}
+      \verb{urlraw}
+      \verb http://www.wipo.int/treaties/en/text.jsp?file_id=283698
+      \endverb
+      \verb{url}
+      \verb http://www.wipo.int/treaties/en/text.jsp?file_id=283698
+      \endverb
+      \keyw{iplaw,cr}
+    \endentry
+    \entry{wipo96_copyright_treaty}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=7cd85da3dc1ceee3ede6c4b163903fab}{%
+           family={{WIPO}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authornamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authorfullhash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{title}{{WIPO Copyright Treaty}}
+      \field{year}{1996}
+      \verb{urlraw}
+      \verb http://www.wipo.int/treaties/en/text.jsp?file_id=295166
+      \endverb
+      \verb{url}
+      \verb http://www.wipo.int/treaties/en/text.jsp?file_id=295166
+      \endverb
+      \keyw{iplaw,cr}
+    \endentry
+    \entry{hermann14_direct_marketing_vs_spam}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f1ab905a3bc7fecb484f4a3f50d4279f}{%
+           family={Hermann},
+           familyi={H\bibinitperiod},
+           given={Bernard},
+           giveni={B\bibinitperiod}}}%
+        {{hash=0c2a46e43aac5433a699698aed5d6e8c}{%
+           family={Papadopoulos},
+           familyi={P\bibinitperiod},
+           given={Sylvia},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ec09c1b04344be643a17b77c6340cad8}
+      \strng{fullhash}{ec09c1b04344be643a17b77c6340cad8}
+      \strng{bibnamehash}{ec09c1b04344be643a17b77c6340cad8}
+      \strng{authorbibnamehash}{ec09c1b04344be643a17b77c6340cad8}
+      \strng{authornamehash}{ec09c1b04344be643a17b77c6340cad8}
+      \strng{authorfullhash}{ec09c1b04344be643a17b77c6340cad8}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{De Jure}
+      \field{number}{47}
+      \field{title}{Direct marketing and spam via electronic communicaitons: An analysis of the regulatory framework in South Africa}
+      \field{volume}{1}
+      \field{year}{2014}
+      \field{pages}{42}
+      \range{pages}{1}
+    \endentry
+    \entry{tladi08_reg_unsol_comm}{article}{}
+      \name{author}{1}{}{%
+        {{hash=330b75955614b16717bfeb7360376a45}{%
+           family={Tladi},
+           familyi={T\bibinitperiod},
+           given={Sebo},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{330b75955614b16717bfeb7360376a45}
+      \strng{fullhash}{330b75955614b16717bfeb7360376a45}
+      \strng{bibnamehash}{330b75955614b16717bfeb7360376a45}
+      \strng{authorbibnamehash}{330b75955614b16717bfeb7360376a45}
+      \strng{authornamehash}{330b75955614b16717bfeb7360376a45}
+      \strng{authorfullhash}{330b75955614b16717bfeb7360376a45}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{South African Law Journal}
+      \field{number}{1}
+      \field{title}{The regulation of unsolicited commercial communications (spam): I the Opt-Out Mechanism Effective?}
+      \field{volume}{125}
+      \field{year}{2008}
+      \field{pages}{{172\bibrangedash 192}}
+      \range{pages}{-1}
+    \endentry
+    \entry{rsa08_cpa}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
+           family={{RSA Parliament}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{title}{{Consumer Protection Act No. 68}}
+      \field{year}{2008}
+      \keyw{iplaw,cyberlaw,internet,ecomm}
+    \endentry
+    \entry{rsa13_popi}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
+           family={{RSA Parliament}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labeltitlesource}{title}
+      \field{number}{4}
+      \field{title}{{Protection of Personal Information Act No. 4}}
+      \field{year}{2013}
+      \keyw{cyberlaw,internet,ecomm}
+    \endentry
+    \entry{ca10_anti_spam_act}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=7ee0f89d53f0348b84effdaa0b7c7b2f}{%
+           family={{Statues of Canada}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{7ee0f89d53f0348b84effdaa0b7c7b2f}
+      \strng{authornamehash}{7ee0f89d53f0348b84effdaa0b7c7b2f}
+      \strng{authorfullhash}{7ee0f89d53f0348b84effdaa0b7c7b2f}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labeltitlesource}{title}
+      \field{title}{{Canadian Anti-Spam Legislation}}
+      \field{year}{{(S.C. 2010, c. 23})}
+      \verb{urlraw}
+      \verb https://law-lois.justice.gc.ca/eng/acts/E-1.6/index.html
+      \endverb
+      \verb{url}
+      \verb https://law-lois.justice.gc.ca/eng/acts/E-1.6/index.html
+      \endverb
+      \keyw{iplaw,cyberlaw,ecomms}
+    \endentry
+    \entry{ca85_radio_tv_telecomms_act}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=6f33182924af16ce8c7c9556b0e0d5f5}{%
+           family={{Revised Statues of Canada}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{6f33182924af16ce8c7c9556b0e0d5f5}
+      \strng{authornamehash}{6f33182924af16ce8c7c9556b0e0d5f5}
+      \strng{authorfullhash}{6f33182924af16ce8c7c9556b0e0d5f5}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labeltitlesource}{title}
+      \field{title}{{Canadian Radio-Television and Telecommunications Commission Act}}
+      \field{year}{{(R.S.C. 1985, c. C-22)}}
+      \verb{urlraw}
+      \verb https://law-lois.justice.gc.ca/eng/acts/C-22
+      \endverb
+      \verb{url}
+      \verb https://law-lois.justice.gc.ca/eng/acts/C-22
+      \endverb
+      \keyw{iplaw,cyberlaw,ecomms}
+    \endentry
+    \entry{ca85_comp_act}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=6f33182924af16ce8c7c9556b0e0d5f5}{%
+           family={{Revised Statues of Canada}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{6f33182924af16ce8c7c9556b0e0d5f5}
+      \strng{authornamehash}{6f33182924af16ce8c7c9556b0e0d5f5}
+      \strng{authorfullhash}{6f33182924af16ce8c7c9556b0e0d5f5}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labeltitlesource}{title}
+      \field{title}{{Canadian Competition Act}}
+      \field{year}{{(R.S.C. 1985, c. C-34)}}
+      \verb{urlraw}
+      \verb https://law-lois.justice.gc.ca/eng/acts/C-34
+      \endverb
+      \verb{url}
+      \verb https://law-lois.justice.gc.ca/eng/acts/C-34
+      \endverb
+      \keyw{iplaw,cyberlaw,ecomms}
+    \endentry
+    \entry{ca00_popi_act}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=7ee0f89d53f0348b84effdaa0b7c7b2f}{%
+           family={{Statues of Canada}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{7ee0f89d53f0348b84effdaa0b7c7b2f}
+      \strng{authornamehash}{7ee0f89d53f0348b84effdaa0b7c7b2f}
+      \strng{authorfullhash}{7ee0f89d53f0348b84effdaa0b7c7b2f}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labeltitlesource}{title}
+      \field{title}{{Canadian Personal Information Protection and Electronic Documents Act}}
+      \field{year}{{(S.C. 2000, c. 5)}}
+      \verb{urlraw}
+      \verb https://law-lois.justice.gc.ca/eng/acts/P-8.6
+      \endverb
+      \verb{url}
+      \verb https://law-lois.justice.gc.ca/eng/acts/P-8.6
+      \endverb
+      \keyw{iplaw,cyberlaw,ecomms}
+    \endentry
+    \entry{ca93_telecomms_act}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=7ee0f89d53f0348b84effdaa0b7c7b2f}{%
+           family={{Statues of Canada}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{7ee0f89d53f0348b84effdaa0b7c7b2f}
+      \strng{authornamehash}{7ee0f89d53f0348b84effdaa0b7c7b2f}
+      \strng{authorfullhash}{7ee0f89d53f0348b84effdaa0b7c7b2f}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labeltitlesource}{title}
+      \field{title}{{Canadian Telecommunications Act}}
+      \field{year}{{(S.C. 1993, c. 38)}}
+      \verb{urlraw}
+      \verb https://law-lois.justice.gc.ca/eng/acts/T-3.4
+      \endverb
+      \verb{url}
+      \verb https://law-lois.justice.gc.ca/eng/acts/T-3.4
+      \endverb
+      \keyw{iplaw,cyberlaw,ecomms}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

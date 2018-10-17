@@ -1,16 +1,16 @@
 * LaTeX Preamble                                                     :ignore:
 #+TITLE: IPSP078 - Legal Aspects of Electronic Commerce
 #+AUTHOR: Nyameko Lisa
-#+DATE: 31 August 2018
+#+DATE: 19 October 2018
 #+SUBTITLE: Portfolio Exam: 691859
-
+#+LATEX_HEADER: \pagenumbering{roman}
 #+LATEX_HEADER: \usepackage[margin=0.80in]{geometry}
 #+LATEX_HEADER: \usepackage[backend=biber, style=ieee, url=false]{biblatex}
 #+LATEX_HEADER: \usepackage{float}
 #+LATEX_HEADER: \usepackage[super,negative]{nth}
 #+LATEX_HEADER: \usepackage[capitalise]{cleveref}
 #+LATEX_HEADER: \usepackage{pst-node,transparent,ragged2e}
-#+LATEX_HEADER: \addbibresource{/home/nuk3/.spacemacs.d/org-files/bibliography.bib}
+#+LATEX_HEADER: \addbibresource{/home/nlisa/.spacemacs.d/org-files/bibliography.bib}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{citetitle}{\textit{#1}}
 #+LATEX_HEADER: \DeclareFieldFormat[inproceedings]{title}{\textit{#1}}
 #+LATEX_HEADER: \DeclareFieldFormat[misc]{citetitle}{#1}
@@ -31,7 +31,7 @@
 \centering{
 \pnode(0.5\textwidth,-0.5\textheight){thisCenter}
 \rput(thisCenter){%\transparent{0.25}
-\includegraphics[width=2.7in]{/home/nuk3/course/llb/wipo-unisa/UNISACoatofArms.eps}}}
+\includegraphics[width=2.7in]{/home/nlisa/course/llb/wipo-unisa/UNISACoatofArms.eps}}}
 #+END_EXPORT
 
 #+LaTeX: \justifying
@@ -56,42 +56,202 @@
 ** NOTE
 Please note that footnotes will be denoted as [fn::This is a footnote.] and will
 appear at the bottom of the page.\\
-References will be denoted by cite:rsa93_tm_act and will appear at the end of the document.
+References will be denoted by cite:rsa02_elect_comm_trans_act and a numerically
+organized citation list will appear at the end of the document.
 \newpage
 
+\pagenumbering{arabic}
+* Ofentse approaches you and wants your advise on the following: [25]
 
-* Question 1 [15]
-cite:papadopoulus12_intro_cyberlaw,buys00_towards_ecomm_policy_sa,hamann14_direct_marketing_and_spam_via_ecomms,eiselen16_ecomm,gereda16_elec_comms_trans_act,pistorius16_copyright_law_it,pistorius16_domain_names_infringe_tm,un96_uncitral_model_law_ecomm,comesa10_model_law_+on_e_trans,rsa00_green_paper_ecomm_sa,hipssa13_elec_trans_ecom_sadc_model_law,rsa12_elect_comm_trans_amend_bill,rsa12_ect_adr,rsa02_elect_comm_trans_act
-** List five legal challenges that electronic commerce poses [5].
+As per the provisions of [section 1]cite:rsa02_elect_comm_trans_act together
+with [section 1(q)]cite:rsa12_elect_comm_trans_amend_bill the data base will be
+understood to constitute either *`data'* or a *`data message'*, Ofentse as
+the compiler of the database will be understood to be the *`data controller'*
+and his clients whose personal information constitute the content of the
+database will be understood to be *`data subjects'*.
 
-Electronic commerce poses a number of regulatory challenges, which include but are
-not limited to:
+** The requirements that the databases must meet in order to enjoy copyright protection. (10)
 
-- Taxation Laws
-  - How does one associate electronic transactions with the appropriate
-    territory to determine any applicable taxes?
-  - Do general taxation, VAT, and custom duties regimes apply and how can double
-    taxation be prevented with regards to electronic transactions?
-- Banking Laws and Electronic Payments (Cyber Credit and Crypto-Currencies)
-  - Do banking regulations apply to and is credit provider authorisation a
-    prerequisite for issuing cyber credit?
-   Do crypto-currencies constitute legal tender?
-- Contract Laws and Evidence
-  -
-- Liability
-- Intellectual Property Rights
-- Consumer Protection
-- Privacy Issues
-- Applicable International Private Laws and Jurisdiction
+As per the provisions of [section 1(1)]cite:rsa78_copyrightact in the context of
+copyright law a database i.e. /tables and compilations of data stored or
+embodied in a computer or medium used in conjunction with a computer,/ will be
+considered to be a *`literary work'* and as a such it will be eligible for
+copyright per the provisions of [section 2(1)(a)]cite:rsa78_copyrightact
+provided Ofentse can demonstrate that his database is indeed original, and
+finally as per [section 2(2)]cite:rsa78_copyrightact that the database can be
+recorded in digital data. Furthermore copyright shall be conferred to the
+database if Ofentse can demonstrate that he is a *`qualified person'*, i.e. that
+he is a South African citizen or is domiciled or resident in the Republic
+[section 3(1)(a)]cite:rsa78_copyrightact. \\
 
-** Explain the extent to which the Electronic Communication and Transactions Act of 2002 has address these challenges [10].
+As a Paris Convention Member Statue the provisions of [article
+9(1)]cite:wto17_trips, [section 5]cite:rsa78_copyrightact [article
+1(2)]cite:eurlex00_elec_commerce, [article 5(2)]cite:wipo86_berne and [article
+1(4)]cite:wipo96_copyright_treaty dictate that the statues of the Republic shall
+govern international copyright protection as it pertains to the Internet.
 
-* Compare and contrast the challenges addressed in the ECT Act with the following [10]:
+** The provisions of the Electronic Communications and Transactions Act 2002 which limits the liability of the Internet service providers. (15)
 
-** The UNCITRAL Model on Electronic Commerce of 1996 [5].
+As per the provisions of the ETC Act cite:rsa02_elect_comm_trans_act, a service
+provider is not liable for damages arising from said service provider for
+providing access to information system services or wireless applications
+services [section 70]cite:rsa02_elect_comm_trans_act together with [section
+36]cite:rsa12_elect_comm_trans_amend_bill, or for operating facilities as a
+/`mere conduit'/ [section 73]cite:rsa02_elect_comm_trans_act together with
+[section 38]cite:rsa12_elect_comm_trans_amend_bill, /`caching purposes'/
+[section 74]cite:rsa02_elect_comm_trans_act together with [section
+39]cite:rsa12_elect_comm_trans_amend_bill and /`hosting services'/ [section
+75]cite:rsa02_elect_comm_trans_act. The eligibility for the limitation of
+liability of a service provider is dependent on their membership with a
+recognized Representative body as per [sections 71 and
+72]cite:rsa02_elect_comm_trans_act together with [section
+37]cite:rsa12_elect_comm_trans_amend_bill Moreover the Act explicitly excludes
+service providers' obligation from monitoring data, as per [section
+78]cite:rsa02_elect_comm_trans_act.
 
-** The SADC Model Law on Electronic Transactions and Electronic Commerce of 2012. In your answer briefly explain what impact the SADC Model will have on the South African legislation and those of neighbouring countries [5].
+* Advise the Committee on the following issues [25]:
 
+** Does EduCate's marketing practice constitute spam according to South African law? If so, discuss those legislative provisions and state whether they adequately protect consumers? [15]
+
+Given that the recipients email addresses were retrieved from public websites,
+and that there have been consumers who've lodged complaints against EduCate CC,
+EduCate's bulk email newsletters constitute commercially motivated
+direct-marketing by means of unsolicited electronic communications, thus
+amounting to spam
+cite:hermann14_direct_marketing_vs_spam,tladi08_reg_unsol_comm. As per the
+provisions of [section 45]cite:rsa02_elect_comm_trans_act together with [section
+23]cite:rsa12_elect_comm_trans_amend_bill recipients of unsolicited
+communications are able to opt-out of future communications and may request
+information on where their personal information and contact details were
+obtained. Moreover as per the provisions of [section
+45(3,4)]cite:rsa02_elect_comm_trans_act together with [section
+23]cite:rsa12_elect_comm_trans_amend_bill, anyone failing to comply or
+persisting to send unsolicited commercial communications to a person whose
+advised that such communication is unwelcome, is guilty of an offense and liable
+on conviction to penalties.\\
+
+As per the provisions of [section 11(1, 2)]cite:rsa08_cpa every
+person has the right to privacy which includes the right to restrict unwanted
+direct marketing through retrospective refusal to accept or request
+discontinuance or preemptive blockage of said unsolicited messages. Moreover as
+per the provisions of [section 11(3 - 5)]cite:rsa08_cpa
+consumers may register either a general or specific preemptive block against any
+communications primarily for the purpose of direct marketing.\\
+
+As per the provisions of [section 69(1)]cite:rsa13_popi stipulates that for the
+purposes of direct marketing by any form of electronic communication, the
+processing of personal information of a data subject is prohibited unless the
+data subject has given their consent. Moreover as per [subsections (2, 3) of
+section 69]cite:rsa13_popi a responsible party may approach existing customers
+or prospective consumers on a single occasion provided that said consumers have
+not previously withheld such consent. Lastly as per the provisions of [section
+69(4)]cite:rsa13_popi stipulates that a responsible party must in their
+communications include identifying details of either the sender or party on
+behalf of whom the information has been sent, and a mechanism for the cessation
+of further messages.
+
+** Choose one country that regulates spam in its jurisdiction and give a detailed discussion on the country's initiatives. Also note what SA can learn from that jurisdiction regarding the issues of spam. (10)
+
+Canada's Anti-Spam Legislation cite:ca10_anti_spam_act was enacted on 15
+December 2010 and its purpose is to promote the efficiency and adaptability of
+the Canadian economy [section 3]cite:ca10_anti_spam_act by regulating a range of
+online activities including spam messaging, spyware distribution, fishing,
+fraudulent as well as other deceptive and harmful online threats and practices.
+The legislation adopts a holistic approach in encompassing through
+implementation within this Act amendments to their corresponding legislation:
+the Canadian Radio-Television and Telecommunications Commission Act
+cite:ca85_radio_tv_telecomms_act, the Canadian Competition Act
+cite:ca85_comp_act, the Canadian Personal Information Protection and Electronic
+Documents Act cite:ca00_popi_act and the Canadian Telecommunications Act
+cite:ca93_telecomms_act.\\
+
+The introductory [sections 1 - 5]cite:ca10_anti_spam_act deal with the
+interpretive definitions; conflicting provisions and the precedence of this Act;
+the purpose of the Act, scope and applicability of the Act respectively.
+[Sections 6 - 13]cite:ca10_anti_spam_act detail the *Requirements and
+Prohibitions* related to electronic messages during the conduct of commercial
+activities, namely: unsolicited electronic messages [section
+6]cite:ca10_anti_spam_act, alteration of transmission data [section
+7]cite:ca10_anti_spam_act, installation of computer programs [section
+8]cite:ca10_anti_spam_act, the jurisdiction where the contravention of the
+corresponding sections applies [sections 9, 12]cite:ca10_anti_spam_act, the
+requirements for express consent to perform regulated and prohibited actions
+[section 10]cite:ca10_anti_spam_act, mandatory provision of an unsubscribe
+mechanism with respect to unsolicited messages [section
+11]cite:ca10_anti_spam_act and lastly how the burden of proof vests with the
+alleged perpetrator of a prohibited activity to demonstrate that they indeed had
+express consent to perform said activity [section
+13]cite:ca10_anti_spam_act.\\
+
+*Administrative Monetary Penalties* are articulated in [sections
+14 - 40]cite:ca10_anti_spam_act, namely: the appointment of a designated authority
+[section 14]cite:ca10_anti_spam_act; their authority to demand preservation of
+and notice to produce infringing electronic data [section
+15 - 18]cite:ca10_anti_spam_act; issuance and execution of warrants, including
+details regrading use of force and entry onto private property [section
+19]cite:ca10_anti_spam_act; notification and determination of responsibility for
+the contravention of the prohibitions amounting to violations for which one may
+be found liable to an administrative monetary penalty to the value of $1,000,000
+in the case of an individual and $10,000,000 in the case of any other person,
+are considered in [sections 20 - 26]cite:ca10_anti_spam_act, these sections also
+detail how the penalties are not intended to be punitive, but rather they are
+intended to encourage compliance; the appeals process to the Federal Court of
+Appeals, the recovery of penalties and other amounts, and the rules regarding
+violations are the purview of [sections 27 - 33]cite:ca10_anti_spam_act, including
+/vicarious liability/ where an employer may be liable for violations committed
+by their employee during the course of their employment; general provisions
+regarding judicial powers, rules of procedure, evidence, publication and
+enforcement are dealt with in [sections 34 - 40]cite:ca10_anti_spam_act.\\
+
+Notice and issuance of an *Injunction* is outlined in [section
+41]cite:ca10_anti_spam_act, whilst matters relating to *Offenses* are
+articulated in [section 42 - 46]cite:ca10_anti_spam_act. These include offenses
+resulting from non-compliance [section 42]cite:ca10_anti_spam_act with respect
+to refusal or failure to comply with either a preservation demand [section
+15]cite:ca10_anti_spam_act, presentation notification [section
+17]cite:ca10_anti_spam_act, and/or a warrant issued as per [section
+19(4)]cite:ca10_anti_spam_act; obstruction and falsification of information
+[section 43]; implicit and vicarious liability of directors and officers of
+corporations and employers in general [sections 44 & 45]cite:ca10_anti_spam_act;
+with the monetary details for offenses detailed in [section
+46]cite:ca10_anti_spam_act.\\
+
+With regards to actual litigation and the *Private Right of Action* [sections
+47 - 49]cite:ca10_anti_spam_act deal with the application process; [sections
+50 - 51]cite:ca10_anti_spam_act provide details for the court hearing and their
+respective orders; and [sections 52 - 55]cite:ca10_anti_spam_act describe the
+rules about contraventions and re-viewable conduct. The remaining sections
+details statutory regulations, as well as parliamentary and ministerial roles
+and responsibilities. Where [sections 56 - 61]cite:ca10_anti_spam_act described
+the process for the *Consultation and Disclosure of Information*, be it by an
+organization [section 56 - 57]cite:ca10_anti_spam_act; by a Commission [sections
+58 - 59]cite:ca10_anti_spam_act; by the government of a foreign state [section
+60]cite:ca10_anti_spam_act; and the reports to the Ministry of Industry [section
+61]cite:ca10_anti_spam_act.\\
+
+The Canadian Anti-Spam Law cite:ca10_anti_spam_act is arguably one of the most
+stringent in the world and should conceivably have a significant impact on
+reducing spam, in that it constitutes specific legislation with a targeted
+purpose [section 3]cite:ca10_anti_spam_act, as opposed to a fragmented,
+piecemeal collection of a limited amount of provisions
+cite:hermann14_direct_marketing_vs_spam,tladi08_reg_unsol_comm which are secondary to the aims of the
+statues within which they are contained
+cite:rsa02_elect_comm_trans_act,rsa12_elect_comm_trans_amend_bill,rsa08_cpa,rsa13_popi
+as is the case within the Republic.
+
+* Advise Kate on the following: [25]
+
+** Whether the requirements of an electronic signature have been met by clicking on the icon ``submit order''. (10)
+
+** Does South African law recognize this type of transaction, and what are the legal implications thereof? (10)
+
+** Can she cancel the contract? (5)
+
+* Discuss the following questions regarding the term permanent establishment (PE): [25]
+
+** Describe what the term PE means. (5)
+
+** Explain whether the following constitutes a PE on the Internet: a website; a server; a dependent agent. Refer to authoritative sources. (20)
 
 * Bibliography                                                       :ignore:
 \printbibliography
