@@ -5,7 +5,7 @@
 #+SUBTITLE: Portfolio Exam: 691859
 #+LATEX_HEADER: \pagenumbering{roman}
 #+LATEX_HEADER: \usepackage[margin=0.80in]{geometry}
-#+LATEX_HEADER: \usepackage[backend=biber, style=ieee, url=false]{biblatex}
+#+LATEX_HEADER: \usepackage[backend=biber, style=ieee, url=false, dashed=false]{biblatex}
 #+LATEX_HEADER: \usepackage{float}
 #+LATEX_HEADER: \usepackage[super,negative]{nth}
 #+LATEX_HEADER: \usepackage[capitalise]{cleveref}
@@ -44,7 +44,7 @@
   I know that plagiarism is wrong.\\
   I confirm that this assignment is my own work.\\
   I have acknowledged in the bibliography accompanying the assignment all the sources that I have used.\\
-  I have not directly copied without acknowledgement anything from the Internet or from any other source.\\
+  I have not directly copied without acknowledgment anything from the Internet or from any other source.\\
   I have indicated every quotation and citation in a footnote or bracket linked to that quotation.\\
   I have not allowed anyone else to copy my work and to pass it off as their own work.\\
   I understand that if any unacknowledged copying whatsoever appears in my assignment I will receive zero per cent for the assignment.\\
@@ -251,7 +251,82 @@ as is the case within the Republic.
 
 ** Describe what the term PE means. (5)
 
+A *permanent establishment (PE)* is a fixed place of business through which the
+business of an enterprise is wholly or partially carried on, [article
+5(1)]cite:oecd17_model_tax, generally giving rise to income or value added tax
+(VAT) liability [article 7(1)]cite:oecd17_model_tax in a particular jurisdiction
+resulting from the bilateral tax treaties negotiated for the treatment of
+cross-border commerce. A (PE) is created in terms of a *Double Taxation
+Agreement (DTA)*, falling under the ambit of legislation to be administered by
+an authorized person or commissioner as described in [schedule
+1]cite:rsa97_sars_act, and details the requirements a non-resident enterprise
+must meet under which profits generated through commercial actives in a foreign
+state may subsequently be taxed in said foreign state. As per the provisions of
+[section 1]cite:rsa62_income_tax, which directly refers to [article
+5(2)]cite:oecd17_model_tax, examples of a (PE) include: a place of management; a
+branch; an office; a factory; a workshop; a mine, an oil or gas well, a quarry
+or any other place of extraction of natural resources; while a number of
+exclusions are detailed in [article 5(4)]cite:oecd17_model_tax. A (PE) must satisfy the following prerequisites:
+- *place-of-business test* - there must necessarily exist a distinct premises,
+  equipment or machinery,
+- *permanence test* - this must be established for a minimum prescribed
+  duration, twelve months with respect to a building site or construction or
+  installation project, [article 5(3)]cite:oecd17_model_tax, and
+- *business-activities test* lastly personally of the enterprise or agents on
+  their behalf, must conduct business activities at said place.
+
 ** Explain whether the following constitutes a PE on the Internet: a website; a server; a dependent agent. Refer to authoritative sources. (20)
+
+Adopting an antiquated view one may traditionally describe a *website* as a
+collection of software and electronic data messages or constructs of electronic
+data, as per [section 1]cite:rsa02_elect_comm_trans_act. From such a description
+one `could' argue that a website is intangible and as such cannot alone
+constitute a /place of business/ and thus failing to qualify as a (PE)
+[paragraph 124]cite:oecd17_model_tax. Whereas on
+the other hand, a *server* through which the website is stored and accessible is
+a piece of machinery or equipment having a physical location and may thus
+constitute a /fixed place of business/ as per the commentary to article 5
+[paragraph 123]cite:oecd17_model_tax, and in turn a (PE).\\
+
+Further distinction is required between the enterprises operating the server and
+those that carry on business through the websites hosted on said servers.
+Should an enterprise operating a website, also have at its own
+disposal[fn::Through ownership or lease agreement.], use and operation of the
+server hosting said website, then pending the other requirements the place where
+that server is located could constitute a (PE) [paragraph
+124]cite:oecd17_model_tax, provided it is fixed in that location for a
+sufficient period of time [paragraph 125]cite:oecd17_model_tax.\\
+
+In addition to the already mentioned reservations in establishing whether an
+enterprise operating a website and/or server constitute a (PE), one must also
+consider whether:
+- the business of an enterprise is wholly or partially carried on through such
+  equipment needs to be examined on a case-by-case basis, [paragraph 126]cite:oecd17_model_tax,
+- the computer equipment is automated and that no personnel of that enterprise
+  are required at the location [section 127]cite:oecd17_model_tax,
+- no (PE) may exist where the computer equipment provides preparatory or
+  auxiliary services, for example the advertising goods and services, supplying
+  information, [paragraph 128]cite:oecd17_model_tax, unless these activities are
+  themselves essential and significant core functions of said enterprise [129]cite:oecd17_model_tax,
+
+
+
+During the course of 2015, OECD[fn::Organization for Economic Co-operation and
+Development] published the final version of their BEPS[fn::G20 Base Erosion and
+Profit Shifting] Project cite:oecd15_action7, with the aim of addressing tax
+avoidance strategies that exploit the use of commissionaire arrangements to
+avoid [article 5(5)]cite:oecd17_model_tax, and reliance of specific activity
+exemptions [article 5(4)]cite:oecd17_model_tax. As per the provisions of
+[article 5(5)]cite:oecd17_model_tax a person acting on behalf of a foreign
+enterprise, then that enterprise shall be deemed to be a (PE) within a
+Contracting State, despite not necessarily having a /`fixed place-of-business'/,
+provided said person has and habitually exercises authority to conclude
+contracts, or plays the principle role leading to the conclusion of contracts
+that are routinely concluded without material modification by the enterprise, in
+respect of activities undertaken for that enterprise [paragraph
+31]cite:oecd15_action7. Such a person constitutes a *dependent agent* and in
+such a capacity a dependent agent can indeed constitute a (PE),
+cite:oecd18_additional_guidance.
 
 * Bibliography                                                       :ignore:
 \printbibliography

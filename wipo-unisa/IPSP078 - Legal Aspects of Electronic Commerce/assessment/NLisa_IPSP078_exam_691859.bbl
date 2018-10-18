@@ -221,7 +221,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{South African Law Journal}
       \field{number}{1}
-      \field{title}{The regulation of unsolicited commercial communications (spam): I the Opt-Out Mechanism Effective?}
+      \field{title}{The regulation of unsolicited commercial communications (spam): Is the Opt-Out Mechanism Effective?}
       \field{volume}{125}
       \field{year}{2008}
       \field{pages}{{172\bibrangedash 192}}
@@ -369,6 +369,124 @@
       \verb https://law-lois.justice.gc.ca/eng/acts/T-3.4
       \endverb
       \keyw{iplaw,cyberlaw,ecomms}
+    \endentry
+    \entry{oecd17_model_tax}{book}{}
+      \name{author}{1}{}{%
+        {{hash=bdbed435a416a918aa494017fda4c7fb}{%
+           family={{OECD}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Organisation for Economic Co-operation and Development }%
+      }
+      \strng{namehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{fullhash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{bibnamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorbibnamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authornamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorfullhash}{bdbed435a416a918aa494017fda4c7fb}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Model Tax Convention on Income and on Capital: Condensed Version 2017}}
+      \field{year}{2017}
+      \verb{doi}
+      \verb https://doi.org/https://doi.org/10.1787/mtc_cond-2017-en
+      \endverb
+      \verb{urlraw}
+      \verb https://www.oecd-ilibrary.org/content/publication/mtc_cond-2017-en
+      \endverb
+      \verb{url}
+      \verb https://www.oecd-ilibrary.org/content/publication/mtc_cond-2017-en
+      \endverb
+    \endentry
+    \entry{rsa97_sars_act}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
+           family={{RSA Parliament}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labeltitlesource}{title}
+      \field{title}{{South African Revenue Service Act No. 34}}
+      \field{year}{1997}
+      \keyw{iplaw,cyberlaw,internet,ecomm}
+    \endentry
+    \entry{rsa62_income_tax}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
+           family={{RSA Parliament}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labeltitlesource}{title}
+      \field{title}{{Income Tax Act No. 58}}
+      \field{year}{1962}
+      \keyw{iplaw,cyberlaw,internet,ecomm}
+    \endentry
+    \entry{oecd15_action7}{book}{}
+      \name{author}{1}{}{%
+        {{hash=bdbed435a416a918aa494017fda4c7fb}{%
+           family={{OECD}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{fullhash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{bibnamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorbibnamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authornamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorfullhash}{bdbed435a416a918aa494017fda4c7fb}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Preventing the Artificial Avoidance of Permanent Establishment Status, Action 7 - 2015 Final Report}}
+      \field{volume}{{OECD/G20 Base Erosion and Profit Shifting Project}}
+      \field{year}{2015}
+      \verb{doi}
+      \verb https://doi.org/https://doi.org/10.1787/9789264241220-en
+      \endverb
+      \verb{urlraw}
+      \verb https://www.oecd-ilibrary.org/content/publication/9789264241220-en
+      \endverb
+      \verb{url}
+      \verb https://www.oecd-ilibrary.org/content/publication/9789264241220-en
+      \endverb
+    \endentry
+    \entry{oecd18_additional_guidance}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bdbed435a416a918aa494017fda4c7fb}{%
+           family={{OECD}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{fullhash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{bibnamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorbibnamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authornamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorfullhash}{bdbed435a416a918aa494017fda4c7fb}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Additional Guidance on the Attribution of Profits to Permanent Estrablishments, BEPS ACction 7}}
+      \field{volume}{{OECD/G20 Base Erosion and Profit Shifting Project}}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb http://www.oecd.org/tax/transfer-pricing/additional-guidance-attribution-of-profits-to-permanent-establishments-BEPS-action-7.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.oecd.org/tax/transfer-pricing/additional-guidance-attribution-of-profits-to-permanent-establishments-BEPS-action-7.pdf
+      \endverb
     \endentry
   \enddatalist
 \endrefsection
