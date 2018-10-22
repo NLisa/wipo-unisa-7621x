@@ -72,23 +72,37 @@ database will be understood to be *`data subjects'*.
 
 ** The requirements that the databases must meet in order to enjoy copyright protection. (10)
 
-As per the provisions of [section 1(1)]cite:rsa78_copyrightact in the context of
-copyright law a database i.e. /tables and compilations of data stored or
-embodied in a computer or medium used in conjunction with a computer,/ will be
-considered to be a *`literary work'* and as a such it will be eligible for
-copyright per the provisions of [section 2(1)(a)]cite:rsa78_copyrightact
-provided Ofentse can demonstrate that his database is indeed original, and
-finally as per [section 2(2)]cite:rsa78_copyrightact that the database can be
-recorded in digital data. Furthermore copyright shall be conferred to the
-database if Ofentse can demonstrate that he is a *`qualified person'*, i.e. that
-he is a South African citizen or is domiciled or resident in the Republic
-[section 3(1)(a)]cite:rsa78_copyrightact. \\
-
-As a Paris Convention Member Statue the provisions of [article
+As a Paris Convention Member State the provisions of [article
 9(1)]cite:wto17_trips, [section 5]cite:rsa78_copyrightact [article
 1(2)]cite:eurlex00_elec_commerce, [article 5(2)]cite:wipo86_berne and [article
 1(4)]cite:wipo96_copyright_treaty dictate that the statues of the Republic shall
 govern international copyright protection as it pertains to the Internet.
+Moreover as per the provisions of [section 1(1)]cite:rsa78_copyrightact in the
+context of copyright law a database i.e. /tables and compilations of data stored
+or embodied in a computer or medium used in conjunction with a computer,/ will
+be considered to be a *`literary work'* and as a such it will be eligible for
+copyright per the provisions of [section 2(1)(a)]cite:rsa78_copyrightact
+provided Ofentse can demonstrate that his database is indeed original, and as
+per [section 2(2)]cite:rsa78_copyrightact that the database can be recorded in
+digital data. Furthermore copyright shall be conferred to the database if
+Ofentse can demonstrate that he meets the /`inherent'/ and /`formal'/ or
+/`statutory'/ requirements for copyright to subsist in his work.
+- Inherent Requirements
+  - The requirement of material embodiment is clearly satisfied as the
+    work exists in material, albeit electronic form.
+  - As per [article 9(2)]cite:wto17_trips and [article
+    2]cite:wipo96_copyright_treaty, it can be argued that the database is a
+    /`particular form of expression of thought'/, thus satisfying the
+    requirement of originality.
+- Formal Requirements
+  - It is implied that he is either a citizen of, or domiciled in, or a
+    permanent resident of [section 3(1)(a)]cite:rsa78_copyrightact, a Berne
+    Convention country [section 3, section 37]cite:wipo86_berne, meaning that he
+    was a *qualified person* at the time of creation of the work and thus making
+    him the author.
+  - Moreover it is implied that the work was first made in South Africa,
+    [section 4]cite:rsa78_copyrightact, and therefore meets the statutory
+    requirements for the subsistence of copyright in the work.
 
 ** The provisions of the Electronic Communications and Transactions Act 2002 which limits the liability of the Internet service providers. (15)
 
@@ -128,7 +142,12 @@ obtained. Moreover as per the provisions of [section
 23]cite:rsa12_elect_comm_trans_amend_bill, anyone failing to comply or
 persisting to send unsolicited commercial communications to a person whose
 advised that such communication is unwelcome, is guilty of an offense and liable
-on conviction to penalties.\\
+on conviction to penalties. Moreover as per the provisions of [sections 50 &
+51]cite:rsa02_elect_comm_trans_act together with [section
+26]cite:rsa12_elect_comm_trans_amend_bill, acting as a data controller, all
+electronic requests, collection, collation, processing, storage or disclosure of
+any personal information of their `prospective clients' is prohibited with the
+clients' express written consent.\\
 
 As per the provisions of [section 11(1, 2)]cite:rsa08_cpa every
 person has the right to privacy which includes the right to restrict unwanted
@@ -231,21 +250,149 @@ organization [section 56 - 57]cite:ca10_anti_spam_act; by a Commission [sections
 
 The Canadian Anti-Spam Law cite:ca10_anti_spam_act is arguably one of the most
 stringent in the world and should conceivably have a significant impact on
-reducing spam, in that it constitutes specific legislation with a targeted
-purpose [section 3]cite:ca10_anti_spam_act, as opposed to a fragmented,
-piecemeal collection of a limited amount of provisions
-cite:hermann14_direct_marketing_vs_spam,tladi08_reg_unsol_comm which are secondary to the aims of the
-statues within which they are contained
+reducing spa in that jurisdiction, in that it constitutes specific legislation
+with a targeted purpose [section 3]cite:ca10_anti_spam_act. As opposed to a
+fragmented, piecemeal collection of a limited amount of provisions
+cite:hermann14_direct_marketing_vs_spam,tladi08_reg_unsol_comm which are
+secondary to the aims of the statues within which they are contained
 cite:rsa02_elect_comm_trans_act,rsa12_elect_comm_trans_amend_bill,rsa08_cpa,rsa13_popi
-as is the case within the Republic.
+as is the case with the instruments within the Republic.
 
 * Advise Kate on the following: [25]
 
-** Whether the requirements of an electronic signature have been met by clicking on the icon ``submit order''. (10)
+** Whether the requirements of an electronic signature have been met by clicking on the icon ``Submit Order''. (10)
+
+As per the provisions of [section 1]cite:rsa02_elect_comm_trans_act together
+with [section 1(q)(b)]cite:rsa12_elect_comm_trans_amend_bill, the act of
+clicking the "Submit Order" icon will constitute the generation of a *`data
+message'* in that it is a form of electronic communication stored as a record.
+In the matter citetitle:Cachalia15_spring_forest_v_wilberry
+cite:Cachalia15_spring_forest_v_wilberry, which was an appeal concerning a
+series of emails purporting to the consensual cancellation of the written
+agreements between the parties. Stipulated within those written agreements was
+that `consensual cancellation' to be effected *in writing and signed by both
+parties*. As per the provisions of [sections 11, 12 and
+13]cite:rsa02_elect_comm_trans_act, statutory regulations of the Republic afford
+legal recognition to transactions concluded electronically via email. The
+SCA[fn::Supreme Court of Appeals.] was required to consider whether the dispute
+arising from the exchange of emails between the parties, did indeed satisfy the
+*writing* [section 12]cite:rsa02_elect_comm_trans_act and *signature* [section
+13]cite:rsa02_elect_comm_trans_act requirements, thereby constituting legal
+consensual cancellation.\\
+
+The SCA held that the stipulations for the requirement of an `advanced
+electronic signature' [section 13(1)]cite:rsa02_elect_comm_trans_act did not
+apply to the circumstances of this case, whereas however the less restrictive
+requirements of an 'electronic signature' [section
+13(3)]cite:rsa02_elect_comm_trans_act do indeed apply. Wherein it need only be
+demonstrated that the requirement is indeed met if a method of electronic
+signature used to identify a party and indicate their approval of the contained
+information [section 13(3)(a)]cite:rsa02_elect_comm_trans_act, and that the
+method was indeed `appropriately reliable' for the intended purposes of the
+information communicated [section 13(3)(b)]cite:rsa02_elect_comm_trans_act. In
+the SCA's analysis of [section 13(3)]cite:rsa02_elect_comm_trans_act, Justice
+Cachali argued [paragraph 19]cite:Cachalia15_spring_forest_v_wilberry:
+#+BEGIN_QUOTE
+\textit{‘The respondent submits that the phrase: “Where the signature of a person is required by law” (emphasis added) in s 13(1) it should be interpreted not only to include formalities required by statute but must also incorporate instances where parties to an agreement impose their own formalities on a contract, as in this case. And, so the contention goes, because the parties required their signatures for the contracts to be cancelled the requirement could only be satisfied by the use of an advanced electronic signature as contemplated in s 13(1), which did not occur in this case.’}
+#+END_QUOTE
+The SCA ordered that the appeal be upheld with costs, and that the order of the
+HC be set aside and dismissed with costs [paragraph
+32]cite:Cachalia15_spring_forest_v_wilberry. Similarly as per the provisions of
+[section 13(3)]cite:rsa02_elect_comm_trans_act there did indeed exist a method
+to identify Kate and to indicate her approval of the information communicated:
+during the procurement process she'd read the retailer's terms and conditions,
+and she /`must'/[fn::This is a reasonable assumption considering the manner in
+which online retailers conduct their enterprises.] have been logged in to her
+uniquely registered profile. Moreover that this was as reliable as was
+appropriate for those purposes. Therefore one can conclude that the
+requirements for an electronic signature have indeed been met by clicking the
+`Submit Order' icon.
 
 ** Does South African law recognize this type of transaction, and what are the legal implications thereof? (10)
 
+Within the ambit of American case law in the matter
+citetitle:leval04_register_v_verio, cite:leval04_register_v_verio, the court
+described a click-wrap license with respect to software installation and/or
+usage, even though the license in questions was distinguished from a click-wrap
+license where Judge Pierre N. Leval pointed out that:
+#+BEGIN_QUOTE
+\textit{`Essentially, under a click-wrap agreement licensees are presented with the proposed license terms and forced to expressly and unambiguously manifest either assent or rejection prior to being given access to the product.'}
+#+END_QUOTE
+As per the provisions of [section 11]cite:rsa02_elect_comm_trans_act together
+with those of [section 8]cite:rsa12_elect_comm_trans_amend_bill data messages
+enjoy legal recognition. In addition, as per the provisions of [section
+22(1)]cite:rsa02_elect_comm_trans_act an agreement is not without legal force
+and effect merely because it was concluded either partially or in whole through
+data messages. Moreover as per the provisions of [section
+24]cite:rsa02_elect_comm_trans_act, clicking `Submit Order' constitutes and
+expression of intent or other statement that is legally enforceable in that it
+is in the form of a data message or other electronic means from which one's
+intentions or other statements can be inferred. Lastly, as per the provisions of
+[section 26]cite:rsa02_elect_comm_trans_act acknowledgment of receipt of a data
+massage is not a prerequisite to establish legal effect of that message. It can
+therefore reasonably be argued that these type of transactions are indeed
+recognized in South African law.\\
+
+Referring again to the matter heard in cite:Cachalia15_spring_forest_v_wilberry,
+the SCA held that courts seek to determine whether the method of signature used
+fulfills the function of a signature which is to authenticate the identity of a
+signatory and to appropriately validate it's authenticity, rather than insisting
+on the form a signature may assume. The judgment held that the approach of
+courts has in general been pragmatic and not overly formal, citing a case
+[paragraph 148F-G]cite:elec_signa63_putter_v_provincial_insurance where the
+courts have accepted any mark made by a person attesting to a document
+[paragraph 25]cite:Cachalia15_spring_forest_v_wilberry:
+#+BEGIN_QUOTE
+\textit{`In the days before electronic communication, the courts were willing to accept any mark made by a person for the purpose of attesting a document, or identifying it as his act, to be a valid signature. They went even further and accepted a mark made by a magistrate for a witness, whose participation went only as far as symbolically touching the magistrate’s pen.'}
+#+END_QUOTE
+The SCA held that the typed written names of the respective parties appearing at
+the foot of the emails in question, were indeed intended to identify the
+parties, amounted to data that was logically associated with data in the body of
+the emails, and thus constituting legal electronic signatures, [paragraph 29]cite:Cachalia15_spring_forest_v_wilberry:
+#+BEGIN_QUOTE
+\textit{`There is no dispute regarding the reliability of the emails, the accuracy of the information communicated or the identities of the persons who appended their names to the emails. On the contrary, as I have found earlier, the emails clearly and unambiguously evinced an intention by the parties to cancel their agreements. It ill-behoves the respondent, which responded to clear questions by email itself, to now rely on the non-variation clauses to escape the consequences of its commitments made at the meeting on 25 February 2013 which were later confirmed by email.'}
+#+END_QUOTE
+Given that the SCA upheld the appeal, finding that the email cancellation of the
+agreements in question was indeed valid, raises the important and difficult
+question of whether courts of the Republic would hold a similar view in terms of
+an agreement canceled via other electronic instant text messaging platforms and
+social media, such as SMS[fn::Short Message Services.], WhatsApp, FaceBook
+status updates, Twitter, etc...
+
 ** Can she cancel the contract? (5)
+
+As per the provisions of [section 44(1)(a)]cite:rsa02_elect_comm_trans_act Kate
+is entitled to cancel without reason nor penalty any transaction for the supply of
+goods within seven days after the date of receipt of said goods. Additionally as
+per the provisions of [section 20(1)]cite:rsa08_cpa Kate has the right to return
+/defective/ goods, or as per [sections 19(5) and 20(2)(b)]cite:rsa08_cpa Kate
+has the right to return goods which she did not have a reasonable opportunity to
+inspect before delivery and was effectively denied the right to choose or
+examine the goods as per [section 18]cite:rsa08_cpa. Moreover she is entitled to
+a full refund [section 44(3)]cite:rsa02_elect_comm_trans_act and [section
+20(5)]cite:rsa08_cpa, only being liable for direct costs of returning the
+software as per the stipulations of [section
+44(2)]cite:rsa02_elect_comm_trans_act and [section 20(6)]cite:rsa08_cpa.\\
+
+As per the definitions of [section 53(1)(a)]cite:rsa08_cpa, Kate may argue that
+the software is *`defective'* in that its performance is less than acceptable,
+useful or practicabl,e than persons generally would be reasonably entitled to
+expect in the circumstances. Moreover that the deployment of the software on her
+machine could constitute *`failure'* [section 53(1)(b)]cite:rsa08_cpa, from the
+inability of said software to perform in the intended manner or to the intended
+effect. Additionally as per the provisions of [section 55(2)]cite:rsa08_cpa Kate
+has the right to assume that the software was of good quality, reasonably
+suitable for the purposes for which it was intended, in working order and free
+of any defects.\\
+
+With regards to when Kate can return the goods to the supplier for a refund, it
+is interesting to note the discrepancy with regards to the *`cooling-off period*'
+which is stipulated as *seven days* in the ECT[fn:: Electronic Communications
+and Transactions Act No. 25 of 2002.] [section
+44(1)(b)]cite:rsa02_elect_comm_trans_act and *six months* in the
+CPA[fn::Consumer Protection Act No. 68 of 2008.] [section 56(2)]cite:rsa08_cpa,
+which also stipulates provisions for the repair of defective goods. Kate would
+be strongly advised to cancel the contract within 7 days.
 
 * Discuss the following questions regarding the term permanent establishment (PE): [25]
 
@@ -253,20 +400,20 @@ as is the case within the Republic.
 
 A *permanent establishment (PE)* is a fixed place of business through which the
 business of an enterprise is wholly or partially carried on, [article
-5(1)]cite:oecd17_model_tax, generally giving rise to income or value added tax
-(VAT) liability [article 7(1)]cite:oecd17_model_tax in a particular jurisdiction
+5(1)]cite:oecd17_model_tax, generally giving rise to income or VAT[fn::Value
+added tax.] liability [article 7(1)]cite:oecd17_model_tax in a particular jurisdiction
 resulting from the bilateral tax treaties negotiated for the treatment of
-cross-border commerce. A (PE) is created in terms of a *Double Taxation
-Agreement (DTA)*, falling under the ambit of legislation to be administered by
+cross-border commerce. A PE is created in terms of a DTA[fn::Double taxation
+agreement.], falling under the ambit of legislation to be administered by
 an authorized person or commissioner as described in [schedule
 1]cite:rsa97_sars_act, and details the requirements a non-resident enterprise
 must meet under which profits generated through commercial actives in a foreign
 state may subsequently be taxed in said foreign state. As per the provisions of
 [section 1]cite:rsa62_income_tax, which directly refers to [article
-5(2)]cite:oecd17_model_tax, examples of a (PE) include: a place of management; a
+5(2)]cite:oecd17_model_tax, examples of a PE include: a place of management; a
 branch; an office; a factory; a workshop; a mine, an oil or gas well, a quarry
 or any other place of extraction of natural resources; while a number of
-exclusions are detailed in [article 5(4)]cite:oecd17_model_tax. A (PE) must satisfy the following prerequisites:
+exclusions are detailed in [article 5(4)]cite:oecd17_model_tax. A PE must satisfy the following prerequisites:
 - *place-of-business test* - there must necessarily exist a distinct premises,
   equipment or machinery,
 - *permanence test* - this must be established for a minimum prescribed
@@ -281,35 +428,41 @@ Adopting an antiquated view one may traditionally describe a *website* as a
 collection of software and electronic data messages or constructs of electronic
 data, as per [section 1]cite:rsa02_elect_comm_trans_act. From such a description
 one `could' argue that a website is intangible and as such cannot alone
-constitute a /place of business/ and thus failing to qualify as a (PE)
+constitute a /place of business/ and thus failing to qualify as a PE
 [paragraph 124]cite:oecd17_model_tax. Whereas on
 the other hand, a *server* through which the website is stored and accessible is
 a piece of machinery or equipment having a physical location and may thus
 constitute a /fixed place of business/ as per the commentary to article 5
-[paragraph 123]cite:oecd17_model_tax, and in turn a (PE).\\
+[paragraph 123]cite:oecd17_model_tax, and in turn a PE.\\
 
 Further distinction is required between the enterprises operating the server and
 those that carry on business through the websites hosted on said servers.
 Should an enterprise operating a website, also have at its own
 disposal[fn::Through ownership or lease agreement.], use and operation of the
 server hosting said website, then pending the other requirements the place where
-that server is located could constitute a (PE) [paragraph
+that server is located could constitute a PE [paragraph
 124]cite:oecd17_model_tax, provided it is fixed in that location for a
 sufficient period of time [paragraph 125]cite:oecd17_model_tax.\\
 
 In addition to the already mentioned reservations in establishing whether an
-enterprise operating a website and/or server constitute a (PE), one must also
+enterprise operating a website and/or server constitute a PE, one must also
 consider whether:
 - the business of an enterprise is wholly or partially carried on through such
-  equipment needs to be examined on a case-by-case basis, [paragraph 126]cite:oecd17_model_tax,
+  equipment needs to be examined on a case-by-case basis, [paragraphs 126 and 130]cite:oecd17_model_tax,
 - the computer equipment is automated and that no personnel of that enterprise
   are required at the location [section 127]cite:oecd17_model_tax,
-- no (PE) may exist where the computer equipment provides preparatory or
+- no PE may exist where the computer equipment provides preparatory or
   auxiliary services, for example the advertising goods and services, supplying
   information, [paragraph 128]cite:oecd17_model_tax, unless these activities are
-  themselves essential and significant core functions of said enterprise [129]cite:oecd17_model_tax,
-
-
+  themselves essential and significant core functions of said enterprise
+  [129]cite:oecd17_model_tax,
+- as per the provisions of [paragraph 131]cite:oecd17_model_tax
+  ISPs[fn::Internet service providers.]  cannot constitute dependent agents as
+  they do not have the authority to conclude -at least not regularly- contracts
+  on behalf of enterprises, or they constitute independent agents and as such a
+  PE may never arise in the case of ISPs,
+- as per the provisions of [article 3]cite:oecd17_model_tax a website cannot
+  constitute a dependent agent as it is not itself a person.
 
 During the course of 2015, OECD[fn::Organization for Economic Co-operation and
 Development] published the final version of their BEPS[fn::G20 Base Erosion and
@@ -318,14 +471,14 @@ avoidance strategies that exploit the use of commissionaire arrangements to
 avoid [article 5(5)]cite:oecd17_model_tax, and reliance of specific activity
 exemptions [article 5(4)]cite:oecd17_model_tax. As per the provisions of
 [article 5(5)]cite:oecd17_model_tax a person acting on behalf of a foreign
-enterprise, then that enterprise shall be deemed to be a (PE) within a
+enterprise, then that enterprise shall be deemed to be a PE within a
 Contracting State, despite not necessarily having a /`fixed place-of-business'/,
 provided said person has and habitually exercises authority to conclude
 contracts, or plays the principle role leading to the conclusion of contracts
 that are routinely concluded without material modification by the enterprise, in
 respect of activities undertaken for that enterprise [paragraph
 31]cite:oecd15_action7. Such a person constitutes a *dependent agent* and in
-such a capacity a dependent agent can indeed constitute a (PE),
+such a capacity a dependent agent can indeed constitute a PE,
 cite:oecd18_additional_guidance.
 
 * Bibliography                                                       :ignore:

@@ -65,22 +65,6 @@
       \endverb
       \keyw{iplaw,ia}
     \endentry
-    \entry{rsa78_copyrightact}{misc}{useauthor=false}
-      \name{author}{1}{}{%
-        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
-           family={{RSA Parliament}},
-           familyi={R\bibinitperiod}}}%
-      }
-      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
-      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
-      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
-      \field{labeltitlesource}{title}
-      \field{title}{{Copyright Act No. 98}}
-      \field{year}{1978}
-      \keyw{iplaw,cr}
-    \endentry
     \entry{wto17_trips}{misc}{useauthor=false}
       \name{author}{1}{}{%
         {{hash=1c1ae8324c0650a3de7978682e3f8969}{%
@@ -90,8 +74,8 @@
       \strng{authorbibnamehash}{1c1ae8324c0650a3de7978682e3f8969}
       \strng{authornamehash}{1c1ae8324c0650a3de7978682e3f8969}
       \strng{authorfullhash}{1c1ae8324c0650a3de7978682e3f8969}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labeltitlesource}{title}
       \field{title}{{Agreement on Trade-Related Aspects of Intellectual Property Rights}}
       \field{year}{1994}
@@ -103,6 +87,22 @@
       \endverb
       \keyw{iplaw,cr,comp,tm,pat}
     \endentry
+    \entry{rsa78_copyrightact}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
+           family={{RSA Parliament}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labeltitlesource}{title}
+      \field{title}{{Copyright Act No. 98}}
+      \field{year}{1978}
+      \keyw{iplaw,cr}
+    \endentry
     \entry{eurlex00_elec_commerce}{misc}{useauthor=false}
       \name{author}{1}{}{%
         {{hash=eb8bfc08e2a8d789dcd5659676cd32f2}{%
@@ -112,8 +112,8 @@
       \strng{authorbibnamehash}{eb8bfc08e2a8d789dcd5659676cd32f2}
       \strng{authornamehash}{eb8bfc08e2a8d789dcd5659676cd32f2}
       \strng{authorfullhash}{eb8bfc08e2a8d789dcd5659676cd32f2}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labeltitlesource}{title}
       \field{number}{32000L0031}
       \field{title}{{Directive 2000/31/EC of the European Parliament and of the Council}}
@@ -135,8 +135,8 @@
       \strng{authorbibnamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
       \strng{authornamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
       \strng{authorfullhash}{7cd85da3dc1ceee3ede6c4b163903fab}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labeltitlesource}{title}
       \field{title}{{Berne Convention for the Protection of Literary and Artistic Works}}
       \field{year}{1886}
@@ -157,8 +157,8 @@
       \strng{authorbibnamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
       \strng{authornamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
       \strng{authorfullhash}{7cd85da3dc1ceee3ede6c4b163903fab}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labeltitlesource}{title}
       \field{title}{{WIPO Copyright Treaty}}
       \field{year}{1996}
@@ -236,8 +236,8 @@
       \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
       \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
       \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labeltitlesource}{title}
       \field{title}{{Consumer Protection Act No. 68}}
       \field{year}{2008}
@@ -269,8 +269,8 @@
       \strng{authorbibnamehash}{7ee0f89d53f0348b84effdaa0b7c7b2f}
       \strng{authornamehash}{7ee0f89d53f0348b84effdaa0b7c7b2f}
       \strng{authorfullhash}{7ee0f89d53f0348b84effdaa0b7c7b2f}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labeltitlesource}{title}
       \field{title}{{Canadian Anti-Spam Legislation}}
       \field{year}{{(S.C. 2010, c. 23})}
@@ -291,8 +291,8 @@
       \strng{authorbibnamehash}{6f33182924af16ce8c7c9556b0e0d5f5}
       \strng{authornamehash}{6f33182924af16ce8c7c9556b0e0d5f5}
       \strng{authorfullhash}{6f33182924af16ce8c7c9556b0e0d5f5}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labeltitlesource}{title}
       \field{title}{{Canadian Radio-Television and Telecommunications Commission Act}}
       \field{year}{{(R.S.C. 1985, c. C-22)}}
@@ -313,8 +313,8 @@
       \strng{authorbibnamehash}{6f33182924af16ce8c7c9556b0e0d5f5}
       \strng{authornamehash}{6f33182924af16ce8c7c9556b0e0d5f5}
       \strng{authorfullhash}{6f33182924af16ce8c7c9556b0e0d5f5}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labeltitlesource}{title}
       \field{title}{{Canadian Competition Act}}
       \field{year}{{(R.S.C. 1985, c. C-34)}}
@@ -335,8 +335,8 @@
       \strng{authorbibnamehash}{7ee0f89d53f0348b84effdaa0b7c7b2f}
       \strng{authornamehash}{7ee0f89d53f0348b84effdaa0b7c7b2f}
       \strng{authorfullhash}{7ee0f89d53f0348b84effdaa0b7c7b2f}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labeltitlesource}{title}
       \field{title}{{Canadian Personal Information Protection and Electronic Documents Act}}
       \field{year}{{(S.C. 2000, c. 5)}}
@@ -357,8 +357,8 @@
       \strng{authorbibnamehash}{7ee0f89d53f0348b84effdaa0b7c7b2f}
       \strng{authornamehash}{7ee0f89d53f0348b84effdaa0b7c7b2f}
       \strng{authorfullhash}{7ee0f89d53f0348b84effdaa0b7c7b2f}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labeltitlesource}{title}
       \field{title}{{Canadian Telecommunications Act}}
       \field{year}{{(S.C. 1993, c. 38)}}
@@ -369,6 +369,63 @@
       \verb https://law-lois.justice.gc.ca/eng/acts/T-3.4
       \endverb
       \keyw{iplaw,cyberlaw,ecomms}
+    \endentry
+    \entry{Cachalia15_spring_forest_v_wilberry}{inproceedings}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=da4d3ca694465eb49b01bb09211a8ecd}{%
+           family={{JA Cachalia}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {KwaZulu-Natal Local Divsion}%
+      }
+      \strng{authorbibnamehash}{da4d3ca694465eb49b01bb09211a8ecd}
+      \strng{authornamehash}{da4d3ca694465eb49b01bb09211a8ecd}
+      \strng{authorfullhash}{da4d3ca694465eb49b01bb09211a8ecd}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labeltitlesource}{title}
+      \field{title}{{Spring Forest Trading v Wilberry (Pty) Ltd t/a Ecowash Combined Motor Holdings Limited (725/13) [2014] ZASCA 178}}
+      \field{year}{2015}
+      \field{pages}{2 SA 118 (SCA)}
+      \range{pages}{-1}
+      \keyw{cyberlaw,internet,ecomm}
+    \endentry
+    \entry{leval04_register_v_verio}{inproceedings}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=a6eb9eca42142bb1e8c74b1134f85010}{%
+           family={{Pierre N. Leval and John F. Keenan}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{a6eb9eca42142bb1e8c74b1134f85010}
+      \strng{authornamehash}{a6eb9eca42142bb1e8c74b1134f85010}
+      \strng{authorfullhash}{a6eb9eca42142bb1e8c74b1134f85010}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labeltitlesource}{title}
+      \field{title}{{Register.com, Inc. v. Verio, Inc}}
+      \field{year}{{(2d Cir. 2004)}}
+      \field{pages}{356 F.3d 393}
+      \range{pages}{-1}
+      \keyw{cyberlaw,ecomm,iplaw,internet}
+    \endentry
+    \entry{elec_signa63_putter_v_provincial_insurance}{inproceedings}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=2008eb91cfc3e33c56b950b62feef6fa}{%
+           family={{Elec Law Signatures}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{2008eb91cfc3e33c56b950b62feef6fa}
+      \strng{authornamehash}{2008eb91cfc3e33c56b950b62feef6fa}
+      \strng{authorfullhash}{2008eb91cfc3e33c56b950b62feef6fa}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{title}{{Putter v Provincial Insurance Co Ltd \& another}}
+      \field{year}{1963}
+      \field{pages}{(3) SA 145 (W)}
+      \range{pages}{-1}
+      \keyw{cyberlaw,ecomm,iplaw,internet}
     \endentry
     \entry{oecd17_model_tax}{book}{}
       \name{author}{1}{}{%
@@ -385,8 +442,8 @@
       \strng{authorbibnamehash}{bdbed435a416a918aa494017fda4c7fb}
       \strng{authornamehash}{bdbed435a416a918aa494017fda4c7fb}
       \strng{authorfullhash}{bdbed435a416a918aa494017fda4c7fb}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Model Tax Convention on Income and on Capital: Condensed Version 2017}}
@@ -410,8 +467,8 @@
       \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
       \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
       \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labeltitlesource}{title}
       \field{title}{{South African Revenue Service Act No. 34}}
       \field{year}{1997}
@@ -426,8 +483,8 @@
       \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
       \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
       \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labeltitlesource}{title}
       \field{title}{{Income Tax Act No. 58}}
       \field{year}{1962}
@@ -445,8 +502,8 @@
       \strng{authorbibnamehash}{bdbed435a416a918aa494017fda4c7fb}
       \strng{authornamehash}{bdbed435a416a918aa494017fda4c7fb}
       \strng{authorfullhash}{bdbed435a416a918aa494017fda4c7fb}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Preventing the Artificial Avoidance of Permanent Establishment Status, Action 7 - 2015 Final Report}}
@@ -474,8 +531,8 @@
       \strng{authorbibnamehash}{bdbed435a416a918aa494017fda4c7fb}
       \strng{authornamehash}{bdbed435a416a918aa494017fda4c7fb}
       \strng{authorfullhash}{bdbed435a416a918aa494017fda4c7fb}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Additional Guidance on the Attribution of Profits to Permanent Estrablishments, BEPS ACction 7}}

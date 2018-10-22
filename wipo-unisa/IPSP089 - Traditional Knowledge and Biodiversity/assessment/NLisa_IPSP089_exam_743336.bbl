@@ -1,0 +1,497 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{geyer10_towards_clearer_defin_underst_indi}{article}{}
+      \name{author}{1}{}{%
+        {{hash=214ac330a653a80a0dce319dba1c7feb}{%
+           family={Geyer},
+           familyi={G\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{214ac330a653a80a0dce319dba1c7feb}
+      \strng{fullhash}{214ac330a653a80a0dce319dba1c7feb}
+      \strng{bibnamehash}{214ac330a653a80a0dce319dba1c7feb}
+      \strng{authorbibnamehash}{214ac330a653a80a0dce319dba1c7feb}
+      \strng{authornamehash}{214ac330a653a80a0dce319dba1c7feb}
+      \strng{authorfullhash}{214ac330a653a80a0dce319dba1c7feb}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1727-3781}
+      \field{journaltitle}{PER / PELJ}
+      \field{number}{4}
+      \field{title}{{Towards a clearer definition and understanding of "indigenous community" for the purposes of Intellectual Property Laws Amendment Bill 2010: An exploration of the concepts "indigenous" and "traditional"}}
+      \field{volume}{13}
+      \field{year}{2010}
+      \field{pages}{{127\bibrangedash 143}}
+      \range{pages}{-1}
+      \keyw{iplaw,biodiv,tradknow}
+    \endentry
+    \entry{amechi15_leverag_trad_knowl_medicinal}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b991a8ba991f2d14a7b8a5ead3a71619}{%
+           family={Amechi},
+           familyi={A\bibinitperiod},
+           given={Emeka\bibnamedelima Polycarp},
+           giveni={E\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{b991a8ba991f2d14a7b8a5ead3a71619}
+      \strng{fullhash}{b991a8ba991f2d14a7b8a5ead3a71619}
+      \strng{bibnamehash}{b991a8ba991f2d14a7b8a5ead3a71619}
+      \strng{authorbibnamehash}{b991a8ba991f2d14a7b8a5ead3a71619}
+      \strng{authornamehash}{b991a8ba991f2d14a7b8a5ead3a71619}
+      \strng{authorfullhash}{b991a8ba991f2d14a7b8a5ead3a71619}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PER / PERJ}
+      \field{number}{1}
+      \field{title}{Leveraging traditional knowledge on the medicinal uses of plants within the patent system: The digitisation and disclosure of knowledge in South Afica}
+      \field{volume}{18}
+      \field{year}{2015}
+      \keyw{iplaw,biodiv,tradknow,nosg}
+    \endentry
+    \entry{masango10_indigenous_trad_knowl_protect_prospects}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fe69241b0a42e73ab433b16462fa6a69}{%
+           family={Masango},
+           familyi={M\bibinitperiod},
+           given={Charles\bibnamedelima A},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe69241b0a42e73ab433b16462fa6a69}
+      \strng{fullhash}{fe69241b0a42e73ab433b16462fa6a69}
+      \strng{bibnamehash}{fe69241b0a42e73ab433b16462fa6a69}
+      \strng{authorbibnamehash}{fe69241b0a42e73ab433b16462fa6a69}
+      \strng{authornamehash}{fe69241b0a42e73ab433b16462fa6a69}
+      \strng{authorfullhash}{fe69241b0a42e73ab433b16462fa6a69}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{SA Jnl Libs \& Info Sci}}
+      \field{number}{1}
+      \field{title}{Indigenous Traditional Knowledge Protection: Prospects in South Africa's Intellectual Property Framework?}
+      \field{volume}{76}
+      \field{year}{2010}
+      \field{pages}{{74\bibrangedash 80}}
+      \range{pages}{-1}
+      \keyw{iplaw,biodiv,tradknow}
+    \endentry
+    \entry{simelane09_african_trad_knowl_sys_biodiv_manag}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8ddd98eb64485ad4fc9303bec7a8aa2e}{%
+           family={Simelane},
+           familyi={S\bibinitperiod},
+           given={Thokozani},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{8ddd98eb64485ad4fc9303bec7a8aa2e}
+      \strng{fullhash}{8ddd98eb64485ad4fc9303bec7a8aa2e}
+      \strng{bibnamehash}{8ddd98eb64485ad4fc9303bec7a8aa2e}
+      \strng{authorbibnamehash}{8ddd98eb64485ad4fc9303bec7a8aa2e}
+      \strng{authornamehash}{8ddd98eb64485ad4fc9303bec7a8aa2e}
+      \strng{authorfullhash}{8ddd98eb64485ad4fc9303bec7a8aa2e}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Africa Insight}
+      \field{number}{3}
+      \field{title}{African Traditional Knowledge Systems and Biodiversity Management}
+      \field{volume}{39}
+      \field{year}{2009}
+      \field{pages}{{84\bibrangedash 93}}
+      \range{pages}{-1}
+      \keyw{iplaw,biodiv,tradknow}
+    \endentry
+    \entry{rsa78_patents_act}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
+           family={{RSA Parliament}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labeltitlesource}{title}
+      \field{number}{57}
+      \field{title}{{Patents Act No. 57}}
+      \field{year}{1978}
+      \verb{urlraw}
+      \verb http://www.wipo.int/wipolex/en/details.jsp?id=6256
+      \endverb
+      \verb{url}
+      \verb http://www.wipo.int/wipolex/en/details.jsp?id=6256
+      \endverb
+      \keyw{iplaw,pat}
+    \endentry
+    \entry{rsa78_copyrightact}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
+           family={{RSA Parliament}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labeltitlesource}{title}
+      \field{title}{{Copyright Act No. 98}}
+      \field{year}{1978}
+      \keyw{iplaw,cr}
+    \endentry
+    \entry{wto17_trips}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=1c1ae8324c0650a3de7978682e3f8969}{%
+           family={{WTO}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{1c1ae8324c0650a3de7978682e3f8969}
+      \strng{authornamehash}{1c1ae8324c0650a3de7978682e3f8969}
+      \strng{authorfullhash}{1c1ae8324c0650a3de7978682e3f8969}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{title}{{Agreement on Trade-Related Aspects of Intellectual Property Rights}}
+      \field{year}{1994}
+      \verb{urlraw}
+      \verb https://www.wto.org/english/tratop_e/trips_e/trips_e.htm
+      \endverb
+      \verb{url}
+      \verb https://www.wto.org/english/tratop_e/trips_e/trips_e.htm
+      \endverb
+      \keyw{iplaw,cr,comp,tm,pat}
+    \endentry
+    \entry{wipo96_copyright_treaty}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=7cd85da3dc1ceee3ede6c4b163903fab}{%
+           family={{WIPO}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authornamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authorfullhash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{title}{{WIPO Copyright Treaty}}
+      \field{year}{1996}
+      \verb{urlraw}
+      \verb http://www.wipo.int/treaties/en/text.jsp?file_id=295166
+      \endverb
+      \verb{url}
+      \verb http://www.wipo.int/treaties/en/text.jsp?file_id=295166
+      \endverb
+      \keyw{iplaw,cr}
+    \endentry
+    \entry{wipo86_berne}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=7cd85da3dc1ceee3ede6c4b163903fab}{%
+           family={{WIPO}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authornamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authorfullhash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{title}{{Berne Convention for the Protection of Literary and Artistic Works}}
+      \field{year}{1886}
+      \verb{urlraw}
+      \verb http://www.wipo.int/treaties/en/text.jsp?file_id=283698
+      \endverb
+      \verb{url}
+      \verb http://www.wipo.int/treaties/en/text.jsp?file_id=283698
+      \endverb
+      \keyw{iplaw,cr}
+    \endentry
+    \entry{aus95_milpurrurru_v_indofurn}{inproceedings}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=4442e4af0916f53a07fb8ca9a49b98ed}{%
+           family={{Australia}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{4442e4af0916f53a07fb8ca9a49b98ed}
+      \strng{authornamehash}{4442e4af0916f53a07fb8ca9a49b98ed}
+      \strng{authorfullhash}{4442e4af0916f53a07fb8ca9a49b98ed}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{title}{{Milpurrurru v. Indofurn (Pty) Ltd.}}
+      \field{year}{{(1995, A.I.P.C. 91)}}
+      \keyw{cyberlaw,ecomm,iplaw,tradknow}
+    \endentry
+    \entry{rsa93_tm_act}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
+           family={{RSA Parliament}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{number}{194}
+      \field{title}{{Trade Marks Act No. 194}}
+      \field{year}{1993}
+      \verb{urlraw}
+      \verb http://www.wipo.int/wipolex/en/text.jsp?file_id=130446
+      \endverb
+      \verb{url}
+      \verb http://www.wipo.int/wipolex/en/text.jsp?file_id=130446
+      \endverb
+      \keyw{iplaw,tm}
+    \endentry
+    \entry{wipo83_paris_conve_protect_ip}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=7cd85da3dc1ceee3ede6c4b163903fab}{%
+           family={{WIPO}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authornamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authorfullhash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{title}{{Paris Convention for the Protection of Industrial Property}}
+      \field{year}{1883}
+      \verb{urlraw}
+      \verb http://www.wipo.int/treaties/en/text.jsp?file_id=288514
+      \endverb
+      \verb{url}
+      \verb http://www.wipo.int/treaties/en/text.jsp?file_id=288514
+      \endverb
+      \keyw{iplaw,comp,tm,pat,id}
+    \endentry
+    \entry{wipo57_ncl}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=7cd85da3dc1ceee3ede6c4b163903fab}{%
+           family={{WIPO}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authornamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authorfullhash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{edition}{11}
+      \field{title}{{NICE Agreement Concerning the International Classification of Goods and Services for the Purposes of the Registration of Marks}}
+      \field{year}{1957}
+      \verb{urlraw}
+      \verb http://www.wipo.int/nicepub/
+      \endverb
+      \verb{url}
+      \verb http://www.wipo.int/nicepub/
+      \endverb
+      \keyw{pat,tm,iplaw}
+    \endentry
+    \entry{dijkhorst81_atlas_v_pikkewyn}{inproceedings}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=a7a36672d387955a1f6efdae0e547e63}{%
+           family={{J van Dijkhorst}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{a7a36672d387955a1f6efdae0e547e63}
+      \strng{authornamehash}{a7a36672d387955a1f6efdae0e547e63}
+      \strng{authorfullhash}{a7a36672d387955a1f6efdae0e547e63}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labeltitlesource}{title}
+      \field{title}{{Atlas Organic Fertilizers (Pty) Ltd v Pikkewyn Ghwano (Pty) Ltd \& others}}
+      \field{year}{1981}
+      \field{pages}{(2) SA 173 (T)}
+      \range{pages}{-1}
+      \keyw{iplaw,comp}
+    \endentry
+    \entry{wipo96_model_provi_unfair_comp}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=7cd85da3dc1ceee3ede6c4b163903fab}{%
+           family={{WIPO}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authornamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authorfullhash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labeltitlesource}{title}
+      \field{number}{No. 832(E)}
+      \field{title}{{Model Provisions on Protection Against Unfair Competition}}
+      \field{year}{1996}
+      \verb{urlraw}
+      \verb ftp://ftp.wipo.int/pub/library/ebooks/wipopublications/wipo_pub_832(e).pdf
+      \endverb
+      \verb{url}
+      \verb ftp://ftp.wipo.int/pub/library/ebooks/wipopublications/wipo_pub_832(e).pdf
+      \endverb
+      \keyw{iplaw,comp,tm,pat}
+    \endentry
+    \entry{rsa93_designs_act}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=c4232800e53c5e9a204be394cf5ea3fa}{%
+           family={{RSA Parliament}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authornamehash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \strng{authorfullhash}{c4232800e53c5e9a204be394cf5ea3fa}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labeltitlesource}{title}
+      \field{number}{195}
+      \field{title}{{Designs Act No. 195}}
+      \field{year}{1993}
+      \verb{urlraw}
+      \verb http://www.wipo.int/wipolex/en/details.jsp?id=13086
+      \endverb
+      \verb{url}
+      \verb http://www.wipo.int/wipolex/en/details.jsp?id=13086
+      \endverb
+      \keyw{iplaw,id}
+    \endentry
+    \entry{wipo85_model_provi_national_laws_folklore}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=24a0ef0a6269be289db4de9570763de3}{%
+           family={{UNESCO}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{24a0ef0a6269be289db4de9570763de3}
+      \strng{authornamehash}{24a0ef0a6269be289db4de9570763de3}
+      \strng{authorfullhash}{24a0ef0a6269be289db4de9570763de3}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labeltitlesource}{title}
+      \field{number}{No. 832(E)}
+      \field{title}{{Model Provisions for National Laws on the Protection of Expressions of Folklore Against Illicit Exploitation and other Forms of Prejudicial Action}}
+      \field{year}{1985}
+      \verb{urlraw}
+      \verb www.wpipo.int/wipolex/en/details.jsp?id=6714
+      \endverb
+      \verb{url}
+      \verb www.wpipo.int/wipolex/en/details.jsp?id=6714
+      \endverb
+      \keyw{iplaw,comp,tm,pat,cr,biodiv,tradknow}
+    \endentry
+    \entry{saurombe09_protection_indigenous_trad_knowl_through_ip}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8c60a4a551a7e65492fb411d50f5084c}{%
+           family={Saurombe},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8c60a4a551a7e65492fb411d50f5084c}
+      \strng{fullhash}{8c60a4a551a7e65492fb411d50f5084c}
+      \strng{bibnamehash}{8c60a4a551a7e65492fb411d50f5084c}
+      \strng{authorbibnamehash}{8c60a4a551a7e65492fb411d50f5084c}
+      \strng{authornamehash}{8c60a4a551a7e65492fb411d50f5084c}
+      \strng{authorfullhash}{8c60a4a551a7e65492fb411d50f5084c}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of International Commercial Law and Technology}
+      \field{number}{3}
+      \field{title}{The Protection of Indigenous Traditional Knowledge though the Intellectual Property System and the 2008 South African Intellectual Property Law Amendment Bill}
+      \field{volume}{4}
+      \field{year}{2009}
+      \field{pages}{{196\bibrangedash 202}}
+      \range{pages}{-1}
+      \keyw{iplaw,biodiv,tradknow}
+    \endentry
+    \entry{wipo17_pct_ai}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=7cd85da3dc1ceee3ede6c4b163903fab}{%
+           family={{WIPO}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authornamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authorfullhash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labeltitlesource}{title}
+      \field{title}{{Administrative Instructions under the Patent Cooperation Treaty}}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb http://www.wipo.int/pct/en/texts/ai/ai_index.html
+      \endverb
+      \verb{url}
+      \verb http://www.wipo.int/pct/en/texts/ai/ai_index.html
+      \endverb
+      \keyw{pct,iplaw}
+    \endentry
+    \entry{wipo70_pct}{misc}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=7cd85da3dc1ceee3ede6c4b163903fab}{%
+           family={{WIPO}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authornamehash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \strng{authorfullhash}{7cd85da3dc1ceee3ede6c4b163903fab}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labeltitlesource}{title}
+      \field{title}{{Patent Cooperation Treaty}}
+      \field{year}{1970}
+      \verb{urlraw}
+      \verb http://www.wipo.int/pct/en/texts/articles/atoc.html
+      \endverb
+      \verb{url}
+      \verb http://www.wipo.int/pct/en/texts/articles/atoc.html
+      \endverb
+      \keyw{pct,iplaw}
+    \endentry
+    \entry{diemont72_stellwinetrust_v_oudemeester}{inproceedings}{useauthor=false}
+      \name{author}{1}{}{%
+        {{hash=a99b16b2f64d39995d4524f2e5706b00}{%
+           family={{J Diemont}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{a99b16b2f64d39995d4524f2e5706b00}
+      \strng{authornamehash}{a99b16b2f64d39995d4524f2e5706b00}
+      \strng{authorfullhash}{a99b16b2f64d39995d4524f2e5706b00}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{title}{{Stellenbosch Wine Trust Ltd \& another v Oude Meester Group Ltd, Oude Meester Group Ltd v Stellenbosch Wine Trust Ltd \& another}}
+      \field{year}{1972}
+      \field{pages}{(3) SA 152 (C)}
+      \range{pages}{-1}
+      \keyw{iplaw,comp}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -3,6 +3,7 @@
 #+AUTHOR: Nyameko Lisa
 #+DATE: 19 October 2018
 #+SUBTITLE: Portfolio Exam: 743336
+#+LATEX_HEADER: \pagenumbering{roman}
 
 #+LATEX_HEADER: \usepackage[margin=0.80in]{geometry}
 #+LATEX_HEADER: \usepackage[backend=biber, style=ieee, url=false]{biblatex}
@@ -56,46 +57,471 @@
 ** NOTE
 Please note that footnotes will be denoted as [fn::This is a footnote.] and will
 appear at the bottom of the page.\\
-References will be denoted by cite:rsa93_tm_act and will appear at the end of the document.
+References will be denoted by cite:geyer10_towards_clearer_defin_underst_indi and will appear at the end of the document.
 \newpage
+\pagenumbering{arabic}
 
-* Question 1 [25]
+* Critically analyse this statement:
 
-Critically analyse this statement:
+*The concept `traditional knowledge' has many facets and encompasses several components. What characterizes traditional knowledge is the fact that, generally, it is not produced systematically, but in accordance with the individual creator's, or the collective creators' responses to their cultural environment and their interaction with it. [25]*\\
 
-The concept `traditional knowledge' has many facets and encompasses several
-components. What characterizes traditional knowledge is the fact that,
-generally, it is not produced systematically, but in accordance with the
-individual creator's, or the collective creators' responses to their cultural
-environment and their interaction with it.
+Traditional knowledge systems, creations, innovations, or cultural expressions
+refer to /literary, artistic or scientific works, performances, scientific
+inventions or discoveries, designs, marks or symbols/, that have evolved in
+response to a changing environment and are inherited from one generation to
+another within a particular group of people or their territory,
+cite:geyer10_towards_clearer_defin_underst_indi.\\
 
-* Question 2 [25]
+Informal regimes relied on mechanisms based on non-systematic and undocumented
+rules, obligations and rights, that are enforced either by elders or religious
+leaders. These regimes are `self-legitimized'
+cite:amechi15_leverag_trad_knowl_medicinal, within and across the community
+though the accrual of consensus to abide by and adhere to these laws and
+rules.\\
 
-Discuss how traditional crafts are protected. In your answer, refer to relevant
-case studies, also the use of alternative forms of intellectual property in
-dealing with this issue.
+Generally speaking customary law is not recognised by legal institutions outside
+of the relevant communities where they were originally established. The culture
+and history of a people are preserved by the community elders and leaders, who
+are also responsible for determining eligibility and allocation of various arts
+to be practiced amongst the community's artisans, as well as dispute
+resolution, cite:geyer10_towards_clearer_defin_underst_indi.\\
 
-* Question 3 [25]
+Many existing legal frameworks are inadequate at resolving or determining a
+common denominator between the economic interests of commercialisation, and the
+traditional interests of indigenous peoples. Indigenous knowledge is both
+vulnerable to misappropriation under existing industrial property systems and
+subsequent financial exploitation by global drug industries,
+cite:masango10_indigenous_trad_knowl_protect_prospects. All without either
+consent from, or acknowledgement of the indigenous peoples, who /arguably/ could
+be considers the original inventors.\\
 
-/Read the following statement and answer the question that follows:/
+Globalisation has given rise to a reluctance of younger generations to learn the
+traditional and cultural practices, favouring instead the economic interests of
+industrial endeavors. Coupled with the absence of willing heirs and
+participants, means that there is significant risk of loss of the traditional
+and indigenous knowledge should it be inadequately documented and ill-preserved.
+This problem also manifests itself through the forced displacement of indigenous
+traditional communities based on Eurocentric conservation and biodiversity
+management strategies cite:simelane09_african_trad_knowl_sys_biodiv_manag.\\
 
-In developed countries, expressions of folklore are generally considered as
-belonging to the public domain. This approach explains why, in the main,
-developed countries generally did not establish a legal protection of the
-manifold national or other communicate interests related to the utilization of
-expressions of folklore.
+Modern society generally holds a prejudiced view towards traditional and
+indigenous knowledge, denigrating it as `primitive'. This lack of appreciation
+for such knowledge, stems from the indigenous people traditionally exploiting
+the /`effects'/ of their traditional knowledge, rather than describing them in
+terms of the scientific aspects of the molecular and chemical constituents of
+modern biochemical interactions, cite:amechi15_leverag_trad_knowl_medicinal.
+For example with respect to patent registration as per the provisions of
+[section 25(1)] cite:rsa78_patents_act, pharmaceutical companies exploit the
+*`inventive step'* requirement for patents by applying it to their method of
+extraction and isolation of the active chemical components, that give rise to
+said effects.
+
+* Discuss how traditional crafts are protected.
+
+*In your answer, refer to relevant case studies, also the use of alternative
+forms of intellectual property in dealing with this issue. [25]*\\
+
+As per the provisions of [section 1]cite:rsa78_copyrightact traditional crafts
+constitute *`artistic works'* and as such are eligible to enjoy *copyright
+protection* as per the provisions of [section 2(1)(c)]cite:rsa78_copyrightact
+provided that they meet the /`inherent'/ and /`formal'/ or /`statutory'/
+requirements for copyright to subsist in that work:
+- Inherent Requirements
+  - The requirement of material embodiment is clearly satisfied as the
+    work exists in material form.
+  - As per [article 9(2)]cite:wto17_trips and [article
+    2]cite:wipo96_copyright_treaty, generally speaking it can be demonstrated
+    that traditional crafts are a /`particular form of expression of thought'/,
+    thus satisfying the requirement of originality.
+- Formal Requirements
+  - The author(s) of the traditional craft must be a of, or domiciled in, or a
+    permanent resident of a Berne Convention country [section 3, section
+    37]cite:wipo86_berne, meaning that they were a *qualified person* at the time
+    of creation of the work.
+  - Moreover it is implied that the work was first made in the respective Berne
+    member state, by the corresponding indigenous peoples, in the South African
+    context [section 4]cite:rsa78_copyrightact applies, hence the indigenous
+    people may allege that the traditional craft meets the statutory
+    requirements for the subsistence of copyright in the work.
+
+In the Australian matter cite:aus95_milpurrurru_v_indofurn concerning the
+importation by a Perth based company of carpets manufactured in Vietnam, that
+reproduced Aboriginal designs. While the court awarded substantial damages for
+copyright infringement to the Aboriginal artists whose designs had been
+reproduced on the carpets, it was unable to compensate the indigenous community
+whose images were used in culturally inappropriate ways, where the ruling noted
+that copyright legislation is inadequate in recognizing and compensating for the
+communal harm resulting from unauthorized reproduction of indigenous designs:
+#+BEGIN_QUOTE
+\textit{``the statutory remedies do not recognize the infringement of ownership rights of the kind which reside under Aboriginal law in the traditional owners of the dreaming stories'' (at p. 39081)}
+#+END_QUOTE
+As per the definitions of [section 2(1)]cite:rsa93_tm_act and given that the
+Republic is a Paris Convention Member State, [article 15(1)]cite:wto17_trips,
+[article 1(2)]cite:wipo83_paris_conve_protect_ip, it follows that a traditional
+handicraft of an indigenous peoples may be understood to be a *mark*, in that it
+is either a name or sign capable of being represented graphically. Moreover it
+constitutes a *trade mark*, in relation to distinguishing their trade or use
+from other goods or services connected in the course of trade regarding a
+specific /`class of goods'/ as stipulated in cite:wipo57_ncl. And as such as per
+the provisions of [section 9(1)]cite:rsa93_tm_act, it follows that the
+traditional craft may qualify for registration as trade mark, subject to
+limitations, in relation to use within those limitations, and that none of the
+disqualifying conditions are applicable: [paragraphs (1), (4), (5), (8),
+(9), (10) or (11) of section 10]cite:rsa93_tm_act.\\
+
+As per [section 2(4)]cite:rsa93_tm_act, /`use'/ or /`proposed use'/ shall be
+construed as the use of a visual representation of the mark [section
+2(2)(a)]cite:rsa93_tm_act, as pertaining to physical form or other relation in
+terms of goods[section 2(3)(a)]cite:rsa93_tm_act, or as pertaining to the use
+thereof in any relation to the performance of any services[fn::Also referred to
+as service marks, [article 1(2)]cite:wipo83_paris_conve_protect_ip] [section
+2(3)(b)]cite:rsa93_tm_act. Provided that no others claim *priority* to the mark
+at the time of application for registration, then as per [section
+9(2)]cite:rsa93_tm_act, the traditional craft mark in questions shall be
+considered to be capable of distinguishing within the meaning described above.
+Thus also negating the unregistrability conditions of the provisions of
+[paragraphs (2), (3) or (6) of section 10]cite:rsa93_tm_act.\\
+
+Traditional handicrafts fall under the ambit of either *`certification trade
+marks'* [section 42(1)]cite:rsa93_tm_act, [articles 6 and
+6^{bis}]cite:wipo83_paris_conve_protect_ip and [article 15]cite:wto17_trips i.e.
+those trade marks for which the goods and services are certified by any person
+in respect of kind, quality, quantity, intended purpose, value, geographical
+origin of the goods or services or their mode or time of production; or
+*`collective trade marks or geographical indications'* [section
+43(1)]cite:rsa93_tm_act, [articles 6^{quinquies} and
+7^{bis}]cite:wipo83_paris_conve_protect_ip and [articles 22 &
+23]cite:wto17_trips i.e. those trade marks for which their members are
+distinguished by exclusive association. As per the provisions of [section
+43(2)]cite:rsa93_tm_act, geographical names or other indications of geographical
+origin may be registered as collective trade marks.\\
+
+The law of Republic recognizes and grants a general action in the case of
+unlawful competition based on the principles of /lex Aquilia./ As per the
+quotation from Judge van Dijkhorst in the matter
+citetitle:dijkhorst81_atlas_v_pikkewyn, cite:dijkhorst81_atlas_v_pikkewyn, the
+difficulty in establishing an action in the case of unlawful competition is to
+quantify the degree of unfairness and/or dishonesty:
+#+BEGIN_QUOTE
+\textit{``I am not the first nor will I be the last to lament upon the difficulty of determining the dividing line between lawful and unlawful interference with the trade of another…. What is needed is a legal standard firm enough to afford guidance to the Court, yet flexible enough to permit the influence of an inherent sense of fair play''}
+#+END_QUOTE
+Moreover, as per Judge van Dijkstra, the ideal legal instrument is one in which
+the framework for establishing or trying unlawful competition is well defined
+and robust enough to provide adequate direction to the courts, but not so rigid
+as to restrict the sentiment of an environment of fair play and open
+competition.\\
+
+As per [article 10^{bis}]cite:wipo83_paris_conve_protect_ip, where it is
+stipulated that (1) Union member countries must provide adequate protection for
+the nationals against unfair competition; (2) dishonest[fn::Any acts of
+competition contrary to honest practices in industrial or commercial matters.]
+acts of competition constitutes acts of unfair competition; and finally (3) a
+detailed list and description of the forms and nature of acts that would
+constitute unlawful competition.\\
+
+In corroboration to the above [article 1]cite:wipo96_model_provi_unfair_comp
+emphasis es that in the course of industrial or commercial activities an act or
+practice that is contrary to honest practices shall be deemed as an act of
+unfair competition. Moreover cite:wipo96_model_provi_unfair_comp does not
+require the entities to be in direct competition, unlike
+cite:wipo83_paris_conve_protect_ip. The basis for much of the provisions and
+notes of citetitle:wipo96_model_provi_unfair_comp, are based on those
+described in [article 10^{bis}]cite:wipo83_paris_conve_protect_ip, albeit in much
+more detail and specifics.\\
+
+As per [article 40]cite:wto17_trips, members of the World Trade Organization,
+members are free to determine appropriate methods in implements it's provisions,
+moreover regarding competition cite:wto17_trips gives particular attention to
+intellectual property rights, their abuse and subsequent adverse effects in
+relevant markets, trade, transfer and dissemination of technology. Indigenous
+peoples may seek relief from a number of forms of unlawful competition, amongst
+other grounds on the basis of:
+- *Passing off*, in light of any similarities of the traditional handicraft with
+  that of an infringing mark, as per [article
+  10^{bis}(3)(1)]cite:wipo83_paris_conve_protect_ip, [article
+  2(1)]cite:wipo96_model_provi_unfair_comp and [article 16(1)]cite:wto17_trips.
+- /Damage another's goodwill or reputation/, specifically the *Dilution of their
+  goodwill or reputation*, in regard to the lessening of distinctive character
+  or advertising value of the traditional handicraft, as well as the appearance
+  and presentation of the product, as per [article
+  3(2)]cite:wipo96_model_provi_unfair_comp
+- *Unfair competition in respect of secret information*, where another
+  enterprise has unlawfully acquired the information in the manufacture of
+  creation of the traditional handicraft, as per [article 39(2)]cite:wto17_trips
+  and [article 6(1)]cite:wipo96_model_provi_unfair_comp.
+
+As per the definition specified in [section 2]cite:rsa78_patents_act and
+[article 27(1)]cite:wto17_trips, traditional handicrafts need satisfy the provisions for a *`patent'* to be granted under [section 25]cite:rsa78_patents_act, wherein subsection (1) of that section of the Act stipulates that a patent may be granted for a *new* invention, involving an *inventive step* and has application to trade or industry.\\
+
+The content of the concept *`patentable subject-matter'* is usually established
+in the negative sense by statue, i.e. inventions explicitly `excluded' from
+qualification for the purposes of patent protection. Traditional handicrafts
+shall enjoy patent protection provided they neither fall  into any of the
+categories listed under [subsections (2) and (3) of section
+25]cite:rsa78_patents_act, nor those articulated in [articles 27(2) &
+27(3)]cite:wto17_trips, nor those of [articles 4 and
+5]cite:wipo83_paris_conve_protect_ip.\\
+
+Lastly indigenous peoples should also be advised that the legislation makes
+provision for both *`aesthetic designs'* (Part A) as well as *`functional
+designs'* (Part F) *industrial design* registrations, as per the provisions of
+[section 14(1)(a-b)]cite:rsa93_designs_act, for the protection of the physical
+form of articles of manufacture intended to be multiplied by industrial
+processes, [section 14(4)]cite:rsa93_designs_act.
+
+* Read the following statement and answer the question that follows:
+
+*In developed countries, expressions of folklore are generally considered as belonging to the public domain. This approach explains why, in the main, developed countries generally did not establish a legal protection of the manifold national or other communicate interests related to the utilization of expressions of folklore. [25]*
 
 ** Do you agree with the statement? Indicate and explain your reasons. (15)
 
+Yes, I concur with the sentiments of that statement. As per the introductory
+observations in cite:wipo85_model_provi_national_laws_folklore, folklore is an
+important element of a nation's cultural heritage, providing its people with an
+avenue for self-expression and it exists as a means of a country's social
+identity. Traditional expressions have generally been characterized as a broad
+set of oral and or written literary, artistic, religious, scientific,
+technological works and other traditions and productions that are transmitted
+from one generation to another, and whose creators need not necessarily be
+indigenous peoples.\\
+
+With regards to folklore, aspects related to its subject matter, technological
+and methodological content need to be taken into consideration. Thus it is
+important to consider not only protection from a copyright perspective, but also
+the mechanisms of industrial property protection, including patents, trademarks
+and industrial designs cite:saurombe09_protection_indigenous_trad_knowl_through_ip.\\
+
+The need for protection of expressions of folklore arises where the creators or
+rights holders, would need to prevent others from reproducing their creations or
+disseminating them to the public through performance or broadcast, /(i.e. law of
+copyright)/; and to restrict the unauthorized misappropriation of technological
+and methodological ideas, inventions, crafts, designs and carvings, /(i.e. laws
+of patents, trademarks and industrial designs)/
+cite:masango10_indigenous_trad_knowl_protect_prospects. Moreover, informal
+traditional customary regimes may not provide adequate protection against
+cultural, economic or commercial exploitation.\\
+
+Both globalization and the advent of technological telecommunications advances
+in recent history, have lead to the improper exploitation of cultural
+expressions of folklore currently experienced today cite:geyer10_towards_clearer_defin_underst_indi. The misappropriation of the
+intellectual property rights that /`should'/ be enjoyed by a people, resulting
+from their endeavors and accumulated cultural heritage can take a number of
+forms, from commercial exploitation to adaptation and distortion of the original
+works.\\
+
+There exists a clear need for the development of both national and international
+instruments/frameworks, providing legal protection against the exploitation of
+cultural expressions of folklore, without any compensation to their originating
+communities cite:saurombe09_protection_indigenous_trad_knowl_through_ip. Moreover, litigation processes are also required to reclassify
+those expressions of folklore that were previously considered to belong to the
+*public domain*. Not forgetting the subsequent infringement and sanctioning
+procedures with regards to infringement of the rights in `works of folklore'.
+
 ** Give an indication of what is the position in developing countries. (10)
 
-* Question 4 [25]
+A number of developing nations hold a number of standing technical cooperation
+programs with WIPO cite:wto17_trips and are treaty signatories to the Paris
+Convention cite:wipo83_paris_conve_protect_ip. As per the provisions of [article
+15(4)(a-b)]cite:wipo86_berne, although not explicitly limited to, nor directly
+referring to folklore, member Union countries may use their respective national
+legislation to designate a competent authority to represent, protect and enforce
+the rights of an unknown, but assumed to be a domiciled in said country, author
+of an unpublished work. After which, that member of the Union must by way of
+written declaration notify the WIPO Director General of said details, who in
+turn will communicate the details of the declaration to all other countries of
+the Union, as per the introductory observations of
+cite:wipo85_model_provi_national_laws_folklore.\\
 
-Identify the issues relating to the protection of ethnobotanical knowledge. In your answer refer to the following:
+In 1980 a working group was established between WIPO and UNESCO, where a study
+for the draft model provisions for national laws on the protection of creations
+of folklore were undertaken. In 1982 the Directors General of UNESCO and WIPO
+convened a Committee of Governmental Experts on the Intellectual Property
+Aspects of the Protection of Expressions of Folklore, where the /`Model Provisions for National Laws on the Protection of Expressions of Folklore
+Against Illicit Exploitation and Other Prejudicial Actions/' were adopted.
+Moreover these provisions were designed in such a way as to be adaptable to
+appropriate national conditions, with the primary objective of protecting
+against the abuse [section 1]cite:wipo85_model_provi_national_laws_folklore, of
+expressions of folklore whilst also encouraging it's further development and
+dissemination, as per the introductory observations of
+cite:wipo85_model_provi_national_laws_folklore.\\
+
+[Section 2]cite:wipo85_model_provi_national_laws_folklore articulates the
+expressions of folklore protected under these Model Provisions, as
+/``productions consisting of characteristic elements of the traditional artistic
+heritage developed and maintain by a community''/, including verbal, musical,
+physically demonstrative and tangible expressions. [Sections 3 and
+4]cite:wipo85_model_provi_national_laws_folklore deal with the authorized
+utilization and corresponding exceptions respectively. Permission from a
+competent authority is required for: any publication, reproduction or any
+distribution of copies of [section
+3(i)]cite:wipo85_model_provi_national_laws_folklore; or any public recitation,
+performance or transmission [section
+3(ii)]cite:wipo85_model_provi_national_laws_folklore of expressions of folklore.
+With the exception of utilization that is educational [section
+4.1(i)]cite:wipo85_model_provi_national_laws_folklore; an illustration
+consistent with fair practice [section
+4.1(ii)]cite:wipo85_model_provi_national_laws_folklore; borrowed and re-used in
+the creation of an original work of an author(s) [section
+4.1(iii)]cite:wipo85_model_provi_national_laws_folklore; or where the
+utilization is incidental [section
+4.2]cite:wipo85_model_provi_national_laws_folklore.\\
+
+Utilization of an expression of folklore without either consent from a competent
+authority nor appropriate acknowledgement of source of the author or community
+and/or geographic place from which the work originates [section
+5.1]cite:wipo85_model_provi_national_laws_folklore, constitute offensive
+violations [section 6]cite:wipo85_model_provi_national_laws_folklore which are
+liable to seizure or other actions [section
+7]cite:wipo85_model_provi_national_laws_folklore and other civil remedies such
+as damages [section 8]cite:wipo85_model_provi_national_laws_folklore. Where the
+definition of a `competent or supervisory authority' [section
+9]cite:wipo85_model_provi_national_laws_folklore is left open to the relevant
+member Union country.\\
+
+[Section 10[cite:wipo85_model_provi_national_laws_folklore details the necessary
+procedures required for authorization with respect to utilization of an
+expression of folklore. Such requests should be in writing to the competent
+authority / community concerned [section
+10.1]cite:wipo85_model_provi_national_laws_folklore. Where a fee may be
+collected, as established by the supervisory authority, for the purposes of
+promoting / safeguarding national culture and folklore [section
+10.2]cite:wipo85_model_provi_national_laws_folklore. The Model Provisions also
+accommodate appeals from authorization applicant against decisions made by the
+competent authority [section
+10.3]cite:wipo85_model_provi_national_laws_folklore.\\
+
+As per the provisions of [section
+11]cite:wipo85_model_provi_national_laws_folklore, with respect to matters
+relating to appeals or offenses, the question of jurisdiction is left open and
+to be defined by the relevant member Union country. This vague and opened-ended
+definition in the Model Provisions is indeed problematic and inadequate,
+especially in light of electronic transactions and the nature of potential
+infringements and offenses that span multiple jurisdictions, across a number of
+member Union countries. As per the provisions of [section
+12]cite:wipo85_model_provi_national_laws_folklore the Model Provisions shall in
+no way limit, prejudice nor supersede any protections applicable to expressions
+of folklore, enjoyed under copyright law; industrial property law; laws
+protecting producers, performers and broadcasting organizations; or any other
+laws or international treaties to which the country is a party to. Lastly
+[sections 13 and 14]cite:wipo85_model_provi_national_laws_folklore describe how
+the Model Provisions cannot be interpreted in any way to hinder the use or
+development of expressions of folklore, and where expressions of folklore are
+developed in a foreign country they are subject to reciprocal or international
+treaty based protection.\\
+
+While it is apparent that the Model Provisions provide a robust framework
+enabling Union member countries to enforce protection of their communities'
+expressions of folklore with the freedom and flexibility to be adapted to locale
+specific concessions. There however exists a clear need for the Model Provisions
+to be adapted and updated to cope with the problems facing developing nations
+with respect to traditional knowledge and expressions of folklore associated
+with the digital age.
+
+* Identify the issues relating to the protection of ethno-botanical knowledge. In your answer refer to the following [25]:
 
 ** Protection against exploitation of industrial property. (10)
 
+With respect to the protection of an indigenous peoples ethno-botanical traditional knowledge, a number of inter-governmental organisational
+negotiations with respect to amendments to the TRIPS cite:wto17_trips Agreement
+on Traditional Knowledge have unfortunately collapsed,
+cite:saurombe09_protection_indigenous_trad_knowl_through_ip, and the current
+protection afforded is through [article 27(3)(b)]cite:wto17_trips, where member
+states are empowered to consider protection of traditional knowledge through
+intellectual property systems.\\
+
+With respect to protection against exploitation of intellectual property, at the
+third session of the Standing Committee on the Law of Patents of WIPO, it was
+unsuccessfully proposed that a notification requirement be established. In that
+where the subject matter of a patent application is based on the genetic
+resources forming part of the ethno-botanical heritage of an indigenous peoples,
+then a copy of the contract affording access to the genetic resources in their
+country of origin should be filed, requiring possible amendments to cite:wipo17_pct_ai,wipo70_pct.\\
+
+Alternatively, were an indigenous peoples endeavors to have their traditional
+ethno-botanical knowledge documented and published as identifiable and
+searchable prior art, then this would bring into dispute the novelty requirement
+of any inventions based on said knowledge. Moreover, this would provide a
+mechanism with which said indigenous peoples could pursue revocations of
+registered patents granted to the predatory enterprises, albeit at substantial
+legal costs. Or perhaps, where such patents are granted, provide co-ownership to
+original inventors / indigenous peoples
+cite:amechi15_leverag_trad_knowl_medicinal.\\
+
+
 ** Protection for exploitation of industrial property. (15)
+
+*** Patent Law
+
+Indigenous peoples as the rights holders of traditional ethno-botanical
+knowledge may protect such knowledge under the patent system as per the
+provisions of [section 25(1)]cite:rsa78_patents_act within the Republic.
+Provided however that the ethno-botanical knowledge in question is not for any
+variety of animal or plant or any essentially biological process for the
+production of animals of plants, not being a micro-biological process or the
+product of such processes as per [section 25(4)(b)]cite:rsa78_patents_act. This
+industrial property system however, presents a significant basic problem in that
+emphasis is given to the `active ingredients' which have undergone expensive
+isolation and testing cite:simelane09_african_trad_knowl_sys_biodiv_manag.
+
+*** Unfair Competition in respect of trade secrets
+
+Indigenous peoples must show that the information relating to their traditional
+ethno-botanical knowledge is:
+- *Confidential:* The knowledge _discovered_ by the indigenous peoples
+  constitutes information that was neither public knowledge nor released in the
+  public domain.
+- Has *trade value*: There exists a _market_ interested in the traditional
+  ethno-botanical knowledge of the indigenous peoples.
+
+There are a number of examples in South African case law that have qualified for
+the protection of secret information, specifically in regards to a manufacturing
+process /for example Harvey Tiling Co (Pty) Ltd v Rodomac (Pty) Ltd & Another
+1977 (1) SA 316 (T)/. Another example that was successfully tried as a matter
+for the protection of secret information, was
+citetitle:dijkhorst81_atlas_v_pikkewyn, cite:dijkhorst81_atlas_v_pikkewyn, where
+judge Dijkhorst was famously quoted that this branch of law was designed to
+/``address the schemes of geniuses bent upon reaping what they have not sown.''/
+One last successful example which qualified for the protection of secret
+information was citetitle:diemont72_stellwinetrust_v_oudemeester
+cite:diemont72_stellwinetrust_v_oudemeester, where Judge Diemont stipulated that
+one is acting unlawfully and dishonestly when he `filches' information from a
+competitor, devised through the skill and industry of that competitor for his
+own profit.\\
+
+Although cite:wipo83_paris_conve_protect_ip does not provide and substantive
+treatment for secret information with regards to unfair competition, pertinent
+provisions are accommodated within [article 39(1)]cite:wto17_trips through the
+stipulation [article 10^{textnormal{bis}}]cite:wipo83_paris_conve_protect_ip.
+Moreover [article 39(2)]cite:wto17_trips provides the framework to prevent
+unlawful competition through the use of secret information by, either being used
+by, disclosed to or acquired by others without their consent in a manner
+contrary to honest practices, provided:
+- The information is *indeed secret and not generally know*, as per [article
+  6(i)]cite:wipo96_model_provi_unfair_comp and [article
+  39(2)(a)]cite:wto17_trips.
+- The information must have *commercial value*, as per [article
+  6(ii)]cite:wipo96_model_provi_unfair_comp and [article
+  39(2)(b)]cite:wto17_trips.
+- Lastly, as per [article 6(iii)]cite:wipo96_model_provi_unfair_comp [article
+  39(2)(c)]cite:wto17_trips, the applicant was required to *keep the information
+  secret* subject to reasonable circumstances.
+
+Within the context of secret information as it pertains to unlawful competition,
+the internation instruments corroborate South African case law, for the most
+part. Where they may be perceived to perhaps deviate very slightly, is that the
+intentional instruments set the onus on the plaintiff, which in this instance
+would be the indigenous people, to ensure that he has provided adequate
+safeguards in ensuring that their secret information is indeed kept secret.
+
+*** Transfer of technology, licenses  and compensatory liability
+
+Lastly, it'll be briefly mentioned that indigenous people may as per the
+provisions of [section 53]cite:rsa78_patents_act within the Republic, or those
+of [article 28.2]cite:wto17_trips assign, transfer by success and conclude
+licensing contracts with respect of their traditional ethno-botanical knowledge.
+Where as per the provisions of [section 65]cite:rsa78_patents_act, they could
+seek relief in the form of an interdict or damages against an enterprise
+exploiting their traditional ethno-botanical knowledge.
 
 * Bibliography                                                       :ignore:
 \printbibliography
