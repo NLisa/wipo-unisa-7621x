@@ -1,4 +1,4 @@
-#+TITLE: Bachelor of Commerce
+#+TITLE: Bachelor of Laws
 #+SUBTITLE: in Accounting and Economics with Law
 * LaTeX Preamble                                                     :ignore:
 #+LATEX_HEADER: \usepackage[backend=bibtex, style=ieee]{biblatex}
@@ -13,7 +13,9 @@
 #+LATEX_HEADER: \AtEveryCitekey{\ifuseauthor{}{\clearname{author}}}
 #+LATEX_HEADER: \AtEveryBibitem{\ifuseauthor{}{\clearname{author}}}
 
-* BUSY [#A] WIPO-UNISA Intellectual Property Specialization Programme :ip:law:
+* DONE [#A] WIPO-UNISA Intellectual Property Specialization Programme :ip:law:
+  CLOSED: [2018-10-25 Thu 13:03]
+  - State "DONE"       from "BUSY"       [2018-10-25 Thu 13:03]
   - State "BUSY"       from              [2017-03-13 Mon 17:20]
 ** DONE [#A] IPSP01X - Essential Copyright Law            :copyright:copy:
    CLOSED: [2017-08-11 Fri 15:15]
@@ -73,20 +75,31 @@
    CLOSED: [2017-12-10 Sun 09:30]
    - State "DONE"       from "BUSY"       [2017-12-10 Sun 09:30]
    - State "BUSY"       from "TODO"       [2017-08-11 Fri 15:15]
-** BUSY [#A] IPSP055 - Essential Indusctrial Design Law               :idlaw:
+** DONE [#A] IPSP055 - Essential Indusctrial Design Law               :idlaw:
+   CLOSED: [2018-10-25 Thu 13:03]
+   - State "DONE"       from "BUSY"       [2018-10-25 Thu 13:03]
    - State "BUSY"       from "TODO"       [2018-08-27 Mon 15:12]
-** BUSY [#A] IPSP066 - Internet Aspects of Copyright and Trademarks
+** DONE [#A] IPSP066 - Internet Aspects of Copyright and Trademarks
+   CLOSED: [2018-10-25 Thu 13:03]
+   - State "DONE"       from "BUSY"       [2018-10-25 Thu 13:03]
    - State "BUSY"       from "TODO"       [2018-08-27 Mon 15:12]
-** BUSY [#A] IPSP078 - Legal Aspects of Electronic Commerce
+** DONE [#A] IPSP078 - Legal Aspects of Electronic Commerce
+   CLOSED: [2018-10-25 Thu 13:03]
+   - State "DONE"       from "BUSY"       [2018-10-25 Thu 13:03]
    - State "BUSY"       from "TODO"       [2018-08-27 Mon 15:12]
-*** BUSY Reference Tests
+*** DONE Reference Tests
+    CLOSED: [2018-10-25 Thu 13:04]
+    - State "DONE"       from "BUSY"       [2018-10-25 Thu 13:04]
     - State "BUSY"       from              [2018-08-27 Mon 15:12]
 
 
 
-** BUSY [#A] IPSP098 - Traditional Knowledge and Biodiversity
+** DONE [#A] IPSP098 - Traditional Knowledge and Biodiversity
+   CLOSED: [2018-10-25 Thu 13:03]
+   - State "DONE"       from "BUSY"       [2018-10-25 Thu 13:03]
    - State "BUSY"       from "TODO"       [2018-08-27 Mon 15:12]
-* TODO [#C] Part-Time LLB / BCOM				       :wits:
-  BCom Accounting and Economics with Law (2019 - 2023)
+* TODO [#A] Part-Time LLB (3 Year)                                     :wits:
+  LLB and Tax (2020 - 2022)
+* TODO [#B] LLM Tax, E-Commerce, Software Patents
 * Bibliography                                                       :ignore:
 \printbibliography
